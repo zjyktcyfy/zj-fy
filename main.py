@@ -115,10 +115,10 @@ def updateChannelUrlsM3U(channels, template_channels):
             if announcement['name'] is None:
                 announcement['name'] = current_date
 
-    with open("all.m3u", "w", encoding="utf-8") as f_m3u:
+    with open("jmd.m3u", "w", encoding="utf-8") as f_m3u:
         f_m3u.write(f"""#EXTM3U x-tvg-url={",".join(f'"{epg_url}"' for epg_url in config.epg_urls)}\n""")
 
-        with open("all.txt", "w", encoding="utf-8") as f_txt:
+        with open("jmd.txt", "w", encoding="utf-8") as f_txt:
             for group in config.announcements:
                 f_txt.write(f"{group['channel']},#genre#\n")
                 for announcement in group['entries']:
@@ -151,7 +151,7 @@ def updateChannelUrlsM3U(channels, template_channels):
 
                                 new_url = f"{base_url}{url_suffix}"
 
-                                f_m3u.write(f"#EXTINF:-1 tvg-id=\"{index}\" tvg-name=\"{channel_name}\" tvg-logo=\"https://live1.yangfeiyue.dpdns.org/tv/{channel_name}.png\" group-title=\"{category}\",{channel_name}\n")
+                                f_m3u.write(f"#EXTINF:-1 tvg-id=\"{index}\" tvg-name=\"{channel_name}\" tvg-logo=\"https://live-1.yangfeiyue.dpdns.org/tv/{channel_name}.png\" group-title=\"{category}\",{channel_name}\n")
                                 f_m3u.write(new_url + "\n")
                                 f_txt.write(f"{channel_name},{new_url}\n")
 

@@ -1,46 +1,46 @@
-2025-06-11 02:52:50,460 - INFO - url: https://zjj.yangfeiyue.dpdns.org/txt/Zhejiang_dianxin.txt 获取成功，判断为m3u格式
-2025-06-11 02:52:50,463 - INFO - url: https://zjj.yangfeiyue.dpdns.org/txt/Zhejiang_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-06-11 02:52:50,609 - INFO - url: https://shh.yangfeiyue.dpdns.org/txt/Shanghai_dianxin.txt 获取成功，判断为m3u格式
-2025-06-11 02:52:50,612 - INFO - url: https://shh.yangfeiyue.dpdns.org/txt/Shanghai_dianxin.txt 爬取成功✅，包含频道分类: 央视高清, 央视频道, 卫视高清, 数字频道
-2025-06-11 02:52:56,106 - INFO - url: https://gdd.yangfeiyue.dpdns.org/txt/Guangdong_dianxin.txt 获取成功，判断为m3u格式
-2025-06-11 02:52:56,110 - INFO - url: https://gdd.yangfeiyue.dpdns.org/txt/Guangdong_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-06-11 02:52:56,230 - INFO - url: https://bjj.yangfeiyue.dpdns.org/txt/Beijing_liantong.txt 获取成功，判断为m3u格式
-2025-06-11 02:52:56,232 - INFO - url: https://bjj.yangfeiyue.dpdns.org/txt/Beijing_liantong.txt 爬取成功✅，包含频道分类: 央视高清, 本地高清, 卫视高清
-2025-06-11 02:52:56,744 - INFO - url: https://tjj.yangfeiyue.dpdns.org/txt/Tianjin_liantong.txt 获取成功，判断为m3u格式
-2025-06-11 02:52:56,745 - INFO - url: https://tjj.yangfeiyue.dpdns.org/txt/Tianjin_liantong.txt 爬取成功✅，包含频道分类: 央视高清, 卫视频道
-2025-06-11 02:52:57,452 - INFO - url: https://jss.yangfeiyue.dpdns.org/txt/Jiangsu_dianxin.txt 获取成功，判断为m3u格式
-2025-06-11 02:52:57,453 - INFO - url: https://jss.yangfeiyue.dpdns.org/txt/Jiangsu_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-06-11 02:52:57,560 - INFO - url: https://cqq.yangfeiyue.dpdns.org/txt/Chongqing_liantong.txt 获取成功，判断为m3u格式
-2025-06-11 02:52:57,561 - INFO - url: https://cqq.yangfeiyue.dpdns.org/txt/Chongqing_liantong.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-06-11 02:52:57,702 - INFO - url: https://ssx.yangfeiyue.dpdns.org/txt/Shaanxi_dianxin.txt 获取成功，判断为m3u格式
-2025-06-11 02:52:57,705 - INFO - url: https://ssx.yangfeiyue.dpdns.org/txt/Shaanxi_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-06-11 02:52:57,829 - INFO - url: https://jxx.yangfeiyue.dpdns.org/txt/Jiangxi_dianxin.txt 获取成功，判断为m3u格式
-2025-06-11 02:52:57,830 - INFO - url: https://jxx.yangfeiyue.dpdns.org/txt/Jiangxi_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-06-11 02:52:58,333 - INFO - url: https://fjj.yangfeiyue.dpdns.org/txt/Fujian_dianxin.txt 获取成功，判断为m3u格式
-2025-06-11 02:52:58,334 - INFO - url: https://fjj.yangfeiyue.dpdns.org/txt/Fujian_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-06-11 02:52:58,500 - INFO - url: https://ahh.yangfeiyue.dpdns.org/txt/Anhui_dianxin.txt 获取成功，判断为m3u格式
-2025-06-11 02:52:58,503 - INFO - url: https://ahh.yangfeiyue.dpdns.org/txt/Anhui_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-06-11 02:52:59,026 - INFO - url: https://hnn.yangfeiyue.dpdns.org/txt/Hunan_dianxin.txt 获取成功，判断为m3u格式
-2025-06-11 02:52:59,028 - INFO - url: https://hnn.yangfeiyue.dpdns.org/txt/Hunan_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-06-11 02:52:59,545 - INFO - url: https://scc.yangfeiyue.dpdns.org/txt/Sichuan_dianxin.txt 获取成功，判断为m3u格式
-2025-06-11 02:52:59,548 - INFO - url: https://scc.yangfeiyue.dpdns.org/txt/Sichuan_dianxin.txt 爬取成功✅，包含频道分类: 本地高清, 卫视高清, 电影, 影院高清
-2025-06-11 02:52:59,685 - INFO - url: https://gxx.yangfeiyue.dpdns.org/txt/Guangxi_dianxin.txt 获取成功，判断为m3u格式
-2025-06-11 02:52:59,687 - INFO - url: https://gxx.yangfeiyue.dpdns.org/txt/Guangxi_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-06-11 02:53:00,241 - INFO - url: https://sdd.yangfeiyue.dpdns.org/txt/Shandong_dianxin.txt 获取成功，判断为m3u格式
-2025-06-11 02:53:00,245 - INFO - url: https://sdd.yangfeiyue.dpdns.org/txt/Shandong_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-06-11 02:53:00,384 - INFO - url: https://hbb.yangfeiyue.dpdns.org/txt/Hubei_dianxin.txt 获取成功，判断为m3u格式
-2025-06-11 02:53:00,385 - INFO - url: https://hbb.yangfeiyue.dpdns.org/txt/Hubei_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-06-11 02:53:00,526 - INFO - url: https://heeb.yangfeiyue.dpdns.org/txt/Hebei_liantong.txt 获取成功，判断为m3u格式
-2025-06-11 02:53:00,528 - INFO - url: https://heeb.yangfeiyue.dpdns.org/txt/Hebei_liantong.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-06-11 02:53:00,666 - INFO - url: https://sxx.yangfeiyue.dpdns.org/txt/Shanxi_liantong.txt 获取成功，判断为m3u格式
-2025-06-11 02:53:00,667 - INFO - url: https://sxx.yangfeiyue.dpdns.org/txt/Shanxi_liantong.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-06-11 02:53:00,797 - INFO - url: https://hhn.yangfeiyue.dpdns.org/txt/Henan_dianxin.txt 获取成功，判断为m3u格式
-2025-06-11 02:53:00,800 - INFO - url: https://hhn.yangfeiyue.dpdns.org/txt/Henan_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清, 央视高清, 郑州新闻, 郑州商都, 郑州文体, 郑州戏曲, 郑州妇女, 郑州生活
-2025-06-11 02:53:00,905 - INFO - url: https://lnn.yangfeiyue.dpdns.org/txt/Liaoning_liantong.txt 获取成功，判断为m3u格式
-2025-06-11 02:53:00,906 - INFO - url: https://lnn.yangfeiyue.dpdns.org/txt/Liaoning_liantong.txt 爬取成功✅，包含频道分类: 央视高清, 卫视频道
-2025-06-11 02:53:01,070 - INFO - url: https://hljj.yangfeiyue.dpdns.org/txt/Heilongjiang_liantong.txt 获取成功，判断为m3u格式
-2025-06-11 02:53:01,071 - INFO - url: https://hljj.yangfeiyue.dpdns.org/txt/Heilongjiang_liantong.txt 爬取成功✅，包含频道分类: 央视高清
-2025-06-11 02:53:01,202 - INFO - url: https://ggd.yangfeiyue.dpdns.org/txt/Guang_dian.txt 获取成功，判断为m3u格式
-2025-06-11 02:53:01,203 - INFO - url: https://ggd.yangfeiyue.dpdns.org/txt/Guang_dian.txt 爬取成功✅，包含频道分类: 卫视高清
-2025-06-11 02:53:01,314 - INFO - url: https://live-1.yangfeiyue.dpdns.org/txt/ZJYD.m3u 获取成功，判断为txt格式
-2025-06-11 02:53:01,314 - INFO - url: https://live-1.yangfeiyue.dpdns.org/txt/ZJYD.m3u 爬取成功✅，包含频道分类: ZJYD
+2025-06-11 04:39:08,030 - INFO - url: https://zjj.yangfeiyue.dpdns.org/txt/Zhejiang_dianxin.txt 获取成功，判断为m3u格式
+2025-06-11 04:39:08,033 - INFO - url: https://zjj.yangfeiyue.dpdns.org/txt/Zhejiang_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-06-11 04:39:08,431 - INFO - url: https://shh.yangfeiyue.dpdns.org/txt/Shanghai_dianxin.txt 获取成功，判断为m3u格式
+2025-06-11 04:39:08,434 - INFO - url: https://shh.yangfeiyue.dpdns.org/txt/Shanghai_dianxin.txt 爬取成功✅，包含频道分类: 央视高清, 央视频道, 卫视高清, 数字频道
+2025-06-11 04:39:08,635 - INFO - url: https://gdd.yangfeiyue.dpdns.org/txt/Guangdong_dianxin.txt 获取成功，判断为m3u格式
+2025-06-11 04:39:08,638 - INFO - url: https://gdd.yangfeiyue.dpdns.org/txt/Guangdong_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-06-11 04:39:08,824 - INFO - url: https://bjj.yangfeiyue.dpdns.org/txt/Beijing_liantong.txt 获取成功，判断为m3u格式
+2025-06-11 04:39:08,826 - INFO - url: https://bjj.yangfeiyue.dpdns.org/txt/Beijing_liantong.txt 爬取成功✅，包含频道分类: 央视高清, 本地高清, 卫视高清
+2025-06-11 04:39:09,020 - INFO - url: https://tjj.yangfeiyue.dpdns.org/txt/Tianjin_liantong.txt 获取成功，判断为m3u格式
+2025-06-11 04:39:09,021 - INFO - url: https://tjj.yangfeiyue.dpdns.org/txt/Tianjin_liantong.txt 爬取成功✅，包含频道分类: 央视高清, 卫视频道
+2025-06-11 04:39:09,449 - INFO - url: https://jss.yangfeiyue.dpdns.org/txt/Jiangsu_dianxin.txt 获取成功，判断为m3u格式
+2025-06-11 04:39:09,450 - INFO - url: https://jss.yangfeiyue.dpdns.org/txt/Jiangsu_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-06-11 04:39:09,851 - INFO - url: https://cqq.yangfeiyue.dpdns.org/txt/Chongqing_liantong.txt 获取成功，判断为m3u格式
+2025-06-11 04:39:09,852 - INFO - url: https://cqq.yangfeiyue.dpdns.org/txt/Chongqing_liantong.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-06-11 04:39:10,256 - INFO - url: https://ssx.yangfeiyue.dpdns.org/txt/Shaanxi_dianxin.txt 获取成功，判断为m3u格式
+2025-06-11 04:39:10,258 - INFO - url: https://ssx.yangfeiyue.dpdns.org/txt/Shaanxi_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-06-11 04:39:10,439 - INFO - url: https://jxx.yangfeiyue.dpdns.org/txt/Jiangxi_dianxin.txt 获取成功，判断为m3u格式
+2025-06-11 04:39:10,440 - INFO - url: https://jxx.yangfeiyue.dpdns.org/txt/Jiangxi_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-06-11 04:39:10,831 - INFO - url: https://fjj.yangfeiyue.dpdns.org/txt/Fujian_dianxin.txt 获取成功，判断为m3u格式
+2025-06-11 04:39:10,832 - INFO - url: https://fjj.yangfeiyue.dpdns.org/txt/Fujian_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-06-11 04:39:11,021 - INFO - url: https://ahh.yangfeiyue.dpdns.org/txt/Anhui_dianxin.txt 获取成功，判断为m3u格式
+2025-06-11 04:39:11,023 - INFO - url: https://ahh.yangfeiyue.dpdns.org/txt/Anhui_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-06-11 04:39:11,180 - INFO - url: https://hnn.yangfeiyue.dpdns.org/txt/Hunan_dianxin.txt 获取成功，判断为m3u格式
+2025-06-11 04:39:11,182 - INFO - url: https://hnn.yangfeiyue.dpdns.org/txt/Hunan_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-06-11 04:39:11,332 - INFO - url: https://scc.yangfeiyue.dpdns.org/txt/Sichuan_dianxin.txt 获取成功，判断为m3u格式
+2025-06-11 04:39:11,337 - INFO - url: https://scc.yangfeiyue.dpdns.org/txt/Sichuan_dianxin.txt 爬取成功✅，包含频道分类: 本地高清, 卫视高清, 电影, 影院高清
+2025-06-11 04:39:11,750 - INFO - url: https://gxx.yangfeiyue.dpdns.org/txt/Guangxi_dianxin.txt 获取成功，判断为m3u格式
+2025-06-11 04:39:11,752 - INFO - url: https://gxx.yangfeiyue.dpdns.org/txt/Guangxi_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-06-11 04:39:11,923 - INFO - url: https://sdd.yangfeiyue.dpdns.org/txt/Shandong_dianxin.txt 获取成功，判断为m3u格式
+2025-06-11 04:39:11,927 - INFO - url: https://sdd.yangfeiyue.dpdns.org/txt/Shandong_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-06-11 04:39:12,137 - INFO - url: https://hbb.yangfeiyue.dpdns.org/txt/Hubei_dianxin.txt 获取成功，判断为m3u格式
+2025-06-11 04:39:12,138 - INFO - url: https://hbb.yangfeiyue.dpdns.org/txt/Hubei_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-06-11 04:39:12,353 - INFO - url: https://heeb.yangfeiyue.dpdns.org/txt/Hebei_liantong.txt 获取成功，判断为m3u格式
+2025-06-11 04:39:12,355 - INFO - url: https://heeb.yangfeiyue.dpdns.org/txt/Hebei_liantong.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-06-11 04:39:12,530 - INFO - url: https://sxx.yangfeiyue.dpdns.org/txt/Shanxi_liantong.txt 获取成功，判断为m3u格式
+2025-06-11 04:39:12,530 - INFO - url: https://sxx.yangfeiyue.dpdns.org/txt/Shanxi_liantong.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-06-11 04:39:12,704 - INFO - url: https://hhn.yangfeiyue.dpdns.org/txt/Henan_dianxin.txt 获取成功，判断为m3u格式
+2025-06-11 04:39:12,707 - INFO - url: https://hhn.yangfeiyue.dpdns.org/txt/Henan_dianxin.txt 爬取成功✅，包含频道分类: 卫视高清, 央视高清, 郑州新闻, 郑州商都, 郑州文体, 郑州戏曲, 郑州妇女, 郑州生活
+2025-06-11 04:39:13,147 - INFO - url: https://lnn.yangfeiyue.dpdns.org/txt/Liaoning_liantong.txt 获取成功，判断为m3u格式
+2025-06-11 04:39:13,148 - INFO - url: https://lnn.yangfeiyue.dpdns.org/txt/Liaoning_liantong.txt 爬取成功✅，包含频道分类: 央视高清, 卫视频道
+2025-06-11 04:39:13,343 - INFO - url: https://hljj.yangfeiyue.dpdns.org/txt/Heilongjiang_liantong.txt 获取成功，判断为m3u格式
+2025-06-11 04:39:13,343 - INFO - url: https://hljj.yangfeiyue.dpdns.org/txt/Heilongjiang_liantong.txt 爬取成功✅，包含频道分类: 央视高清
+2025-06-11 04:39:13,508 - INFO - url: https://ggd.yangfeiyue.dpdns.org/txt/Guang_dian.txt 获取成功，判断为m3u格式
+2025-06-11 04:39:13,508 - INFO - url: https://ggd.yangfeiyue.dpdns.org/txt/Guang_dian.txt 爬取成功✅，包含频道分类: 卫视高清
+2025-06-11 04:39:13,710 - INFO - url: https://live-1.yangfeiyue.dpdns.org/txt/ZJYD.m3u 获取成功，判断为txt格式
+2025-06-11 04:39:13,710 - INFO - url: https://live-1.yangfeiyue.dpdns.org/txt/ZJYD.m3u 爬取成功✅，包含频道分类: ZJYD

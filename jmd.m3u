@@ -14110,63 +14110,133 @@ http://121.29.169.130:7777/rtp/239.253.92.94:8121
 #EXTINF:-1 tvg-id="7" tvg-name="石家庄生活" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄生活.png" group-title="河北联通",石家庄生活
 http://110.231.37.126:9999/rtp/239.253.92.94:8121
 #EXTINF:-1 tvg-id="8" tvg-name="石家庄生活" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄生活.png" group-title="河北联通",石家庄生活
-http://101.74.29.67:8818/rtp/239.253.92.94:8121
+EXTINF:-1 tvg-id="保定新闻综合" tvg-name="保定新闻综合" tvg-logo="https://live.fanmingming.com/tv/保定新闻综合.png" group-title="卫视高清",保定新闻综合
 #EXTINF:-1 tvg-id="9" tvg-name="石家庄生活" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄生活.png" group-title="河北联通",石家庄生活
-http://101.19.8.58:4000/rtp/239.253.92.94:8121
+http://110.231.37.126:9999/rtp/239.253.93.2:6153
 #EXTINF:-1 tvg-id="10" tvg-name="石家庄生活" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄生活.png" group-title="河北联通",石家庄生活
-http://121.29.169.104:2083/rtp/239.253.92.94:8121
+http://101.74.29.67:8818/rtp/239.253.92.94:8121
 #EXTINF:-1 tvg-id="11" tvg-name="石家庄生活" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄生活.png" group-title="河北联通",石家庄生活
-http://101.31.195.128:4022/rtp/239.253.92.94:8121
+http://101.74.29.67:8818/rtp/239.253.93.2:6153
 #EXTINF:-1 tvg-id="12" tvg-name="石家庄生活" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄生活.png" group-title="河北联通",石家庄生活
-http://121.29.169.29:8888/rtp/239.253.92.94:8121
+http://101.19.8.58:4000/rtp/239.253.92.94:8121
 #EXTINF:-1 tvg-id="13" tvg-name="石家庄生活" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄生活.png" group-title="河北联通",石家庄生活
-http://60.3.123.89:7000/rtp/239.253.92.94:8121
+http://101.19.8.58:4000/rtp/239.253.93.2:6153
 #EXTINF:-1 tvg-id="14" tvg-name="石家庄生活" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄生活.png" group-title="河北联通",石家庄生活
-http://110.248.147.36:8888/rtp/239.253.92.94:8121
+http://121.29.169.104:2083/rtp/239.253.92.94:8121
 #EXTINF:-1 tvg-id="15" tvg-name="石家庄生活" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄生活.png" group-title="河北联通",石家庄生活
-http://121.29.215.41:7777/rtp/239.253.92.94:8121
+http://121.29.169.104:2083/rtp/239.253.93.2:6153
 #EXTINF:-1 tvg-id="16" tvg-name="石家庄生活" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄生活.png" group-title="河北联通",石家庄生活
-http://121.29.215.41:8888/rtp/239.253.92.94:8121
+http://101.31.195.128:4022/rtp/239.253.92.94:8121
 #EXTINF:-1 tvg-id="17" tvg-name="石家庄生活" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄生活.png" group-title="河北联通",石家庄生活
-http://121.29.169.176:2083/rtp/239.253.92.94:8121
+http://101.31.195.128:4022/rtp/239.253.93.2:6153
 #EXTINF:-1 tvg-id="18" tvg-name="石家庄生活" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄生活.png" group-title="河北联通",石家庄生活
+http://121.29.169.29:8888/rtp/239.253.92.94:8121
+#EXTINF:-1 tvg-id="19" tvg-name="石家庄生活" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄生活.png" group-title="河北联通",石家庄生活
+http://121.29.169.29:8888/rtp/239.253.93.2:6153
+#EXTINF:-1 tvg-id="20" tvg-name="石家庄生活" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄生活.png" group-title="河北联通",石家庄生活
+http://60.3.123.89:7000/rtp/239.253.92.94:8121
+#EXTINF:-1 tvg-id="21" tvg-name="石家庄生活" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄生活.png" group-title="河北联通",石家庄生活
+http://60.3.123.89:7000/rtp/239.253.93.2:6153
+#EXTINF:-1 tvg-id="22" tvg-name="石家庄生活" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄生活.png" group-title="河北联通",石家庄生活
+http://110.248.147.36:8888/rtp/239.253.92.94:8121
+#EXTINF:-1 tvg-id="23" tvg-name="石家庄生活" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄生活.png" group-title="河北联通",石家庄生活
+http://110.248.147.36:8888/rtp/239.253.93.2:6153
+#EXTINF:-1 tvg-id="24" tvg-name="石家庄生活" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄生活.png" group-title="河北联通",石家庄生活
+http://121.29.215.41:7777/rtp/239.253.92.94:8121
+#EXTINF:-1 tvg-id="25" tvg-name="石家庄生活" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄生活.png" group-title="河北联通",石家庄生活
+http://121.29.215.41:7777/rtp/239.253.93.2:6153
+#EXTINF:-1 tvg-id="26" tvg-name="石家庄生活" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄生活.png" group-title="河北联通",石家庄生活
+http://121.29.215.41:8888/rtp/239.253.92.94:8121
+#EXTINF:-1 tvg-id="27" tvg-name="石家庄生活" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄生活.png" group-title="河北联通",石家庄生活
+http://121.29.215.41:8888/rtp/239.253.93.2:6153
+#EXTINF:-1 tvg-id="28" tvg-name="石家庄生活" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄生活.png" group-title="河北联通",石家庄生活
+http://121.29.169.176:2083/rtp/239.253.92.94:8121
+#EXTINF:-1 tvg-id="29" tvg-name="石家庄生活" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄生活.png" group-title="河北联通",石家庄生活
+http://121.29.169.176:2083/rtp/239.253.93.2:6153
+#EXTINF:-1 tvg-id="30" tvg-name="石家庄生活" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄生活.png" group-title="河北联通",石家庄生活
 http://121.29.169.37:7777/rtp/239.253.92.94:8121
+#EXTINF:-1 tvg-id="31" tvg-name="石家庄生活" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄生活.png" group-title="河北联通",石家庄生活
+http://121.29.169.37:7777/rtp/239.253.93.2:6153
 #EXTINF:-1 tvg-id="1" tvg-name="石家庄都市" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄都市.png" group-title="河北联通",石家庄都市
-http://121.29.169.130:8888/rtp/239.253.92.95:8122
-#EXTINF:-1 tvg-id="2" tvg-name="石家庄都市" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄都市.png" group-title="河北联通",石家庄都市
 http://121.29.84.164:5000/rtp/239.253.92.95:8122
-#EXTINF:-1 tvg-id="3" tvg-name="石家庄都市" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄都市.png" group-title="河北联通",石家庄都市
-http://121.29.111.203:8888/rtp/239.253.92.95:8122
-#EXTINF:-1 tvg-id="4" tvg-name="石家庄都市" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄都市.png" group-title="河北联通",石家庄都市
-http://61.55.208.152:4022/rtp/239.253.92.95:8122
-#EXTINF:-1 tvg-id="5" tvg-name="石家庄都市" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄都市.png" group-title="河北联通",石家庄都市
-http://121.29.169.29:7777/rtp/239.253.92.95:8122
-#EXTINF:-1 tvg-id="6" tvg-name="石家庄都市" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄都市.png" group-title="河北联通",石家庄都市
-http://121.29.169.130:7777/rtp/239.253.92.95:8122
-#EXTINF:-1 tvg-id="7" tvg-name="石家庄都市" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄都市.png" group-title="河北联通",石家庄都市
-http://110.231.37.126:9999/rtp/239.253.92.95:8122
-#EXTINF:-1 tvg-id="8" tvg-name="石家庄都市" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄都市.png" group-title="河北联通",石家庄都市
-http://101.74.29.67:8818/rtp/239.253.92.95:8122
-#EXTINF:-1 tvg-id="9" tvg-name="石家庄都市" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄都市.png" group-title="河北联通",石家庄都市
-http://101.19.8.58:4000/rtp/239.253.92.95:8122
-#EXTINF:-1 tvg-id="10" tvg-name="石家庄都市" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄都市.png" group-title="河北联通",石家庄都市
-http://121.29.169.104:2083/rtp/239.253.92.95:8122
-#EXTINF:-1 tvg-id="11" tvg-name="石家庄都市" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄都市.png" group-title="河北联通",石家庄都市
-http://101.31.195.128:4022/rtp/239.253.92.95:8122
-#EXTINF:-1 tvg-id="12" tvg-name="石家庄都市" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄都市.png" group-title="河北联通",石家庄都市
-http://121.29.169.29:8888/rtp/239.253.92.95:8122
-#EXTINF:-1 tvg-id="13" tvg-name="石家庄都市" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄都市.png" group-title="河北联通",石家庄都市
-http://60.3.123.89:7000/rtp/239.253.92.95:8122
-#EXTINF:-1 tvg-id="14" tvg-name="石家庄都市" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄都市.png" group-title="河北联通",石家庄都市
-http://110.248.147.36:8888/rtp/239.253.92.95:8122
-#EXTINF:-1 tvg-id="15" tvg-name="石家庄都市" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄都市.png" group-title="河北联通",石家庄都市
-http://121.29.215.41:7777/rtp/239.253.92.95:8122
-#EXTINF:-1 tvg-id="16" tvg-name="石家庄都市" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄都市.png" group-title="河北联通",石家庄都市
-http://121.29.215.41:8888/rtp/239.253.92.95:8122
-#EXTINF:-1 tvg-id="17" tvg-name="石家庄都市" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄都市.png" group-title="河北联通",石家庄都市
-http://121.29.169.176:2083/rtp/239.253.92.95:8122
-#EXTINF:-1 tvg-id="18" tvg-name="石家庄都市" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/石家庄都市.png" group-title="河北联通",石家庄都市
-http://121.29.169.37:7777/rtp/239.253.92.95:8122
+#EXTINF:-1 tvg-id="1" tvg-name="保定新闻综合" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/保定新闻综合.png" group-title="河北联通",保定新闻综合
+http://121.29.169.130:8888/rtp/239.253.93.2:6153
+#EXTINF:-1 tvg-id="2" tvg-name="保定新闻综合" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/保定新闻综合.png" group-title="河北联通",保定新闻综合
+http://121.29.111.203:8888/rtp/239.253.93.2:6153
+#EXTINF:-1 tvg-id="3" tvg-name="保定新闻综合" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/保定新闻综合.png" group-title="河北联通",保定新闻综合
+http://61.55.208.152:4022/rtp/239.253.93.2:6153
+#EXTINF:-1 tvg-id="4" tvg-name="保定新闻综合" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/保定新闻综合.png" group-title="河北联通",保定新闻综合
+http://121.29.169.29:7777/rtp/239.253.93.2:6153
+#EXTINF:-1 tvg-id="5" tvg-name="保定新闻综合" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/保定新闻综合.png" group-title="河北联通",保定新闻综合
+http://121.29.169.130:7777/rtp/239.253.93.2:6153
+#EXTINF:-1 tvg-id="1" tvg-name="保定公共" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/保定公共.png" group-title="河北联通",保定公共
+http://121.29.169.130:8888/rtp/239.253.93.4:6157
+#EXTINF:-1 tvg-id="2" tvg-name="保定公共" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/保定公共.png" group-title="河北联通",保定公共
+http://121.29.111.203:8888/rtp/239.253.93.4:6157
+#EXTINF:-1 tvg-id="3" tvg-name="保定公共" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/保定公共.png" group-title="河北联通",保定公共
+http://61.55.208.152:4022/rtp/239.253.93.4:6157
+#EXTINF:-1 tvg-id="4" tvg-name="保定公共" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/保定公共.png" group-title="河北联通",保定公共
+http://121.29.169.29:7777/rtp/239.253.93.4:6157
+#EXTINF:-1 tvg-id="5" tvg-name="保定公共" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/保定公共.png" group-title="河北联通",保定公共
+http://121.29.169.130:7777/rtp/239.253.93.4:6157
+#EXTINF:-1 tvg-id="6" tvg-name="保定公共" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/保定公共.png" group-title="河北联通",保定公共
+http://110.231.37.126:9999/rtp/239.253.93.4:6157
+#EXTINF:-1 tvg-id="7" tvg-name="保定公共" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/保定公共.png" group-title="河北联通",保定公共
+http://101.74.29.67:8818/rtp/239.253.93.4:6157
+#EXTINF:-1 tvg-id="8" tvg-name="保定公共" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/保定公共.png" group-title="河北联通",保定公共
+http://101.19.8.58:4000/rtp/239.253.93.4:6157
+#EXTINF:-1 tvg-id="9" tvg-name="保定公共" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/保定公共.png" group-title="河北联通",保定公共
+http://121.29.169.104:2083/rtp/239.253.93.4:6157
+#EXTINF:-1 tvg-id="10" tvg-name="保定公共" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/保定公共.png" group-title="河北联通",保定公共
+http://101.31.195.128:4022/rtp/239.253.93.4:6157
+#EXTINF:-1 tvg-id="11" tvg-name="保定公共" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/保定公共.png" group-title="河北联通",保定公共
+http://121.29.169.29:8888/rtp/239.253.93.4:6157
+#EXTINF:-1 tvg-id="12" tvg-name="保定公共" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/保定公共.png" group-title="河北联通",保定公共
+http://60.3.123.89:7000/rtp/239.253.93.4:6157
+#EXTINF:-1 tvg-id="13" tvg-name="保定公共" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/保定公共.png" group-title="河北联通",保定公共
+http://110.248.147.36:8888/rtp/239.253.93.4:6157
+#EXTINF:-1 tvg-id="14" tvg-name="保定公共" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/保定公共.png" group-title="河北联通",保定公共
+http://121.29.215.41:7777/rtp/239.253.93.4:6157
+#EXTINF:-1 tvg-id="15" tvg-name="保定公共" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/保定公共.png" group-title="河北联通",保定公共
+http://121.29.215.41:8888/rtp/239.253.93.4:6157
+#EXTINF:-1 tvg-id="16" tvg-name="保定公共" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/保定公共.png" group-title="河北联通",保定公共
+http://121.29.169.176:2083/rtp/239.253.93.4:6157
+#EXTINF:-1 tvg-id="17" tvg-name="保定公共" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/保定公共.png" group-title="河北联通",保定公共
+http://121.29.169.37:7777/rtp/239.253.93.4:6157
+#EXTINF:-1 tvg-id="1" tvg-name="保定生活健康" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/保定生活健康.png" group-title="河北联通",保定生活健康
+http://121.29.169.130:8888/rtp/239.253.93.5:6158
+#EXTINF:-1 tvg-id="2" tvg-name="保定生活健康" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/保定生活健康.png" group-title="河北联通",保定生活健康
+http://121.29.111.203:8888/rtp/239.253.93.5:6158
+#EXTINF:-1 tvg-id="3" tvg-name="保定生活健康" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/保定生活健康.png" group-title="河北联通",保定生活健康
+http://61.55.208.152:4022/rtp/239.253.93.5:6158
+#EXTINF:-1 tvg-id="4" tvg-name="保定生活健康" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/保定生活健康.png" group-title="河北联通",保定生活健康
+http://121.29.169.29:7777/rtp/239.253.93.5:6158
+#EXTINF:-1 tvg-id="5" tvg-name="保定生活健康" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/保定生活健康.png" group-title="河北联通",保定生活健康
+http://121.29.169.130:7777/rtp/239.253.93.5:6158
+#EXTINF:-1 tvg-id="6" tvg-name="保定生活健康" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/保定生活健康.png" group-title="河北联通",保定生活健康
+http://110.231.37.126:9999/rtp/239.253.93.5:6158
+#EXTINF:-1 tvg-id="7" tvg-name="保定生活健康" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/保定生活健康.png" group-title="河北联通",保定生活健康
+http://101.74.29.67:8818/rtp/239.253.93.5:6158
+#EXTINF:-1 tvg-id="8" tvg-name="保定生活健康" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/保定生活健康.png" group-title="河北联通",保定生活健康
+http://101.19.8.58:4000/rtp/239.253.93.5:6158
+#EXTINF:-1 tvg-id="9" tvg-name="保定生活健康" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/保定生活健康.png" group-title="河北联通",保定生活健康
+http://121.29.169.104:2083/rtp/239.253.93.5:6158
+#EXTINF:-1 tvg-id="10" tvg-name="保定生活健康" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/保定生活健康.png" group-title="河北联通",保定生活健康
+http://101.31.195.128:4022/rtp/239.253.93.5:6158
+#EXTINF:-1 tvg-id="11" tvg-name="保定生活健康" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/保定生活健康.png" group-title="河北联通",保定生活健康
+http://121.29.169.29:8888/rtp/239.253.93.5:6158
+#EXTINF:-1 tvg-id="12" tvg-name="保定生活健康" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/保定生活健康.png" group-title="河北联通",保定生活健康
+http://60.3.123.89:7000/rtp/239.253.93.5:6158
+#EXTINF:-1 tvg-id="13" tvg-name="保定生活健康" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/保定生活健康.png" group-title="河北联通",保定生活健康
+http://110.248.147.36:8888/rtp/239.253.93.5:6158
+#EXTINF:-1 tvg-id="14" tvg-name="保定生活健康" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/保定生活健康.png" group-title="河北联通",保定生活健康
+http://121.29.215.41:7777/rtp/239.253.93.5:6158
+#EXTINF:-1 tvg-id="15" tvg-name="保定生活健康" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/保定生活健康.png" group-title="河北联通",保定生活健康
+http://121.29.215.41:8888/rtp/239.253.93.5:6158
+#EXTINF:-1 tvg-id="16" tvg-name="保定生活健康" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/保定生活健康.png" group-title="河北联通",保定生活健康
+http://121.29.169.176:2083/rtp/239.253.93.5:6158
+#EXTINF:-1 tvg-id="17" tvg-name="保定生活健康" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/保定生活健康.png" group-title="河北联通",保定生活健康
+http://121.29.169.37:7777/rtp/239.253.93.5:6158
 #EXTINF:-1 tvg-id="1" tvg-name="秦皇岛新闻综合" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/秦皇岛新闻综合.png" group-title="河北联通",秦皇岛新闻综合
 http://121.29.169.130:8888/rtp/239.253.92.52:6021
 #EXTINF:-1 tvg-id="2" tvg-name="秦皇岛新闻综合" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/秦皇岛新闻综合.png" group-title="河北联通",秦皇岛新闻综合

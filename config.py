@@ -22,6 +22,7 @@ source_urls = [
     "https://hhn.yangfeiyue.dpdns.org/txt/Henan_dianxin.txt",
     "https://lnn.yangfeiyue.dpdns.org/txt/Liaoning_liantong.txt",
     "https://hljj.yangfeiyue.dpdns.org/txt/Heilongjiang_liantong.txt",
+    "https://gzz.yangfeiyue.dpdns.org/txt/Guizhou_dianxin.txt",
     "https://ggd.yangfeiyue.dpdns.org/txt/Guang_dian.txt",
     "https://live-1.yangfeiyue.dpdns.org/txt/ZJYD.m3u",
 ]

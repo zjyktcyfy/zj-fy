@@ -7,7 +7,7 @@ source_urls = [
     "https://bjj.yangfeiyue.dpdns.org/txt/Beijing_liantong.txt",
     "https://tjj.yangfeiyue.dpdns.org/txt/Tianjin_liantong.txt",
     "https://jss.yangfeiyue.dpdns.org/txt/Jiangsu_dianxin.txt",
-    "https://cqq.yangfeiyue.dpdns.org/txt/Chongqing_liantong.txt",
+    "https://cqq.yangfeiyue.dpdns.org/txt/Chongqing_dianxin.txt",
     "https://ssx.yangfeiyue.dpdns.org/txt/Shaanxi_dianxin.txt",
     "https://jxx.yangfeiyue.dpdns.org/txt/Jiangxi_dianxin.txt",
     "https://fjj.yangfeiyue.dpdns.org/txt/Fujian_dianxin.txt",

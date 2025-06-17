@@ -19093,8 +19093,6 @@ http://36.46.98.21:8008/rtp/239.111.205.99:5140
 http://36.46.98.21:8013/rtp/239.111.205.99:5140
 #EXTINF:-1 tvg-id="30" tvg-name="FTV足球频道" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/FTV足球频道.png" group-title="陕西电信",FTV足球频道
 http://36.46.98.21:8017/rtp/239.111.205.99:5140
-#EXTINF:-1 tvg-id="1" tvg-name="东森" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/东森.png" group-title="山东电信",东森
-http://120.84.121.244:808/hls/32/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="山东影视" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/山东影视.png" group-title="山东电信",山东影视
 http://140.250.221.14:4022/rtp/239.21.1.176:5002
 #EXTINF:-1 tvg-id="2" tvg-name="山东影视" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/山东影视.png" group-title="山东电信",山东影视

@@ -25,7 +25,6 @@ source_urls = [
     "https://gzz.yangfeiyue.dpdns.org/txt/Guizhou_dianxin.txt",
     "https://ggd.yangfeiyue.dpdns.org/txt/Guang_dian.txt",
     "https://live-1.yangfeiyue.dpdns.org/txt/ZJYD.m3u",
-    "https://raw.githubusercontent.com/zjyktcyfy/j-m-d/refs/heads/main/all.m3u",
 ]
 
 url_blacklist = [

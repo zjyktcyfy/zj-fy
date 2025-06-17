@@ -19887,8 +19887,8 @@ http://144.255.44.197:4022/rtp/239.21.2.144:5002
 http://144.255.21.128:8123/rtp/239.21.2.144:5002
 #EXTINF:-1 tvg-id="8" tvg-name="任城生活" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/任城生活.png" group-title="山东电信",任城生活
 http://144.123.76.157:8188/rtp/239.21.2.144:5002
-#EXTINF:-1 tvg-id="1" tvg-name="www" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/www.png" group-title="山东电信",www
-http://140.250.221.14:4022/rtp/239.21.2.77:5002
+#EXTINF:-1 tvg-id="1" tvg-name="重温经典影视" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/重温经典影视.png" group-title="山东电信",重温经典影视
+http://140.250.221.14:4022/udp/239.21.2.77:5002
 #EXTINF:-1 tvg-id="1" tvg-name="辽宁北方" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/辽宁北方.png" group-title="辽宁联通",辽宁北方
 http://113.225.163.231:8888/rtp/232.0.0.151:1234
 #EXTINF:-1 tvg-id="2" tvg-name="辽宁北方" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/辽宁北方.png" group-title="辽宁联通",辽宁北方

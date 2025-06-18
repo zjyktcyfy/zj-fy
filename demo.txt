@@ -21,8 +21,8 @@ CCTV17
 CCTV8K
 CCTV4欧洲
 CCTV4美洲
-CETV1
-CETV4
+中国教育1台
+中国教育4台
 兵器科技
 第一剧场
 电视指南

@@ -891,6 +891,66 @@ http://116.237.5.103:8888/rtp/239.45.0.13:5140
 http://218.80.79.227:8880/rtp/239.45.0.13:5140
 #EXTINF:-1 tvg-id="10" tvg-name="上海教育台" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/上海教育台.png" group-title="上海电信",上海教育台
 http://61.173.145.252:4022/rtp/239.45.0.13:5140
+#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="上海电信",早期教育
+http://183.188.159.215:6001/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="2" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="上海电信",早期教育
+http://60.223.72.210:8005/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="3" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="上海电信",早期教育
+http://60.223.72.253:8002/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="4" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="上海电信",早期教育
+http://183.191.137.51:8003/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="5" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="上海电信",早期教育
+http://60.223.72.11:8001/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="6" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="上海电信",早期教育
+http://183.191.137.51:8005/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="7" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="上海电信",早期教育
+http://60.223.72.140:8003/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="8" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="上海电信",早期教育
+http://183.191.137.51:8002/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="9" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="上海电信",早期教育
+http://60.223.72.210:8003/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="10" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="上海电信",早期教育
+http://183.188.159.215:6000/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="11" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="上海电信",早期教育
+http://183.188.197.67:6000/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="12" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="上海电信",早期教育
+http://60.223.72.102:8001/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="13" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="上海电信",早期教育
+http://60.223.72.102:8004/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="14" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="上海电信",早期教育
+http://60.223.72.102:8005/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="15" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="上海电信",早期教育
+http://60.223.72.210:8001/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="16" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="上海电信",早期教育
+http://183.191.137.51:8001/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="17" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="上海电信",早期教育
+http://118.79.7.112:6000/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="18" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="上海电信",早期教育
+http://60.223.72.140:8001/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="19" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="上海电信",早期教育
+http://60.223.72.102:8002/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="20" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="上海电信",早期教育
+http://60.223.72.11:8003/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="21" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="上海电信",早期教育
+http://183.188.197.67:6001/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="22" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="上海电信",早期教育
+http://60.223.72.140:8005/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="23" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="上海电信",早期教育
+http://118.79.7.112:6001/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="24" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="上海电信",早期教育
+http://183.191.137.51:8004/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="25" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="上海电信",早期教育
+http://60.223.72.253:8004/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="26" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="上海电信",早期教育
+http://60.223.72.102:8003/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="27" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="上海电信",早期教育
+http://60.223.72.140:8004/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="28" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="上海电信",早期教育
+http://60.223.72.253:8005/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="29" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="上海电信",早期教育
+http://60.223.72.140:8002/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="30" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="上海电信",早期教育
+http://60.223.72.253:8003/rtp/226.0.2.99:8704
 #EXTINF:-1 tvg-id="1" tvg-name="都市剧场" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/都市剧场.png" group-title="上海电信",都市剧场
 http://222.68.50.228:4022/rtp/239.45.3.136:5140
 #EXTINF:-1 tvg-id="2" tvg-name="都市剧场" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/都市剧场.png" group-title="上海电信",都市剧场
@@ -16535,66 +16595,6 @@ http://60.223.72.253:8005/rtp/226.0.1.84:2002
 http://60.223.72.140:8002/rtp/226.0.1.84:2002
 #EXTINF:-1 tvg-id="30" tvg-name="黄河卫视" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/黄河卫视.png" group-title="山西联通",黄河卫视
 http://60.223.72.253:8003/rtp/226.0.1.84:2002
-#EXTINF:-1 tvg-id="1" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="山西联通",早期教育
-http://183.188.159.215:6001/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="2" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="山西联通",早期教育
-http://60.223.72.210:8005/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="3" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="山西联通",早期教育
-http://60.223.72.253:8002/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="4" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="山西联通",早期教育
-http://183.191.137.51:8003/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="5" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="山西联通",早期教育
-http://60.223.72.11:8001/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="6" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="山西联通",早期教育
-http://183.191.137.51:8005/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="7" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="山西联通",早期教育
-http://60.223.72.140:8003/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="8" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="山西联通",早期教育
-http://183.191.137.51:8002/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="9" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="山西联通",早期教育
-http://60.223.72.210:8003/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="10" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="山西联通",早期教育
-http://183.188.159.215:6000/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="11" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="山西联通",早期教育
-http://183.188.197.67:6000/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="12" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="山西联通",早期教育
-http://60.223.72.102:8001/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="13" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="山西联通",早期教育
-http://60.223.72.102:8004/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="14" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="山西联通",早期教育
-http://60.223.72.102:8005/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="15" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="山西联通",早期教育
-http://60.223.72.210:8001/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="16" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="山西联通",早期教育
-http://183.191.137.51:8001/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="17" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="山西联通",早期教育
-http://118.79.7.112:6000/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="18" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="山西联通",早期教育
-http://60.223.72.140:8001/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="19" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="山西联通",早期教育
-http://60.223.72.102:8002/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="20" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="山西联通",早期教育
-http://60.223.72.11:8003/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="21" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="山西联通",早期教育
-http://183.188.197.67:6001/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="22" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="山西联通",早期教育
-http://60.223.72.140:8005/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="23" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="山西联通",早期教育
-http://118.79.7.112:6001/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="24" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="山西联通",早期教育
-http://183.191.137.51:8004/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="25" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="山西联通",早期教育
-http://60.223.72.253:8004/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="26" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="山西联通",早期教育
-http://60.223.72.102:8003/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="27" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="山西联通",早期教育
-http://60.223.72.140:8004/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="28" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="山西联通",早期教育
-http://60.223.72.253:8005/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="29" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="山西联通",早期教育
-http://60.223.72.140:8002/rtp/226.0.2.99:8704
-#EXTINF:-1 tvg-id="30" tvg-name="早期教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/早期教育.png" group-title="山西联通",早期教育
-http://60.223.72.253:8003/rtp/226.0.2.99:8704
 #EXTINF:-1 tvg-id="1" tvg-name="广西影视" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/广西影视.png" group-title="广西电信",广西影视
 http://222.218.218.167:8188/rtp/239.81.0.250:4056
 #EXTINF:-1 tvg-id="2" tvg-name="广西影视" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/广西影视.png" group-title="广西电信",广西影视

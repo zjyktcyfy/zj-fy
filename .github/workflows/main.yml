@@ -2,7 +2,7 @@ name: Update
 
 on:
   schedule:
-    - cron: '10 01 * * *' # UTC
+    - cron: '10 3 * * *' # UTC
   workflow_dispatch:
     branches:
       - main

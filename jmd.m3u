@@ -17551,22 +17551,6 @@ http://111.224.74.181:4022/rtp/239.254.201.74:6251
 http://111.226.232.182:10010/rtp/239.254.201.74:6251
 #EXTINF:-1 tvg-id="8" tvg-name="定州综合" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/定州综合.png" group-title="河北电信",定州综合
 http://27.184.65.30:58888/rtp/239.254.201.74:6251
-#EXTINF:-1 tvg-id="1" tvg-name="雄县综合" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/雄县综合.png" group-title="河北电信",雄县综合
-http://27.184.29.189:4022/rtp/239.254.201.94:6254
-#EXTINF:-1 tvg-id="2" tvg-name="雄县综合" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/雄县综合.png" group-title="河北电信",雄县综合
-http://27.184.29.189:12312/rtp/239.254.201.94:6254
-#EXTINF:-1 tvg-id="3" tvg-name="雄县综合" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/雄县综合.png" group-title="河北电信",雄县综合
-http://106.116.241.211:9999/rtp/239.254.201.94:6254
-#EXTINF:-1 tvg-id="4" tvg-name="雄县综合" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/雄县综合.png" group-title="河北电信",雄县综合
-http://106.116.127.78:4022/rtp/239.254.201.94:6254
-#EXTINF:-1 tvg-id="5" tvg-name="雄县综合" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/雄县综合.png" group-title="河北电信",雄县综合
-http://111.227.194.157:4022/rtp/239.254.201.94:6254
-#EXTINF:-1 tvg-id="6" tvg-name="雄县综合" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/雄县综合.png" group-title="河北电信",雄县综合
-http://111.224.74.181:4022/rtp/239.254.201.94:6254
-#EXTINF:-1 tvg-id="7" tvg-name="雄县综合" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/雄县综合.png" group-title="河北电信",雄县综合
-http://111.226.232.182:10010/rtp/239.254.201.94:6254
-#EXTINF:-1 tvg-id="8" tvg-name="雄县综合" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/雄县综合.png" group-title="河北电信",雄县综合
-http://27.184.65.30:58888/rtp/239.254.201.94:6254
 #EXTINF:-1 tvg-id="1" tvg-name="涞源综合" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/涞源综合.png" group-title="河北电信",涞源综合
 http://27.184.29.189:4022/rtp/239.254.200.213:5260
 #EXTINF:-1 tvg-id="2" tvg-name="涞源综合" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/涞源综合.png" group-title="河北电信",涞源综合
@@ -17807,6 +17791,22 @@ http://111.224.74.181:4022/rtp/239.254.201.71:5310
 http://111.226.232.182:10010/rtp/239.254.201.71:5310
 #EXTINF:-1 tvg-id="8" tvg-name="大厂融媒体中心" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/大厂融媒体中心.png" group-title="河北电信",大厂融媒体中心
 http://27.184.65.30:58888/rtp/239.254.201.71:5310
+#EXTINF:-1 tvg-id="1" tvg-name="雄县综合" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/雄县综合.png" group-title="河北电信",雄县综合
+http://27.184.29.189:4022/rtp/239.254.201.94:6254
+#EXTINF:-1 tvg-id="2" tvg-name="雄县综合" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/雄县综合.png" group-title="河北电信",雄县综合
+http://27.184.29.189:12312/rtp/239.254.201.94:6254
+#EXTINF:-1 tvg-id="3" tvg-name="雄县综合" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/雄县综合.png" group-title="河北电信",雄县综合
+http://106.116.241.211:9999/rtp/239.254.201.94:6254
+#EXTINF:-1 tvg-id="4" tvg-name="雄县综合" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/雄县综合.png" group-title="河北电信",雄县综合
+http://106.116.127.78:4022/rtp/239.254.201.94:6254
+#EXTINF:-1 tvg-id="5" tvg-name="雄县综合" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/雄县综合.png" group-title="河北电信",雄县综合
+http://111.227.194.157:4022/rtp/239.254.201.94:6254
+#EXTINF:-1 tvg-id="6" tvg-name="雄县综合" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/雄县综合.png" group-title="河北电信",雄县综合
+http://111.224.74.181:4022/rtp/239.254.201.94:6254
+#EXTINF:-1 tvg-id="7" tvg-name="雄县综合" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/雄县综合.png" group-title="河北电信",雄县综合
+http://111.226.232.182:10010/rtp/239.254.201.94:6254
+#EXTINF:-1 tvg-id="8" tvg-name="雄县综合" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/雄县综合.png" group-title="河北电信",雄县综合
+http://27.184.65.30:58888/rtp/239.254.201.94:6254
 #EXTINF:-1 tvg-id="1" tvg-name="中华美食" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/中华美食.png" group-title="河北电信",中华美食
 http://121.29.169.49:2083/rtp/239.253.93.248:6426
 #EXTINF:-1 tvg-id="2" tvg-name="中华美食" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/中华美食.png" group-title="河北电信",中华美食

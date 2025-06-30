@@ -25267,6 +25267,42 @@ http://220.174.44.195:8888/rtp/239.253.64.119:5140
 http://220.174.46.59:8888/rtp/239.253.64.119:5140
 #EXTINF:-1 tvg-id="10" tvg-name="海南自贸" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/海南自贸.png" group-title="海南电信",海南自贸
 http://119.41.35.122:4000/rtp/239.253.64.119:5140
+#EXTINF:-1 tvg-id="1" tvg-name="宁夏卫视" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/宁夏卫视.png" group-title="宁夏电信",宁夏卫视
+http://124.224.85.108:2000/rtp/239.121.4.94:8538
+#EXTINF:-1 tvg-id="2" tvg-name="宁夏卫视" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/宁夏卫视.png" group-title="宁夏电信",宁夏卫视
+http://106.45.2.51:4000/rtp/239.121.4.94:8538
+#EXTINF:-1 tvg-id="1" tvg-name="宁夏公共" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/宁夏公共.png" group-title="宁夏电信",宁夏公共
+http://124.224.85.108:2000/rtp/239.121.4.97:8556
+#EXTINF:-1 tvg-id="2" tvg-name="宁夏公共" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/宁夏公共.png" group-title="宁夏电信",宁夏公共
+http://106.45.2.51:4000/rtp/239.121.4.97:8556
+#EXTINF:-1 tvg-id="1" tvg-name="宁夏教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/宁夏教育.png" group-title="宁夏电信",宁夏教育
+http://124.224.85.108:2000/rtp/239.121.4.200:9184
+#EXTINF:-1 tvg-id="2" tvg-name="宁夏教育" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/宁夏教育.png" group-title="宁夏电信",宁夏教育
+http://106.45.2.51:4000/rtp/239.121.4.200:9184
+#EXTINF:-1 tvg-id="1" tvg-name="宁夏经济" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/宁夏经济.png" group-title="宁夏电信",宁夏经济
+http://124.224.85.108:2000/rtp/239.121.4.91:8520
+#EXTINF:-1 tvg-id="2" tvg-name="宁夏经济" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/宁夏经济.png" group-title="宁夏电信",宁夏经济
+http://106.45.2.51:4000/rtp/239.121.4.91:8520
+#EXTINF:-1 tvg-id="1" tvg-name="宁夏少儿" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/宁夏少儿.png" group-title="宁夏电信",宁夏少儿
+http://124.224.85.108:2000/rtp/239.121.4.63:8352
+#EXTINF:-1 tvg-id="2" tvg-name="宁夏少儿" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/宁夏少儿.png" group-title="宁夏电信",宁夏少儿
+http://106.45.2.51:4000/rtp/239.121.4.63:8352
+#EXTINF:-1 tvg-id="1" tvg-name="宁夏文旅" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/宁夏文旅.png" group-title="宁夏电信",宁夏文旅
+http://124.224.85.108:2000/rtp/239.121.4.93:8532
+#EXTINF:-1 tvg-id="2" tvg-name="宁夏文旅" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/宁夏文旅.png" group-title="宁夏电信",宁夏文旅
+http://106.45.2.51:4000/rtp/239.121.4.93:8532
+#EXTINF:-1 tvg-id="1" tvg-name="银川公共" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/银川公共.png" group-title="宁夏电信",银川公共
+http://124.224.85.108:2000/rtp/239.121.4.21:8100
+#EXTINF:-1 tvg-id="2" tvg-name="银川公共" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/银川公共.png" group-title="宁夏电信",银川公共
+http://106.45.2.51:4000/rtp/239.121.4.21:8100
+#EXTINF:-1 tvg-id="1" tvg-name="银川生活" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/银川生活.png" group-title="宁夏电信",银川生活
+http://124.224.85.108:2000/rtp/239.121.4.106:8610
+#EXTINF:-1 tvg-id="2" tvg-name="银川生活" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/银川生活.png" group-title="宁夏电信",银川生活
+http://106.45.2.51:4000/rtp/239.121.4.106:8610
+#EXTINF:-1 tvg-id="1" tvg-name="银川文体" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/银川文体.png" group-title="宁夏电信",银川文体
+http://124.224.85.108:2000/rtp/239.121.4.22:8106
+#EXTINF:-1 tvg-id="2" tvg-name="银川文体" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/银川文体.png" group-title="宁夏电信",银川文体
+http://106.45.2.51:4000/rtp/239.121.4.22:8106
 #EXTINF:-1 tvg-id="1" tvg-name="辽宁北方" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/辽宁北方.png" group-title="辽宁联通",辽宁北方
 http://61.176.0.66:40001/rtp/232.0.0.151:1234
 #EXTINF:-1 tvg-id="2" tvg-name="辽宁北方" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/辽宁北方.png" group-title="辽宁联通",辽宁北方

@@ -29481,6 +29481,18 @@ http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/index.m3u8
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="哒啵赛事" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/哒啵赛事.png" group-title="移动TV",哒啵赛事
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="美亚电影" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/美亚电影.png" group-title="移动TV",美亚电影
+https://s2.m16tv.cfd/aktv/hk/AKTV.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="POPC" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/POPC.png" group-title="移动TV",POPC
+https://s2.m16tv.cfd/aktv/popc/AKTV.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="东森电影" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/东森电影.png" group-title="移动TV",东森电影
+https://s2.m16tv.cfd/aktv2/CH-1/AKTV.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="好莱坞电影" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/好莱坞电影.png" group-title="移动TV",好莱坞电影
+https://s2.m16tv.cfd/aktv2/CH-4/AKTV.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="天映新加坡" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/天映新加坡.png" group-title="移动TV",天映新加坡
+https://s2.m16tv.cfd/aktv2/CH-3/AKTV.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="ROCK Action" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/ROCK Action.png" group-title="移动TV",ROCK Action
+https://s2.m16tv.cfd/aktv/rockaction/AKTV.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="绚影4K" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/绚影4K.png" group-title="四川电信",绚影4K
 http://171.213.214.120:8888/rtp/239.93.42.33:5140
 #EXTINF:-1 tvg-id="2" tvg-name="绚影4K" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/绚影4K.png" group-title="四川电信",绚影4K

@@ -775,6 +775,12 @@ NHKWorld
 黑莓电影
 黑莓动画
 哒啵赛事
+美亚电影
+POPC
+东森电影
+好莱坞电影
+天映新加坡
+ROCK Action
 
 四川电信,#genre#
 绚影4K

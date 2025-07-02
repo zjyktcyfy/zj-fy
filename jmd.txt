@@ -14299,7 +14299,7 @@ FTV足球频道,http://1.83.120.242:8888/rtp/239.111.205.99:5140
 POPC,https://s2.m16tv.cfd/aktv/popc/AKTV.m3u8
 东森电影,https://s2.m16tv.cfd/aktv2/CH-1/AKTV.m3u8
 好莱坞电影,https://s2.m16tv.cfd/aktv2/CH-4/AKTV.m3u8
-天映新加坡,https://s2.m16tv.cfd/aktv2/CH-3/AKTV.m3u8
+天映马来西亚,https://s2.m16tv.cfd/aktv2/CH-3/AKTV.m3u8
 ROCK Action,https://s2.m16tv.cfd/aktv/rockaction/AKTV.m3u8
 四川电信,#genre#
 绚影4K,http://171.213.155.135:8188/rtp/239.93.42.33:5140

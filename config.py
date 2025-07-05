@@ -30,7 +30,7 @@ source_urls = [
     "https://gzz.yangfeiyue.dpdns.org/txt/Guizhou_dianxin.txt",
      "https://nxx.yangfeiyue.dpdns.org/txt/Ningxia_dianxin.txt",
     "https://ggd.yangfeiyue.dpdns.org/txt/Guang_dian.txt",
-    "https://live-1.yangfeiyue.dpdns.org/txt/ZJYD.m3u",
+    "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/refs/heads/main/txt/ZJYD.m3u",
 ]
 
 url_blacklist = [

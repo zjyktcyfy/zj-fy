@@ -28,7 +28,7 @@ source_urls = [
     "https://hljj.yangfeiyue.dpdns.org/txt/Heilongjiang_liantong.txt",
     "https://sdd.yangfeiyue.dpdns.org/txt/Shandong_dianxin.txt",
     "https://gzz.yangfeiyue.dpdns.org/txt/Guizhou_dianxin.txt",
-     "https://nxx.yangfeiyue.dpdns.org/txt/Ningxia_dianxin.txt",
+    "https://nxx.yangfeiyue.dpdns.org/txt/Ningxia_dianxin.txt",
     "https://ggd.yangfeiyue.dpdns.org/txt/Guang_dian.txt",
     "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/refs/heads/main/txt/ZJYD.m3u",
 ]

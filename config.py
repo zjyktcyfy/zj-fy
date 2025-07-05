@@ -41,9 +41,9 @@ announcements = [
     {
         "channel": "公告",
         "entries": [
-            {"name": "直播源均来自网络，不得商用，仅供学习交流使用。", "url": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8", "logo": "https://live-1.yangfeiyue.dpdns.org/tv/武术台.png"},
-            {"name": "更新日期", "url": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8", "logo": "https://live-1.yangfeiyue.dpdns.org/tv/武术台.png"},
-            {"name": None, "url": "https://live-auth.51kandianshi.com/szgd/csztv4.m3u8", "logo": "https://live-1.yangfeiyue.dpdns.org/tv/武术台.png"},
+            {"name": "直播源均来自网络，不得商用，仅供学习交流使用。", "url": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8", "logo": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/武术台.png"},
+            {"name": "更新日期", "url": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8", "logo": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/武术台.png"},
+            {"name": None, "url": "https://live-auth.51kandianshi.com/szgd/csztv4.m3u8", "logo": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/武术台.png"},
   ]
     }
 ]

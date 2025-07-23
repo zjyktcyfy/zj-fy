@@ -8887,8 +8887,12 @@ http://60.168.109.225:4000/rtp/238.1.79.59:4608
 http://60.168.245.23:8888/rtp/238.1.79.59:4608
 #EXTINF:-1 tvg-id="67" tvg-name="央视台球" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/央视台球.png" group-title="上海电信",央视台球
 http://36.6.150.47:8888/rtp/238.1.79.59:4608
+#EXTINF:-1 tvg-id="1" tvg-name="Y+" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/Y+.png" group-title="上海电信",Y+
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="1" tvg-name="重温经典" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/重温经典.png" group-title="上海电信",重温经典
 http://119.32.12.12:2901/udp/224.1.100.126:11111
+#EXTINF:-1 tvg-id="2" tvg-name="重温经典" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/重温经典.png" group-title="上海电信",重温经典
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="1" tvg-name="劲爆体育" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/劲爆体育.png" group-title="上海电信",劲爆体育
 http://119.32.12.12:2901/udp/224.1.100.129:11111
 #EXTINF:-1 tvg-id="1" tvg-name="新视觉" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/新视觉.png" group-title="上海电信",新视觉
@@ -42027,26 +42031,46 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="中国功夫" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/中国功夫.png" group-title="移动TV",中国功夫
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="中国功夫" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/中国功夫.png" group-title="移动TV",中国功夫
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236267/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="家庭剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/家庭剧场.png" group-title="移动TV",家庭剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="家庭剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/家庭剧场.png" group-title="移动TV",家庭剧场
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236206/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="精品纪录" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/精品纪录.png" group-title="移动TV",精品纪录
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="精品体育" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/精品体育.png" group-title="移动TV",精品体育
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="精品体育" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/精品体育.png" group-title="移动TV",精品体育
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236300/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="军事评论" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/军事评论.png" group-title="移动TV",军事评论
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="军事评论" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/军事评论.png" group-title="移动TV",军事评论
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236155/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="古装剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/古装剧场.png" group-title="移动TV",古装剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="古装剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/古装剧场.png" group-title="移动TV",古装剧场
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236240/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="动作电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/动作电影.png" group-title="移动TV",动作电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="动作电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/动作电影.png" group-title="移动TV",动作电影
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236183/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="惊悚悬疑" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/惊悚悬疑.png" group-title="移动TV",惊悚悬疑
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="惊悚悬疑" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/惊悚悬疑.png" group-title="移动TV",惊悚悬疑
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236223/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="爱情喜剧" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/爱情喜剧.png" group-title="移动TV",爱情喜剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="爱情喜剧" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/爱情喜剧.png" group-title="移动TV",爱情喜剧
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236179/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="精品大剧" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/精品大剧.png" group-title="移动TV",精品大剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="精品大剧" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/精品大剧.png" group-title="移动TV",精品大剧
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236239/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="金牌综艺" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/金牌综艺.png" group-title="移动TV",金牌综艺
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="金牌综艺" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/金牌综艺.png" group-title="移动TV",金牌综艺
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236282/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="黑莓电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑莓电影.png" group-title="移动TV",黑莓电影
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="黑莓动画" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑莓动画.png" group-title="移动TV",黑莓动画

@@ -792,9 +792,6 @@ POPC
 ROCK Action
 
 四川电信,#genre#
-绚影4K
-中录动漫4K
-亲子趣学4K
 SCTV2
 SCTV3
 SCTV4
@@ -841,6 +838,9 @@ bestv4K测试[5.1环绕声]
 爱宠宠物
 少儿天地
 求索纪录
+绚影4K
+中录动漫4K
+亲子趣学4K
 
 四川移动,#genre#
 甘孜综合

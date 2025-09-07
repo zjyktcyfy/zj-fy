@@ -31,6 +31,7 @@ source_urls = [
     "https://sdddx.yangfeiyue.dpdns.org/txt/Shandong_dianxin.txt",
     "https://gzzdx.yangfeiyue.dpdns.org/txt/Guizhou_dianxin.txt",
     "https://nxxdx.yangfeiyue.dpdns.org/txt/Ningxia_dianxin.txt",
+    "https://ynndx.yangfeiyue.dpdns.org/txt/Yunnan_dianxin.txt",
     "https://ggdd.yangfeiyue.dpdns.org/txt/Guang_dian.txt",
     "https://krrsk.yangfeiyue.dpdns.org/txt/KR_SK.txt",
     "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/refs/heads/main/txt/ZJYD.m3u",
@@ -54,5 +55,6 @@ announcements = [
 epg_urls = [
     "https://assets.live1dnow.com/epg.xml",
 ]
+
 
 

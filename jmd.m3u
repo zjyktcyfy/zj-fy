@@ -25396,204 +25396,220 @@ http://125.34.49.174:7077/rtp/239.2.1.236:2000
 #EXTINF:-1 tvg-id="32" tvg-name="华数4K影视" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/华数4K影视.png" group-title="北京联通",华数4K影视
 http://111.193.146.117:4022/rtp/239.2.1.236:2000
 #EXTINF:-1 tvg-id="1" tvg-name="北京IPTV4K超清" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京IPTV4K超清.png" group-title="北京联通",北京IPTV4K超清
-http://1.203.77.155:8899/rtp/225.1.8.211:8002
+http://120.245.137.136:20146/rtp/228.1.1.123:8001
 #EXTINF:-1 tvg-id="2" tvg-name="北京IPTV4K超清" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京IPTV4K超清.png" group-title="北京联通",北京IPTV4K超清
-http://106.120.14.215:4022/rtp/225.1.8.211:8002
+http://223.72.11.53:8022/rtp/228.1.1.123:8001
 #EXTINF:-1 tvg-id="3" tvg-name="北京IPTV4K超清" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京IPTV4K超清.png" group-title="北京联通",北京IPTV4K超清
-http://115.171.216.92:4000/rtp/225.1.8.211:8002
+http://1.203.77.155:8899/rtp/225.1.8.211:8002
 #EXTINF:-1 tvg-id="4" tvg-name="北京IPTV4K超清" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京IPTV4K超清.png" group-title="北京联通",北京IPTV4K超清
-http://115.171.216.45:4000/rtp/225.1.8.211:8002
+http://106.120.14.215:4022/rtp/225.1.8.211:8002
 #EXTINF:-1 tvg-id="5" tvg-name="北京IPTV4K超清" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京IPTV4K超清.png" group-title="北京联通",北京IPTV4K超清
-http://114.246.181.8:4022/rtp/239.3.1.249:8001
+http://115.171.216.92:4000/rtp/225.1.8.211:8002
 #EXTINF:-1 tvg-id="6" tvg-name="北京IPTV4K超清" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京IPTV4K超清.png" group-title="北京联通",北京IPTV4K超清
-http://221.223.19.96:58888/rtp/239.3.1.249:8001
+http://115.171.216.45:4000/rtp/225.1.8.211:8002
 #EXTINF:-1 tvg-id="7" tvg-name="北京IPTV4K超清" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京IPTV4K超清.png" group-title="北京联通",北京IPTV4K超清
-http://221.220.134.68:9999/rtp/239.3.1.249:8001
+http://114.246.181.8:4022/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="8" tvg-name="北京IPTV4K超清" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京IPTV4K超清.png" group-title="北京联通",北京IPTV4K超清
-http://123.120.4.238:4022/rtp/239.3.1.249:8001
+http://221.223.19.96:58888/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="9" tvg-name="北京IPTV4K超清" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京IPTV4K超清.png" group-title="北京联通",北京IPTV4K超清
-http://123.120.38.166:4022/rtp/239.3.1.249:8001
+http://221.220.134.68:9999/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="10" tvg-name="北京IPTV4K超清" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京IPTV4K超清.png" group-title="北京联通",北京IPTV4K超清
-http://123.118.61.174:8686/rtp/239.3.1.249:8001
+http://123.120.4.238:4022/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="11" tvg-name="北京IPTV4K超清" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京IPTV4K超清.png" group-title="北京联通",北京IPTV4K超清
-http://123.118.230.202:9090/rtp/239.3.1.249:8001
+http://123.120.38.166:4022/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="12" tvg-name="北京IPTV4K超清" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京IPTV4K超清.png" group-title="北京联通",北京IPTV4K超清
-http://123.117.161.44:8118/rtp/239.3.1.249:8001
+http://123.118.61.174:8686/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="13" tvg-name="北京IPTV4K超清" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京IPTV4K超清.png" group-title="北京联通",北京IPTV4K超清
-http://123.112.16.172:4022/rtp/239.3.1.249:8001
+http://123.118.230.202:9090/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="14" tvg-name="北京IPTV4K超清" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京IPTV4K超清.png" group-title="北京联通",北京IPTV4K超清
-http://114.254.87.71:4022/rtp/239.3.1.249:8001
+http://123.117.161.44:8118/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="15" tvg-name="北京IPTV4K超清" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京IPTV4K超清.png" group-title="北京联通",北京IPTV4K超清
-http://114.254.37.115:18888/rtp/239.3.1.249:8001
+http://123.112.16.172:4022/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="16" tvg-name="北京IPTV4K超清" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京IPTV4K超清.png" group-title="北京联通",北京IPTV4K超清
-http://114.240.43.169:8888/rtp/239.3.1.249:8001
+http://114.254.87.71:4022/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="17" tvg-name="北京IPTV4K超清" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京IPTV4K超清.png" group-title="北京联通",北京IPTV4K超清
-http://111.196.2.60:4022/rtp/239.3.1.249:8001
+http://114.254.37.115:18888/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="18" tvg-name="北京IPTV4K超清" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京IPTV4K超清.png" group-title="北京联通",北京IPTV4K超清
-http://111.194.86.106:4022/rtp/239.3.1.249:8001
+http://114.240.43.169:8888/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="19" tvg-name="北京IPTV4K超清" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京IPTV4K超清.png" group-title="北京联通",北京IPTV4K超清
-http://222.130.87.13:4022/rtp/239.3.1.249:8001
+http://111.196.2.60:4022/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="20" tvg-name="北京IPTV4K超清" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京IPTV4K超清.png" group-title="北京联通",北京IPTV4K超清
-http://221.219.180.79:4022/rtp/239.3.1.249:8001
+http://111.194.86.106:4022/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="21" tvg-name="北京IPTV4K超清" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京IPTV4K超清.png" group-title="北京联通",北京IPTV4K超清
-http://114.254.75.109:4022/rtp/239.3.1.249:8001
+http://222.130.87.13:4022/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="22" tvg-name="北京IPTV4K超清" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京IPTV4K超清.png" group-title="北京联通",北京IPTV4K超清
-http://111.199.2.154:8686/rtp/239.3.1.249:8001
+http://221.219.180.79:4022/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="23" tvg-name="北京IPTV4K超清" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京IPTV4K超清.png" group-title="北京联通",北京IPTV4K超清
-http://123.112.215.51:4022/rtp/239.3.1.249:8001
+http://114.254.75.109:4022/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="24" tvg-name="北京IPTV4K超清" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京IPTV4K超清.png" group-title="北京联通",北京IPTV4K超清
-http://123.113.13.75:8012/rtp/239.3.1.249:8001
+http://111.199.2.154:8686/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="25" tvg-name="北京IPTV4K超清" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京IPTV4K超清.png" group-title="北京联通",北京IPTV4K超清
-http://114.249.8.85:4022/rtp/239.3.1.249:8001
+http://123.112.215.51:4022/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="26" tvg-name="北京IPTV4K超清" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京IPTV4K超清.png" group-title="北京联通",北京IPTV4K超清
-http://123.118.57.25:8686/rtp/239.3.1.249:8001
+http://123.113.13.75:8012/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="27" tvg-name="北京IPTV4K超清" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京IPTV4K超清.png" group-title="北京联通",北京IPTV4K超清
-http://114.253.247.122:4022/rtp/239.3.1.249:8001
+http://114.249.8.85:4022/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="28" tvg-name="北京IPTV4K超清" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京IPTV4K超清.png" group-title="北京联通",北京IPTV4K超清
-http://114.254.254.57:4022/rtp/239.3.1.249:8001
+http://123.118.57.25:8686/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="29" tvg-name="北京IPTV4K超清" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京IPTV4K超清.png" group-title="北京联通",北京IPTV4K超清
-http://123.115.115.129:9000/rtp/239.3.1.249:8001
+http://114.253.247.122:4022/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="30" tvg-name="北京IPTV4K超清" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京IPTV4K超清.png" group-title="北京联通",北京IPTV4K超清
-http://111.193.238.217:4022/rtp/239.3.1.249:8001
+http://114.254.254.57:4022/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="31" tvg-name="北京IPTV4K超清" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京IPTV4K超清.png" group-title="北京联通",北京IPTV4K超清
-http://125.34.49.174:7077/rtp/239.3.1.249:8001
+http://123.115.115.129:9000/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="32" tvg-name="北京IPTV4K超清" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京IPTV4K超清.png" group-title="北京联通",北京IPTV4K超清
+http://111.193.238.217:4022/rtp/239.3.1.249:8001
+#EXTINF:-1 tvg-id="33" tvg-name="北京IPTV4K超清" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京IPTV4K超清.png" group-title="北京联通",北京IPTV4K超清
+http://125.34.49.174:7077/rtp/239.3.1.249:8001
+#EXTINF:-1 tvg-id="34" tvg-name="北京IPTV4K超清" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京IPTV4K超清.png" group-title="北京联通",北京IPTV4K超清
 http://111.193.146.117:4022/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="1" tvg-name="重温经典电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/重温经典电影.png" group-title="北京联通",重温经典电影
-http://1.203.77.155:8899/rtp/225.1.8.39:8002
+http://120.245.137.136:20146/rtp/228.1.1.237:8002
 #EXTINF:-1 tvg-id="2" tvg-name="重温经典电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/重温经典电影.png" group-title="北京联通",重温经典电影
-http://106.120.14.215:4022/rtp/225.1.8.39:8002
+http://223.72.11.53:8022/rtp/228.1.1.237:8002
 #EXTINF:-1 tvg-id="3" tvg-name="重温经典电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/重温经典电影.png" group-title="北京联通",重温经典电影
-http://115.171.216.92:4000/rtp/225.1.8.39:8002
+http://1.203.77.155:8899/rtp/225.1.8.39:8002
 #EXTINF:-1 tvg-id="4" tvg-name="重温经典电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/重温经典电影.png" group-title="北京联通",重温经典电影
+http://106.120.14.215:4022/rtp/225.1.8.39:8002
+#EXTINF:-1 tvg-id="5" tvg-name="重温经典电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/重温经典电影.png" group-title="北京联通",重温经典电影
+http://115.171.216.92:4000/rtp/225.1.8.39:8002
+#EXTINF:-1 tvg-id="6" tvg-name="重温经典电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/重温经典电影.png" group-title="北京联通",重温经典电影
 http://115.171.216.45:4000/rtp/225.1.8.39:8002
 #EXTINF:-1 tvg-id="1" tvg-name="北京淘电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘电影.png" group-title="北京联通",北京淘电影
-http://1.203.77.155:8899/rtp/225.1.8.38:8002
+http://120.245.137.136:20146/rtp/228.1.1.124:8001
 #EXTINF:-1 tvg-id="2" tvg-name="北京淘电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘电影.png" group-title="北京联通",北京淘电影
-http://106.120.14.215:4022/rtp/225.1.8.38:8002
+http://223.72.11.53:8022/rtp/228.1.1.124:8001
 #EXTINF:-1 tvg-id="3" tvg-name="北京淘电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘电影.png" group-title="北京联通",北京淘电影
-http://115.171.216.92:4000/rtp/225.1.8.38:8002
+http://1.203.77.155:8899/rtp/225.1.8.38:8002
 #EXTINF:-1 tvg-id="4" tvg-name="北京淘电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘电影.png" group-title="北京联通",北京淘电影
-http://115.171.216.45:4000/rtp/225.1.8.38:8002
+http://106.120.14.215:4022/rtp/225.1.8.38:8002
 #EXTINF:-1 tvg-id="5" tvg-name="北京淘电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘电影.png" group-title="北京联通",北京淘电影
-http://114.246.181.8:4022/rtp/239.3.1.250:8001
+http://115.171.216.92:4000/rtp/225.1.8.38:8002
 #EXTINF:-1 tvg-id="6" tvg-name="北京淘电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘电影.png" group-title="北京联通",北京淘电影
-http://221.223.19.96:58888/rtp/239.3.1.250:8001
+http://115.171.216.45:4000/rtp/225.1.8.38:8002
 #EXTINF:-1 tvg-id="7" tvg-name="北京淘电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘电影.png" group-title="北京联通",北京淘电影
-http://221.220.134.68:9999/rtp/239.3.1.250:8001
+http://114.246.181.8:4022/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="8" tvg-name="北京淘电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘电影.png" group-title="北京联通",北京淘电影
-http://123.120.4.238:4022/rtp/239.3.1.250:8001
+http://221.223.19.96:58888/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="9" tvg-name="北京淘电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘电影.png" group-title="北京联通",北京淘电影
-http://123.120.38.166:4022/rtp/239.3.1.250:8001
+http://221.220.134.68:9999/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="10" tvg-name="北京淘电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘电影.png" group-title="北京联通",北京淘电影
-http://123.118.61.174:8686/rtp/239.3.1.250:8001
+http://123.120.4.238:4022/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="11" tvg-name="北京淘电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘电影.png" group-title="北京联通",北京淘电影
-http://123.118.230.202:9090/rtp/239.3.1.250:8001
+http://123.120.38.166:4022/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="12" tvg-name="北京淘电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘电影.png" group-title="北京联通",北京淘电影
-http://123.117.161.44:8118/rtp/239.3.1.250:8001
+http://123.118.61.174:8686/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="13" tvg-name="北京淘电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘电影.png" group-title="北京联通",北京淘电影
-http://123.112.16.172:4022/rtp/239.3.1.250:8001
+http://123.118.230.202:9090/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="14" tvg-name="北京淘电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘电影.png" group-title="北京联通",北京淘电影
-http://114.254.87.71:4022/rtp/239.3.1.250:8001
+http://123.117.161.44:8118/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="15" tvg-name="北京淘电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘电影.png" group-title="北京联通",北京淘电影
-http://114.254.37.115:18888/rtp/239.3.1.250:8001
+http://123.112.16.172:4022/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="16" tvg-name="北京淘电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘电影.png" group-title="北京联通",北京淘电影
-http://114.240.43.169:8888/rtp/239.3.1.250:8001
+http://114.254.87.71:4022/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="17" tvg-name="北京淘电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘电影.png" group-title="北京联通",北京淘电影
-http://111.196.2.60:4022/rtp/239.3.1.250:8001
+http://114.254.37.115:18888/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="18" tvg-name="北京淘电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘电影.png" group-title="北京联通",北京淘电影
-http://111.194.86.106:4022/rtp/239.3.1.250:8001
+http://114.240.43.169:8888/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="19" tvg-name="北京淘电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘电影.png" group-title="北京联通",北京淘电影
-http://222.130.87.13:4022/rtp/239.3.1.250:8001
+http://111.196.2.60:4022/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="20" tvg-name="北京淘电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘电影.png" group-title="北京联通",北京淘电影
-http://221.219.180.79:4022/rtp/239.3.1.250:8001
+http://111.194.86.106:4022/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="21" tvg-name="北京淘电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘电影.png" group-title="北京联通",北京淘电影
-http://114.254.75.109:4022/rtp/239.3.1.250:8001
+http://222.130.87.13:4022/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="22" tvg-name="北京淘电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘电影.png" group-title="北京联通",北京淘电影
-http://111.199.2.154:8686/rtp/239.3.1.250:8001
+http://221.219.180.79:4022/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="23" tvg-name="北京淘电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘电影.png" group-title="北京联通",北京淘电影
-http://123.112.215.51:4022/rtp/239.3.1.250:8001
+http://114.254.75.109:4022/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="24" tvg-name="北京淘电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘电影.png" group-title="北京联通",北京淘电影
-http://123.113.13.75:8012/rtp/239.3.1.250:8001
+http://111.199.2.154:8686/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="25" tvg-name="北京淘电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘电影.png" group-title="北京联通",北京淘电影
-http://114.249.8.85:4022/rtp/239.3.1.250:8001
+http://123.112.215.51:4022/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="26" tvg-name="北京淘电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘电影.png" group-title="北京联通",北京淘电影
-http://123.118.57.25:8686/rtp/239.3.1.250:8001
+http://123.113.13.75:8012/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="27" tvg-name="北京淘电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘电影.png" group-title="北京联通",北京淘电影
-http://114.253.247.122:4022/rtp/239.3.1.250:8001
+http://114.249.8.85:4022/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="28" tvg-name="北京淘电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘电影.png" group-title="北京联通",北京淘电影
-http://114.254.254.57:4022/rtp/239.3.1.250:8001
+http://123.118.57.25:8686/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="29" tvg-name="北京淘电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘电影.png" group-title="北京联通",北京淘电影
-http://123.115.115.129:9000/rtp/239.3.1.250:8001
+http://114.253.247.122:4022/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="30" tvg-name="北京淘电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘电影.png" group-title="北京联通",北京淘电影
-http://111.193.238.217:4022/rtp/239.3.1.250:8001
+http://114.254.254.57:4022/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="31" tvg-name="北京淘电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘电影.png" group-title="北京联通",北京淘电影
-http://125.34.49.174:7077/rtp/239.3.1.250:8001
+http://123.115.115.129:9000/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="32" tvg-name="北京淘电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘电影.png" group-title="北京联通",北京淘电影
+http://111.193.238.217:4022/rtp/239.3.1.250:8001
+#EXTINF:-1 tvg-id="33" tvg-name="北京淘电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘电影.png" group-title="北京联通",北京淘电影
+http://125.34.49.174:7077/rtp/239.3.1.250:8001
+#EXTINF:-1 tvg-id="34" tvg-name="北京淘电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘电影.png" group-title="北京联通",北京淘电影
 http://111.193.146.117:4022/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="1" tvg-name="北京淘剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘剧场.png" group-title="北京联通",北京淘剧场
-http://1.203.77.155:8899/rtp/225.1.8.37:8002
+http://120.245.137.136:20146/rtp/228.1.1.126:8001
 #EXTINF:-1 tvg-id="2" tvg-name="北京淘剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘剧场.png" group-title="北京联通",北京淘剧场
-http://106.120.14.215:4022/rtp/225.1.8.37:8002
+http://223.72.11.53:8022/rtp/228.1.1.126:8001
 #EXTINF:-1 tvg-id="3" tvg-name="北京淘剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘剧场.png" group-title="北京联通",北京淘剧场
-http://115.171.216.92:4000/rtp/225.1.8.37:8002
+http://1.203.77.155:8899/rtp/225.1.8.37:8002
 #EXTINF:-1 tvg-id="4" tvg-name="北京淘剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘剧场.png" group-title="北京联通",北京淘剧场
-http://115.171.216.45:4000/rtp/225.1.8.37:8002
+http://106.120.14.215:4022/rtp/225.1.8.37:8002
 #EXTINF:-1 tvg-id="5" tvg-name="北京淘剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘剧场.png" group-title="北京联通",北京淘剧场
-http://114.246.181.8:4022/rtp/239.3.1.95:8001
+http://115.171.216.92:4000/rtp/225.1.8.37:8002
 #EXTINF:-1 tvg-id="6" tvg-name="北京淘剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘剧场.png" group-title="北京联通",北京淘剧场
-http://221.223.19.96:58888/rtp/239.3.1.95:8001
+http://115.171.216.45:4000/rtp/225.1.8.37:8002
 #EXTINF:-1 tvg-id="7" tvg-name="北京淘剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘剧场.png" group-title="北京联通",北京淘剧场
-http://221.220.134.68:9999/rtp/239.3.1.95:8001
+http://114.246.181.8:4022/rtp/239.3.1.95:8001
 #EXTINF:-1 tvg-id="8" tvg-name="北京淘剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘剧场.png" group-title="北京联通",北京淘剧场
-http://123.120.4.238:4022/rtp/239.3.1.95:8001
+http://221.223.19.96:58888/rtp/239.3.1.95:8001
 #EXTINF:-1 tvg-id="9" tvg-name="北京淘剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘剧场.png" group-title="北京联通",北京淘剧场
-http://123.120.38.166:4022/rtp/239.3.1.95:8001
+http://221.220.134.68:9999/rtp/239.3.1.95:8001
 #EXTINF:-1 tvg-id="10" tvg-name="北京淘剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘剧场.png" group-title="北京联通",北京淘剧场
-http://123.118.61.174:8686/rtp/239.3.1.95:8001
+http://123.120.4.238:4022/rtp/239.3.1.95:8001
 #EXTINF:-1 tvg-id="11" tvg-name="北京淘剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘剧场.png" group-title="北京联通",北京淘剧场
-http://123.118.230.202:9090/rtp/239.3.1.95:8001
+http://123.120.38.166:4022/rtp/239.3.1.95:8001
 #EXTINF:-1 tvg-id="12" tvg-name="北京淘剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘剧场.png" group-title="北京联通",北京淘剧场
-http://123.117.161.44:8118/rtp/239.3.1.95:8001
+http://123.118.61.174:8686/rtp/239.3.1.95:8001
 #EXTINF:-1 tvg-id="13" tvg-name="北京淘剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘剧场.png" group-title="北京联通",北京淘剧场
-http://123.112.16.172:4022/rtp/239.3.1.95:8001
+http://123.118.230.202:9090/rtp/239.3.1.95:8001
 #EXTINF:-1 tvg-id="14" tvg-name="北京淘剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘剧场.png" group-title="北京联通",北京淘剧场
-http://114.254.87.71:4022/rtp/239.3.1.95:8001
+http://123.117.161.44:8118/rtp/239.3.1.95:8001
 #EXTINF:-1 tvg-id="15" tvg-name="北京淘剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘剧场.png" group-title="北京联通",北京淘剧场
-http://114.254.37.115:18888/rtp/239.3.1.95:8001
+http://123.112.16.172:4022/rtp/239.3.1.95:8001
 #EXTINF:-1 tvg-id="16" tvg-name="北京淘剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘剧场.png" group-title="北京联通",北京淘剧场
-http://114.240.43.169:8888/rtp/239.3.1.95:8001
+http://114.254.87.71:4022/rtp/239.3.1.95:8001
 #EXTINF:-1 tvg-id="17" tvg-name="北京淘剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘剧场.png" group-title="北京联通",北京淘剧场
-http://111.196.2.60:4022/rtp/239.3.1.95:8001
+http://114.254.37.115:18888/rtp/239.3.1.95:8001
 #EXTINF:-1 tvg-id="18" tvg-name="北京淘剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘剧场.png" group-title="北京联通",北京淘剧场
-http://111.194.86.106:4022/rtp/239.3.1.95:8001
+http://114.240.43.169:8888/rtp/239.3.1.95:8001
 #EXTINF:-1 tvg-id="19" tvg-name="北京淘剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘剧场.png" group-title="北京联通",北京淘剧场
-http://222.130.87.13:4022/rtp/239.3.1.95:8001
+http://111.196.2.60:4022/rtp/239.3.1.95:8001
 #EXTINF:-1 tvg-id="20" tvg-name="北京淘剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘剧场.png" group-title="北京联通",北京淘剧场
-http://221.219.180.79:4022/rtp/239.3.1.95:8001
+http://111.194.86.106:4022/rtp/239.3.1.95:8001
 #EXTINF:-1 tvg-id="21" tvg-name="北京淘剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘剧场.png" group-title="北京联通",北京淘剧场
-http://114.254.75.109:4022/rtp/239.3.1.95:8001
+http://222.130.87.13:4022/rtp/239.3.1.95:8001
 #EXTINF:-1 tvg-id="22" tvg-name="北京淘剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘剧场.png" group-title="北京联通",北京淘剧场
-http://111.199.2.154:8686/rtp/239.3.1.95:8001
+http://221.219.180.79:4022/rtp/239.3.1.95:8001
 #EXTINF:-1 tvg-id="23" tvg-name="北京淘剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘剧场.png" group-title="北京联通",北京淘剧场
-http://123.112.215.51:4022/rtp/239.3.1.95:8001
+http://114.254.75.109:4022/rtp/239.3.1.95:8001
 #EXTINF:-1 tvg-id="24" tvg-name="北京淘剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘剧场.png" group-title="北京联通",北京淘剧场
-http://123.113.13.75:8012/rtp/239.3.1.95:8001
+http://111.199.2.154:8686/rtp/239.3.1.95:8001
 #EXTINF:-1 tvg-id="25" tvg-name="北京淘剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘剧场.png" group-title="北京联通",北京淘剧场
-http://114.249.8.85:4022/rtp/239.3.1.95:8001
+http://123.112.215.51:4022/rtp/239.3.1.95:8001
 #EXTINF:-1 tvg-id="26" tvg-name="北京淘剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘剧场.png" group-title="北京联通",北京淘剧场
-http://123.118.57.25:8686/rtp/239.3.1.95:8001
+http://123.113.13.75:8012/rtp/239.3.1.95:8001
 #EXTINF:-1 tvg-id="27" tvg-name="北京淘剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘剧场.png" group-title="北京联通",北京淘剧场
-http://114.253.247.122:4022/rtp/239.3.1.95:8001
+http://114.249.8.85:4022/rtp/239.3.1.95:8001
 #EXTINF:-1 tvg-id="28" tvg-name="北京淘剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘剧场.png" group-title="北京联通",北京淘剧场
-http://114.254.254.57:4022/rtp/239.3.1.95:8001
+http://123.118.57.25:8686/rtp/239.3.1.95:8001
 #EXTINF:-1 tvg-id="29" tvg-name="北京淘剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘剧场.png" group-title="北京联通",北京淘剧场
-http://123.115.115.129:9000/rtp/239.3.1.95:8001
+http://114.253.247.122:4022/rtp/239.3.1.95:8001
 #EXTINF:-1 tvg-id="30" tvg-name="北京淘剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘剧场.png" group-title="北京联通",北京淘剧场
-http://111.193.238.217:4022/rtp/239.3.1.95:8001
+http://114.254.254.57:4022/rtp/239.3.1.95:8001
 #EXTINF:-1 tvg-id="31" tvg-name="北京淘剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘剧场.png" group-title="北京联通",北京淘剧场
-http://125.34.49.174:7077/rtp/239.3.1.95:8001
+http://123.115.115.129:9000/rtp/239.3.1.95:8001
 #EXTINF:-1 tvg-id="32" tvg-name="北京淘剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘剧场.png" group-title="北京联通",北京淘剧场
+http://111.193.238.217:4022/rtp/239.3.1.95:8001
+#EXTINF:-1 tvg-id="33" tvg-name="北京淘剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘剧场.png" group-title="北京联通",北京淘剧场
+http://125.34.49.174:7077/rtp/239.3.1.95:8001
+#EXTINF:-1 tvg-id="34" tvg-name="北京淘剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘剧场.png" group-title="北京联通",北京淘剧场
 http://111.193.146.117:4022/rtp/239.3.1.95:8001
 #EXTINF:-1 tvg-id="1" tvg-name="北京淘精彩" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘精彩.png" group-title="北京联通",北京淘精彩
 http://114.246.181.8:4022/rtp/239.3.1.178:8001
@@ -25652,132 +25668,140 @@ http://125.34.49.174:7077/rtp/239.3.1.178:8001
 #EXTINF:-1 tvg-id="28" tvg-name="北京淘精彩" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘精彩.png" group-title="北京联通",北京淘精彩
 http://111.193.146.117:4022/rtp/239.3.1.178:8001
 #EXTINF:-1 tvg-id="1" tvg-name="北京淘娱乐" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘娱乐.png" group-title="北京联通",北京淘娱乐
-http://1.203.77.155:8899/rtp/225.1.8.61:8002
+http://120.245.137.136:20146/rtp/228.1.1.133:8001
 #EXTINF:-1 tvg-id="2" tvg-name="北京淘娱乐" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘娱乐.png" group-title="北京联通",北京淘娱乐
-http://106.120.14.215:4022/rtp/225.1.8.61:8002
+http://223.72.11.53:8022/rtp/228.1.1.133:8001
 #EXTINF:-1 tvg-id="3" tvg-name="北京淘娱乐" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘娱乐.png" group-title="北京联通",北京淘娱乐
-http://115.171.216.92:4000/rtp/225.1.8.61:8002
+http://1.203.77.155:8899/rtp/225.1.8.61:8002
 #EXTINF:-1 tvg-id="4" tvg-name="北京淘娱乐" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘娱乐.png" group-title="北京联通",北京淘娱乐
-http://115.171.216.45:4000/rtp/225.1.8.61:8002
+http://106.120.14.215:4022/rtp/225.1.8.61:8002
 #EXTINF:-1 tvg-id="5" tvg-name="北京淘娱乐" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘娱乐.png" group-title="北京联通",北京淘娱乐
-http://114.246.181.8:4022/rtp/239.3.1.100:8001
+http://115.171.216.92:4000/rtp/225.1.8.61:8002
 #EXTINF:-1 tvg-id="6" tvg-name="北京淘娱乐" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘娱乐.png" group-title="北京联通",北京淘娱乐
-http://221.223.19.96:58888/rtp/239.3.1.100:8001
+http://115.171.216.45:4000/rtp/225.1.8.61:8002
 #EXTINF:-1 tvg-id="7" tvg-name="北京淘娱乐" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘娱乐.png" group-title="北京联通",北京淘娱乐
-http://221.220.134.68:9999/rtp/239.3.1.100:8001
+http://114.246.181.8:4022/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="8" tvg-name="北京淘娱乐" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘娱乐.png" group-title="北京联通",北京淘娱乐
-http://123.120.4.238:4022/rtp/239.3.1.100:8001
+http://221.223.19.96:58888/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="9" tvg-name="北京淘娱乐" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘娱乐.png" group-title="北京联通",北京淘娱乐
-http://123.120.38.166:4022/rtp/239.3.1.100:8001
+http://221.220.134.68:9999/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="10" tvg-name="北京淘娱乐" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘娱乐.png" group-title="北京联通",北京淘娱乐
-http://123.118.61.174:8686/rtp/239.3.1.100:8001
+http://123.120.4.238:4022/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="11" tvg-name="北京淘娱乐" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘娱乐.png" group-title="北京联通",北京淘娱乐
-http://123.118.230.202:9090/rtp/239.3.1.100:8001
+http://123.120.38.166:4022/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="12" tvg-name="北京淘娱乐" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘娱乐.png" group-title="北京联通",北京淘娱乐
-http://123.117.161.44:8118/rtp/239.3.1.100:8001
+http://123.118.61.174:8686/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="13" tvg-name="北京淘娱乐" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘娱乐.png" group-title="北京联通",北京淘娱乐
-http://123.112.16.172:4022/rtp/239.3.1.100:8001
+http://123.118.230.202:9090/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="14" tvg-name="北京淘娱乐" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘娱乐.png" group-title="北京联通",北京淘娱乐
-http://114.254.87.71:4022/rtp/239.3.1.100:8001
+http://123.117.161.44:8118/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="15" tvg-name="北京淘娱乐" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘娱乐.png" group-title="北京联通",北京淘娱乐
-http://114.254.37.115:18888/rtp/239.3.1.100:8001
+http://123.112.16.172:4022/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="16" tvg-name="北京淘娱乐" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘娱乐.png" group-title="北京联通",北京淘娱乐
-http://114.240.43.169:8888/rtp/239.3.1.100:8001
+http://114.254.87.71:4022/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="17" tvg-name="北京淘娱乐" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘娱乐.png" group-title="北京联通",北京淘娱乐
-http://111.196.2.60:4022/rtp/239.3.1.100:8001
+http://114.254.37.115:18888/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="18" tvg-name="北京淘娱乐" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘娱乐.png" group-title="北京联通",北京淘娱乐
-http://111.194.86.106:4022/rtp/239.3.1.100:8001
+http://114.240.43.169:8888/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="19" tvg-name="北京淘娱乐" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘娱乐.png" group-title="北京联通",北京淘娱乐
-http://222.130.87.13:4022/rtp/239.3.1.100:8001
+http://111.196.2.60:4022/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="20" tvg-name="北京淘娱乐" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘娱乐.png" group-title="北京联通",北京淘娱乐
-http://221.219.180.79:4022/rtp/239.3.1.100:8001
+http://111.194.86.106:4022/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="21" tvg-name="北京淘娱乐" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘娱乐.png" group-title="北京联通",北京淘娱乐
-http://114.254.75.109:4022/rtp/239.3.1.100:8001
+http://222.130.87.13:4022/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="22" tvg-name="北京淘娱乐" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘娱乐.png" group-title="北京联通",北京淘娱乐
-http://111.199.2.154:8686/rtp/239.3.1.100:8001
+http://221.219.180.79:4022/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="23" tvg-name="北京淘娱乐" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘娱乐.png" group-title="北京联通",北京淘娱乐
-http://123.112.215.51:4022/rtp/239.3.1.100:8001
+http://114.254.75.109:4022/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="24" tvg-name="北京淘娱乐" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘娱乐.png" group-title="北京联通",北京淘娱乐
-http://123.113.13.75:8012/rtp/239.3.1.100:8001
+http://111.199.2.154:8686/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="25" tvg-name="北京淘娱乐" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘娱乐.png" group-title="北京联通",北京淘娱乐
-http://114.249.8.85:4022/rtp/239.3.1.100:8001
+http://123.112.215.51:4022/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="26" tvg-name="北京淘娱乐" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘娱乐.png" group-title="北京联通",北京淘娱乐
-http://123.118.57.25:8686/rtp/239.3.1.100:8001
+http://123.113.13.75:8012/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="27" tvg-name="北京淘娱乐" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘娱乐.png" group-title="北京联通",北京淘娱乐
-http://114.253.247.122:4022/rtp/239.3.1.100:8001
+http://114.249.8.85:4022/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="28" tvg-name="北京淘娱乐" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘娱乐.png" group-title="北京联通",北京淘娱乐
-http://114.254.254.57:4022/rtp/239.3.1.100:8001
+http://123.118.57.25:8686/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="29" tvg-name="北京淘娱乐" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘娱乐.png" group-title="北京联通",北京淘娱乐
-http://123.115.115.129:9000/rtp/239.3.1.100:8001
+http://114.253.247.122:4022/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="30" tvg-name="北京淘娱乐" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘娱乐.png" group-title="北京联通",北京淘娱乐
-http://111.193.238.217:4022/rtp/239.3.1.100:8001
+http://114.254.254.57:4022/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="31" tvg-name="北京淘娱乐" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘娱乐.png" group-title="北京联通",北京淘娱乐
-http://125.34.49.174:7077/rtp/239.3.1.100:8001
+http://123.115.115.129:9000/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="32" tvg-name="北京淘娱乐" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘娱乐.png" group-title="北京联通",北京淘娱乐
+http://111.193.238.217:4022/rtp/239.3.1.100:8001
+#EXTINF:-1 tvg-id="33" tvg-name="北京淘娱乐" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘娱乐.png" group-title="北京联通",北京淘娱乐
+http://125.34.49.174:7077/rtp/239.3.1.100:8001
+#EXTINF:-1 tvg-id="34" tvg-name="北京淘娱乐" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘娱乐.png" group-title="北京联通",北京淘娱乐
 http://111.193.146.117:4022/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="1" tvg-name="北京淘Baby" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘Baby.png" group-title="北京联通",北京淘Baby
-http://1.203.77.155:8899/rtp/225.1.8.36:8002
+http://120.245.137.136:20146/rtp/228.1.1.128:8001
 #EXTINF:-1 tvg-id="2" tvg-name="北京淘Baby" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘Baby.png" group-title="北京联通",北京淘Baby
-http://106.120.14.215:4022/rtp/225.1.8.36:8002
+http://223.72.11.53:8022/rtp/228.1.1.128:8001
 #EXTINF:-1 tvg-id="3" tvg-name="北京淘Baby" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘Baby.png" group-title="北京联通",北京淘Baby
-http://115.171.216.92:4000/rtp/225.1.8.36:8002
+http://1.203.77.155:8899/rtp/225.1.8.36:8002
 #EXTINF:-1 tvg-id="4" tvg-name="北京淘Baby" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘Baby.png" group-title="北京联通",北京淘Baby
-http://115.171.216.45:4000/rtp/225.1.8.36:8002
+http://106.120.14.215:4022/rtp/225.1.8.36:8002
 #EXTINF:-1 tvg-id="5" tvg-name="北京淘Baby" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘Baby.png" group-title="北京联通",北京淘Baby
-http://114.246.181.8:4022/rtp/239.3.1.238:8001
+http://115.171.216.92:4000/rtp/225.1.8.36:8002
 #EXTINF:-1 tvg-id="6" tvg-name="北京淘Baby" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘Baby.png" group-title="北京联通",北京淘Baby
-http://221.223.19.96:58888/rtp/239.3.1.238:8001
+http://115.171.216.45:4000/rtp/225.1.8.36:8002
 #EXTINF:-1 tvg-id="7" tvg-name="北京淘Baby" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘Baby.png" group-title="北京联通",北京淘Baby
-http://221.220.134.68:9999/rtp/239.3.1.238:8001
+http://114.246.181.8:4022/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="8" tvg-name="北京淘Baby" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘Baby.png" group-title="北京联通",北京淘Baby
-http://123.120.4.238:4022/rtp/239.3.1.238:8001
+http://221.223.19.96:58888/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="9" tvg-name="北京淘Baby" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘Baby.png" group-title="北京联通",北京淘Baby
-http://123.120.38.166:4022/rtp/239.3.1.238:8001
+http://221.220.134.68:9999/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="10" tvg-name="北京淘Baby" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘Baby.png" group-title="北京联通",北京淘Baby
-http://123.118.61.174:8686/rtp/239.3.1.238:8001
+http://123.120.4.238:4022/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="11" tvg-name="北京淘Baby" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘Baby.png" group-title="北京联通",北京淘Baby
-http://123.118.230.202:9090/rtp/239.3.1.238:8001
+http://123.120.38.166:4022/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="12" tvg-name="北京淘Baby" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘Baby.png" group-title="北京联通",北京淘Baby
-http://123.117.161.44:8118/rtp/239.3.1.238:8001
+http://123.118.61.174:8686/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="13" tvg-name="北京淘Baby" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘Baby.png" group-title="北京联通",北京淘Baby
-http://123.112.16.172:4022/rtp/239.3.1.238:8001
+http://123.118.230.202:9090/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="14" tvg-name="北京淘Baby" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘Baby.png" group-title="北京联通",北京淘Baby
-http://114.254.87.71:4022/rtp/239.3.1.238:8001
+http://123.117.161.44:8118/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="15" tvg-name="北京淘Baby" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘Baby.png" group-title="北京联通",北京淘Baby
-http://114.254.37.115:18888/rtp/239.3.1.238:8001
+http://123.112.16.172:4022/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="16" tvg-name="北京淘Baby" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘Baby.png" group-title="北京联通",北京淘Baby
-http://114.240.43.169:8888/rtp/239.3.1.238:8001
+http://114.254.87.71:4022/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="17" tvg-name="北京淘Baby" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘Baby.png" group-title="北京联通",北京淘Baby
-http://111.196.2.60:4022/rtp/239.3.1.238:8001
+http://114.254.37.115:18888/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="18" tvg-name="北京淘Baby" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘Baby.png" group-title="北京联通",北京淘Baby
-http://111.194.86.106:4022/rtp/239.3.1.238:8001
+http://114.240.43.169:8888/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="19" tvg-name="北京淘Baby" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘Baby.png" group-title="北京联通",北京淘Baby
-http://222.130.87.13:4022/rtp/239.3.1.238:8001
+http://111.196.2.60:4022/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="20" tvg-name="北京淘Baby" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘Baby.png" group-title="北京联通",北京淘Baby
-http://221.219.180.79:4022/rtp/239.3.1.238:8001
+http://111.194.86.106:4022/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="21" tvg-name="北京淘Baby" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘Baby.png" group-title="北京联通",北京淘Baby
-http://114.254.75.109:4022/rtp/239.3.1.238:8001
+http://222.130.87.13:4022/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="22" tvg-name="北京淘Baby" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘Baby.png" group-title="北京联通",北京淘Baby
-http://111.199.2.154:8686/rtp/239.3.1.238:8001
+http://221.219.180.79:4022/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="23" tvg-name="北京淘Baby" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘Baby.png" group-title="北京联通",北京淘Baby
-http://123.112.215.51:4022/rtp/239.3.1.238:8001
+http://114.254.75.109:4022/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="24" tvg-name="北京淘Baby" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘Baby.png" group-title="北京联通",北京淘Baby
-http://123.113.13.75:8012/rtp/239.3.1.238:8001
+http://111.199.2.154:8686/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="25" tvg-name="北京淘Baby" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘Baby.png" group-title="北京联通",北京淘Baby
-http://114.249.8.85:4022/rtp/239.3.1.238:8001
+http://123.112.215.51:4022/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="26" tvg-name="北京淘Baby" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘Baby.png" group-title="北京联通",北京淘Baby
-http://123.118.57.25:8686/rtp/239.3.1.238:8001
+http://123.113.13.75:8012/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="27" tvg-name="北京淘Baby" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘Baby.png" group-title="北京联通",北京淘Baby
-http://114.253.247.122:4022/rtp/239.3.1.238:8001
+http://114.249.8.85:4022/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="28" tvg-name="北京淘Baby" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘Baby.png" group-title="北京联通",北京淘Baby
-http://114.254.254.57:4022/rtp/239.3.1.238:8001
+http://123.118.57.25:8686/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="29" tvg-name="北京淘Baby" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘Baby.png" group-title="北京联通",北京淘Baby
-http://123.115.115.129:9000/rtp/239.3.1.238:8001
+http://114.253.247.122:4022/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="30" tvg-name="北京淘Baby" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘Baby.png" group-title="北京联通",北京淘Baby
-http://111.193.238.217:4022/rtp/239.3.1.238:8001
+http://114.254.254.57:4022/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="31" tvg-name="北京淘Baby" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘Baby.png" group-title="北京联通",北京淘Baby
-http://125.34.49.174:7077/rtp/239.3.1.238:8001
+http://123.115.115.129:9000/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="32" tvg-name="北京淘Baby" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘Baby.png" group-title="北京联通",北京淘Baby
+http://111.193.238.217:4022/rtp/239.3.1.238:8001
+#EXTINF:-1 tvg-id="33" tvg-name="北京淘Baby" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘Baby.png" group-title="北京联通",北京淘Baby
+http://125.34.49.174:7077/rtp/239.3.1.238:8001
+#EXTINF:-1 tvg-id="34" tvg-name="北京淘Baby" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘Baby.png" group-title="北京联通",北京淘Baby
 http://111.193.146.117:4022/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="1" tvg-name="萌宠TV" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/萌宠TV.png" group-title="北京联通",萌宠TV
 http://1.203.77.155:8899/rtp/225.1.8.63:8002

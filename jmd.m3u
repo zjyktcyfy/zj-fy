@@ -41186,19 +41186,9 @@ http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="哒啵赛事" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/哒啵赛事.png" group-title="移动TV",哒啵赛事
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="美亚电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/美亚电影.png" group-title="移动TV",美亚电影
-http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
+http://bxtv.3a.ink/api.php?id=meiya
 #EXTINF:-1 tvg-id="1" tvg-name="POPC" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/POPC.png" group-title="移动TV",POPC
-http://s1.an94tv.cfd/aktv/popc/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="纬来电影台" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/纬来电影台.png" group-title="移动TV",纬来电影台
-http://s1.an94tv.cfd/aktv2/CH-4/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="东森电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/东森电影.png" group-title="移动TV",东森电影
-http://s1.an94tv.cfd/aktv2/CH-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="天映马来西亚" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/天映马来西亚.png" group-title="移动TV",天映马来西亚
-http://s1.an94tv.cfd/aktv2/CH-3/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="天映经典" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/天映经典.png" group-title="移动TV",天映经典
-http://s1.an94tv.cfd/aktv/1080/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="ROCK Action" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/ROCK Action.png" group-title="移动TV",ROCK Action
-http://s1.an94tv.cfd/aktv/rockaction/AKTV.m3u8
+http://bxtv.3a.ink/api.php?id=popc
 #EXTINF:-1 tvg-id="1" tvg-name="SCTV2" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/SCTV2.png" group-title="四川电信",SCTV2
 http://171.213.178.2:58888/rtp/239.94.0.70:5140
 #EXTINF:-1 tvg-id="2" tvg-name="SCTV2" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/SCTV2.png" group-title="四川电信",SCTV2

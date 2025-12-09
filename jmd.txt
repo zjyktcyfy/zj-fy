@@ -20615,13 +20615,8 @@ FTV足球频道,http://36.46.98.184:8014/rtp/239.111.205.99:5140
 黑莓动画,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236261/index.m3u8
 黑莓动画,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/index.m3u8
 哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
-美亚电影,http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
-POPC,http://s1.an94tv.cfd/aktv/popc/AKTV.m3u8
-纬来电影台,http://s1.an94tv.cfd/aktv2/CH-4/AKTV.m3u8
-东森电影,http://s1.an94tv.cfd/aktv2/CH-1/AKTV.m3u8
-天映马来西亚,http://s1.an94tv.cfd/aktv2/CH-3/AKTV.m3u8
-天映经典,http://s1.an94tv.cfd/aktv/1080/AKTV.m3u8
-ROCK Action,http://s1.an94tv.cfd/aktv/rockaction/AKTV.m3u8
+美亚电影,http://bxtv.3a.ink/api.php?id=meiya
+POPC,http://bxtv.3a.ink/api.php?id=popc
 四川电信,#genre#
 SCTV2,http://171.213.178.2:58888/rtp/239.94.0.70:5140
 SCTV2,http://171.213.222.174:8888/rtp/239.94.0.70:5140

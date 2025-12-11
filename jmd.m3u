@@ -11051,6 +11051,10 @@ http://115.221.94.142:7777/rtp/233.50.201.180:5140
 http://play-sh13.quklive.com/live/1625061424267104.m3u8?auth_key=2064369916-5175b4328f5a4815bf426eb2843c287d-0-9bbcfcaa44b1add0f9ad717d1e70183f
 #EXTINF:-1 tvg-id="2" tvg-name="永康新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/永康新闻综合.png" group-title="浙江电信",永康新闻综合
 http://123.207.224.130:123/zhejiang/hangzhou.php?id=ykxwzh
+#EXTINF:-1 tvg-id="1" tvg-name="永康华溪频道" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/永康华溪频道.png" group-title="浙江电信",永康华溪频道
+http://play-sh13.quklive.com/live/1625062755227231.m3u8?auth_key=2064370122-a4a517903af44daa9c833a605f3ce27b-0-7e12011519500f96efbefbf94dcf5931
+#EXTINF:-1 tvg-id="2" tvg-name="永康华溪频道" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/永康华溪频道.png" group-title="浙江电信",永康华溪频道
+http://123.207.224.130:123/zhejiang/hangzhou.php?id=ykhxpd
 #EXTINF:-1 tvg-id="1" tvg-name="温州新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/温州新闻综合.png" group-title="浙江电信",温州新闻综合
 http://115.221.89.156:7777/rtp/233.50.201.87:5140
 #EXTINF:-1 tvg-id="2" tvg-name="温州新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/温州新闻综合.png" group-title="浙江电信",温州新闻综合

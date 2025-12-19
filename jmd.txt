@@ -5283,8 +5283,10 @@ NBTV4,http://115.204.152.41:8888/rtp/233.50.201.180:5140
 NBTV4,http://115.195.133.43:8888/rtp/233.50.201.180:5140
 永康新闻综合,http://play-sh13.quklive.com/live/1625061424267104.m3u8?auth_key=2064369916-5175b4328f5a4815bf426eb2843c287d-0-9bbcfcaa44b1add0f9ad717d1e70183f
 永康新闻综合,http://123.207.224.130:123/zhejiang/hangzhou.php?id=ykxwzh
+永康新闻综合,http://123.207.224.130:123/zhejiang/qukan.php?id=jhyk1
 永康华溪频道,http://play-sh13.quklive.com/live/1625062755227231.m3u8?auth_key=2064370122-a4a517903af44daa9c833a605f3ce27b-0-7e12011519500f96efbefbf94dcf5931
 永康华溪频道,http://123.207.224.130:123/zhejiang/hangzhou.php?id=ykhxpd
+永康华溪频道,http://123.207.224.130:123/zhejiang/qukan.php?id=jhyk2
 温州新闻综合,http://125.119.204.242:8888/rtp/233.50.201.87:5140
 温州新闻综合,http://183.156.67.215:4022/rtp/233.50.201.87:5140
 温州新闻综合,http://115.230.59.167:4022/rtp/233.50.201.87:5140

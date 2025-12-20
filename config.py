@@ -27,6 +27,7 @@ source_urls = [
     "https://hhndx.yangfeiyue.dpdns.org/txt/Henan_dianxin.txt",
     "https://hhnndx.yangfeiyue.dpdns.org/txt/Henan_dianxin.txt",
     "https://hanndx.yangfeiyue.dpdns.org/txt/Hainan_dianxin.txt",
+    "https://jlldx.yangfeiyue.dpdns.org/txt/Jilin_dianxin.txt",
     "https://lnnlt.yangfeiyue.dpdns.org/txt/Liaoning_liantong.txt",
     "https://hljjlt.yangfeiyue.dpdns.org/txt/Heilongjiang_liantong.txt",
     "https://sdddx.yangfeiyue.dpdns.org/txt/Shandong_dianxin.txt",
@@ -56,6 +57,7 @@ announcements = [
 epg_urls = [
     "https://assets.live1dnow.com/epg.xml",
 ]
+
 
 
 

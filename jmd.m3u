@@ -35978,19 +35978,19 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236261/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="哒啵赛事" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/哒啵赛事.png" group-title="移动TV",哒啵赛事
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236207/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="now爆谷台" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/now爆谷台.png" group-title="移动TV",now爆谷台
-https://stream1.freetv.fun/3f31f2dce2add4c7542daf68797a0bf424ceff7fb57654cbcf47f6b095189809.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="now爆谷台" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/now爆谷台.png" group-title="移动TV",now爆谷台
-https://stream1.freetv.fun/nowbao-gu-3.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="now爆谷台" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/now爆谷台.png" group-title="移动TV",now爆谷台
 https://live.catvod.com/iptv.php?id=now_bg&token=647c74eb7fadaad9b1922d6c1a2b64c26a9e9c80c707c20c5e9d6a612dbde934%3A1766372542%3AMTgzLjI0OC43LjEyMw%3D%3D
+#EXTINF:-1 tvg-id="2" tvg-name="now爆谷台" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/now爆谷台.png" group-title="移动TV",now爆谷台
+https://stream1.freetv.fun/3f31f2dce2add4c7542daf68797a0bf424ceff7fb57654cbcf47f6b095189809.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="now爆谷台" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/now爆谷台.png" group-title="移动TV",now爆谷台
+https://stream1.freetv.fun/nowbao-gu-3.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="now爆谷台" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/now爆谷台.png" group-title="移动TV",now爆谷台
 https://stream1.freetv.fun/nowbao-gu-tai-bei-1.ctv
 #EXTINF:-1 tvg-id="1" tvg-name="now爆谷星影台" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/now爆谷星影台.png" group-title="移动TV",now爆谷星影台
-https://stream1.freetv.fun/nowxing-ying-2.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="now爆谷星影台" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/now爆谷星影台.png" group-title="移动TV",now爆谷星影台
-https://stream1.freetv.fun/b56bee75906bfad78f50f3eccffccdc4ed2dfe763f4fd01135948baae9af8e35.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="now爆谷星影台" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/now爆谷星影台.png" group-title="移动TV",now爆谷星影台
 https://live.catvod.com/iptv.php?id=now_xy&token=116b02b735a57a9f282dc66a2a0bd8e93ec832b97f3de152da0828c35a336b1f%3A1766372542%3AMTgzLjI0OC43LjEyMw%3D%3D
+#EXTINF:-1 tvg-id="2" tvg-name="now爆谷星影台" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/now爆谷星影台.png" group-title="移动TV",now爆谷星影台
+https://stream1.freetv.fun/nowxing-ying-2.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="now爆谷星影台" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/now爆谷星影台.png" group-title="移动TV",now爆谷星影台
+https://stream1.freetv.fun/b56bee75906bfad78f50f3eccffccdc4ed2dfe763f4fd01135948baae9af8e35.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="now爆谷星影台" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/now爆谷星影台.png" group-title="移动TV",now爆谷星影台
 https://stream1.freetv.fun/nowxing-ying-tai-bei-1.ctv
 #EXTINF:-1 tvg-id="1" tvg-name="美亚电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/美亚电影.png" group-title="移动TV",美亚电影

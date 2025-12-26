@@ -838,6 +838,7 @@ LSTIME电影台
 天映新加坡
 天映马来西亚
 天映经典
+功夫台
 Boo
 Thrill
 ROCK Action

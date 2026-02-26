@@ -37,8 +37,6 @@ source_urls = [
     "https://nmggdx.yangfeiyue.dpdns.org/txt/Neimenggu_dianxin.txt",
     "https://krrsk.yangfeiyue.dpdns.org/txt/KR_SK.txt",
     "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/refs/heads/main/txt/ZJYD.m3u",
-    "https://live.catvod.com/tv.m3u",
-    "https://iptv.catvod.com/tv.m3u",
 ]
 
 url_blacklist = [
@@ -59,6 +57,7 @@ announcements = [
 epg_urls = [
     "https://assets.live1dnow.com/epg.xml",
 ]
+
 
 
 

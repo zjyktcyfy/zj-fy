@@ -35999,66 +35999,6 @@ http://58.17.134.3:8003/rtp/225.0.4.162:7980
 http://27.11.48.253:8001/rtp/225.0.4.162:7980
 #EXTINF:-1 tvg-id="30" tvg-name="光影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/光影.png" group-title="华数专区",光影
 http://27.11.57.209:8001/rtp/225.0.4.162:7980
-#EXTINF:-1 tvg-id="1" tvg-name="喜剧剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/喜剧剧场.png" group-title="华数专区",喜剧剧场
-http://123.120.136.150:4022/rtp/239.3.1.91:4120
-#EXTINF:-1 tvg-id="2" tvg-name="喜剧剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/喜剧剧场.png" group-title="华数专区",喜剧剧场
-http://114.254.32.102:4022/rtp/239.3.1.91:4120
-#EXTINF:-1 tvg-id="3" tvg-name="喜剧剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/喜剧剧场.png" group-title="华数专区",喜剧剧场
-http://221.220.130.93:9999/rtp/239.3.1.91:4120
-#EXTINF:-1 tvg-id="4" tvg-name="喜剧剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/喜剧剧场.png" group-title="华数专区",喜剧剧场
-http://125.34.50.119:7077/rtp/239.3.1.91:4120
-#EXTINF:-1 tvg-id="5" tvg-name="喜剧剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/喜剧剧场.png" group-title="华数专区",喜剧剧场
-http://123.117.161.44:8118/rtp/239.3.1.91:4120
-#EXTINF:-1 tvg-id="6" tvg-name="喜剧剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/喜剧剧场.png" group-title="华数专区",喜剧剧场
-http://123.112.162.134:4022/rtp/239.3.1.91:4120
-#EXTINF:-1 tvg-id="7" tvg-name="喜剧剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/喜剧剧场.png" group-title="华数专区",喜剧剧场
-http://221.219.179.224:4022/rtp/239.3.1.91:4120
-#EXTINF:-1 tvg-id="8" tvg-name="喜剧剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/喜剧剧场.png" group-title="华数专区",喜剧剧场
-http://123.113.8.90:8012/rtp/239.3.1.91:4120
-#EXTINF:-1 tvg-id="9" tvg-name="喜剧剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/喜剧剧场.png" group-title="华数专区",喜剧剧场
-http://114.249.12.2:4022/rtp/239.3.1.91:4120
-#EXTINF:-1 tvg-id="10" tvg-name="喜剧剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/喜剧剧场.png" group-title="华数专区",喜剧剧场
-http://123.118.229.139:9090/rtp/239.3.1.91:4120
-#EXTINF:-1 tvg-id="11" tvg-name="喜剧剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/喜剧剧场.png" group-title="华数专区",喜剧剧场
-http://123.112.210.117:4022/rtp/239.3.1.91:4120
-#EXTINF:-1 tvg-id="12" tvg-name="喜剧剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/喜剧剧场.png" group-title="华数专区",喜剧剧场
-http://111.193.235.144:9999/rtp/239.3.1.91:4120
-#EXTINF:-1 tvg-id="13" tvg-name="喜剧剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/喜剧剧场.png" group-title="华数专区",喜剧剧场
-http://111.199.7.113:8686/rtp/239.3.1.91:4120
-#EXTINF:-1 tvg-id="14" tvg-name="喜剧剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/喜剧剧场.png" group-title="华数专区",喜剧剧场
-http://123.120.0.171:4022/rtp/239.3.1.91:4120
-#EXTINF:-1 tvg-id="15" tvg-name="喜剧剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/喜剧剧场.png" group-title="华数专区",喜剧剧场
-http://123.118.60.116:8686/rtp/239.3.1.91:4120
-#EXTINF:-1 tvg-id="16" tvg-name="喜剧剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/喜剧剧场.png" group-title="华数专区",喜剧剧场
-http://114.254.36.219:18888/rtp/239.3.1.91:4120
-#EXTINF:-1 tvg-id="17" tvg-name="喜剧剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/喜剧剧场.png" group-title="华数专区",喜剧剧场
-http://114.253.244.201:4022/rtp/239.3.1.91:4120
-#EXTINF:-1 tvg-id="18" tvg-name="喜剧剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/喜剧剧场.png" group-title="华数专区",喜剧剧场
-http://111.193.227.18:4022/rtp/239.3.1.91:4120
-#EXTINF:-1 tvg-id="19" tvg-name="喜剧剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/喜剧剧场.png" group-title="华数专区",喜剧剧场
-http://114.249.156.182:4022/rtp/239.3.1.91:4120
-#EXTINF:-1 tvg-id="20" tvg-name="喜剧剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/喜剧剧场.png" group-title="华数专区",喜剧剧场
-http://221.223.18.175:8888/rtp/239.3.1.91:4120
-#EXTINF:-1 tvg-id="21" tvg-name="喜剧剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/喜剧剧场.png" group-title="华数专区",喜剧剧场
-http://123.118.56.249:8686/rtp/239.3.1.91:4120
-#EXTINF:-1 tvg-id="22" tvg-name="喜剧剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/喜剧剧场.png" group-title="华数专区",喜剧剧场
-http://114.254.76.186:4022/rtp/239.3.1.91:4120
-#EXTINF:-1 tvg-id="23" tvg-name="喜剧剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/喜剧剧场.png" group-title="华数专区",喜剧剧场
-http://58.17.134.3:8004/rtp/225.0.4.169:7980
-#EXTINF:-1 tvg-id="24" tvg-name="喜剧剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/喜剧剧场.png" group-title="华数专区",喜剧剧场
-http://58.17.134.3:8005/rtp/225.0.4.169:7980
-#EXTINF:-1 tvg-id="25" tvg-name="喜剧剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/喜剧剧场.png" group-title="华数专区",喜剧剧场
-http://58.17.134.3:8002/rtp/225.0.4.169:7980
-#EXTINF:-1 tvg-id="26" tvg-name="喜剧剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/喜剧剧场.png" group-title="华数专区",喜剧剧场
-http://58.17.134.3:8001/rtp/225.0.4.169:7980
-#EXTINF:-1 tvg-id="27" tvg-name="喜剧剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/喜剧剧场.png" group-title="华数专区",喜剧剧场
-http://27.11.104.112:8001/rtp/225.0.4.169:7980
-#EXTINF:-1 tvg-id="28" tvg-name="喜剧剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/喜剧剧场.png" group-title="华数专区",喜剧剧场
-http://58.17.134.3:8003/rtp/225.0.4.169:7980
-#EXTINF:-1 tvg-id="29" tvg-name="喜剧剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/喜剧剧场.png" group-title="华数专区",喜剧剧场
-http://27.11.48.253:8001/rtp/225.0.4.169:7980
-#EXTINF:-1 tvg-id="30" tvg-name="喜剧剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/喜剧剧场.png" group-title="华数专区",喜剧剧场
-http://27.11.57.209:8001/rtp/225.0.4.169:7980
 #EXTINF:-1 tvg-id="1" tvg-name="武侠剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/武侠剧场.png" group-title="华数专区",武侠剧场
 http://123.120.136.150:4022/rtp/239.3.1.90:4120
 #EXTINF:-1 tvg-id="2" tvg-name="武侠剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/武侠剧场.png" group-title="华数专区",武侠剧场
@@ -36343,6 +36283,24 @@ http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236261/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="哒啵赛事" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/哒啵赛事.png" group-title="移动TV",哒啵赛事
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236207/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="now爆谷台" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/now爆谷台.png" group-title="移动TV",now爆谷台
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaFBmz2P45zHSyAqfwWcUpn7Lrhdbt8W042CxwTlNwHQBHxAorPl6WG505axByLsqm_6uwwf1TFr09ekS-WoJxI9O52n-XjCSzld0iXNILyGsupIIoJAwHj6sU5fRMWkT8lXOjk8dzTjEAFkg7T7lkFrggmhPUEnMV8uzxJHoqLE4Z9kmjzi7bsfb2fGQXfcylFnj-ccOYGV6y8bKDUuf22WZ575UidyzCiYfIdoV-yo.m3u8?u=1756878715
+#EXTINF:-1 tvg-id="1" tvg-name="美亚电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/美亚电影.png" group-title="移动TV",美亚电影
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU_ypc10evfk9Bu9_Omlyxg7I_bJVd6PHJW3O_8iuClaQv2fxz8fALRe2T-ogJ87ijCaxVOZ2bPDU19OAfHCuEH7pEtEyKaC5fQH83IQFKgtzrNJs9sRA_ZWtz7f_P7qo6AVu7NZkTmspa9rvOsdfPbS3JVHYZdD3YmQ4z04QanKIzTOcWRQ2fiCKdxZJI0HMUUxB1RvwrIu6Fs_jphyt87A.m3u8?u=1756878715
+#EXTINF:-1 tvg-id="1" tvg-name="PopC" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/PopC.png" group-title="移动TV",PopC
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUW2lLbPLxX5K0GlafuBk91fb6hLkGFAJPYiYrDXIrSl8ZyInN2caScK9k4uBb2hHU3QcOVpDZM6zPF0dTtxJ-FRU-WN63JuPdzB1jDNuzYgq8ItCn0oyeLbculDTGln6CZncWyLIMRFyzJC5tPPSihqLc7JXbovD25D3K0ksPgdGkfeQOUMLZWEIyJC8XjGFRIdBq7YawVgToVlAwc89_C7SHItK8rTjqLStjnSCnEhE.m3u8?u=1756878715
+#EXTINF:-1 tvg-id="1" tvg-name="KIX" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/KIX.png" group-title="移动TV",KIX
+https://liveh34.vtvprime.vn/hls/KIX/04.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="纬来电影台" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/纬来电影台.png" group-title="移动TV",纬来电影台
+http://lashfoaw064.abrillantlee.top/live/LIjQbqWr0oCfwR6SjWMVXyUh5m1qm9OklRFprvbBloK6NfqVBD.flv
+#EXTINF:-1 tvg-id="1" tvg-name="东森电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/东森电影.png" group-title="移动TV",东森电影
+http://lashfoaw064.abrillantlee.top/live/bCfUAGCL9ukBOGb6dOi9Tm9Okl9yKesDJWcvlAgBMV6uv722A6.flv
+#EXTINF:-1 tvg-id="1" tvg-name="天映马来西亚" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/天映马来西亚.png" group-title="移动TV",天映马来西亚
+http://o11.163189.xyz/stream/live/typd/
+#EXTINF:-1 tvg-id="1" tvg-name="天映经典" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/天映经典.png" group-title="移动TV",天映经典
+https://cdn10.163189.xyz/stream/163189/ccm/
+#EXTINF:-1 tvg-id="1" tvg-name="ROCK Action" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/ROCK Action.png" group-title="移动TV",ROCK Action
+http://103.107.198.46:8080/live/ZZA21216/zxe36880/89.ts
 #EXTINF:-1 tvg-id="1" tvg-name="1905电影网" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/1905电影网.png" group-title="移动TV",1905电影网
 http://php.jdshipin.com:8880/1905.php?id=1905dy
 #EXTINF:-1 tvg-id="2" tvg-name="1905电影网" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/1905电影网.png" group-title="移动TV",1905电影网

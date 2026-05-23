@@ -58,9 +58,13 @@ CCTV8K,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 永康新闻综合,http://play-sh13.quklive.com/live/1625061424267104.m3u8?auth_key=2064369916-5175b4328f5a4815bf426eb2843c287d-0-9bbcfcaa44b1add0f9ad717d1e70183f
 永康新闻综合,http://123.207.224.130:123/zhejiang/hangzhou.php?id=ykxwzh
 永康新闻综合,http://123.207.224.130:123/zhejiang/qukan.php?id=jhyk1
+永康新闻综合,http://play-sh13.quklive.com/live/1625061424267104.flv?auth_key=2064369916-dd901488abe74afc8c62219ddcf33a1b-0-cc97026d3894040fefe25cf030061930
+永康新闻综合,rtmp://play-sh13.quklive.com/live/1625061424267104?auth_key=2064369916-1cf278becc82400a893b05391a417a1b-0-a6d15722a3ff5e0a419c39ff08c25e9d
 永康华溪频道,http://play-sh13.quklive.com/live/1625062755227231.m3u8?auth_key=2064370122-a4a517903af44daa9c833a605f3ce27b-0-7e12011519500f96efbefbf94dcf5931
 永康华溪频道,http://123.207.224.130:123/zhejiang/hangzhou.php?id=ykhxpd
 永康华溪频道,http://123.207.224.130:123/zhejiang/qukan.php?id=jhyk2
+永康华溪频道,http://play-sh13.quklive.com/live/1625062755227231.flv?auth_key=2064370122-acce40af12134e1da525e9dcd3f8cd33-0-232826665f1c30789720f316b36a6e11
+永康华溪频道,rtmp://play-sh13.quklive.com/live/1625062755227231?auth_key=2064370122-7f2fc46f31b34af988297798f7f19956-0-f08011f63eca85fe93b3675865d1ae91
 长影频道,http://iptv.yzzdxc.cn:16666/rtp/239.37.0.125:5540
 吉视都市,http://iptv.yzzdxc.cn:16666/rtp/239.37.1.2:5540
 吉视影视,http://iptv.yzzdxc.cn:16666/rtp/239.37.1.3:5540

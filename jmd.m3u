@@ -3,7 +3,7 @@
 http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="更新日期" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/武术台.png" group-title="公告",更新日期
 http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="2026-08-28" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/武术台.png" group-title="公告",2026-08-28
+#EXTINF:-1 tvg-id="1" tvg-name="2026-08-29" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/武术台.png" group-title="公告",2026-08-29
 https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/CCTV1.png" group-title="上海电信",CCTV1
 http://183.156.234.104:4022/rtp/233.50.200.99:5140
@@ -2130,12 +2130,16 @@ http://175.0.68.114:8989/rtp/239.76.254.199:9000
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV8K" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/CCTV8K.png" group-title="上海电信",CCTV8K
 http://58.46.200.55:4023/rtp/239.76.254.199:9000
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV8K" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/CCTV8K.png" group-title="上海电信",CCTV8K
-http://112.19.88.97:8899/rtp/239.10.0.134:5140
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV8K" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/CCTV8K.png" group-title="上海电信",CCTV8K
 http://183.222.15.202:4321/rtp/239.10.0.134:5140
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV8K" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/CCTV8K.png" group-title="上海电信",CCTV8K
+http://183.220.20.17:4321/rtp/239.10.0.134:5140
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV8K" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/CCTV8K.png" group-title="上海电信",CCTV8K
-http://107.150.60.122/live/cctv8k.m3u8
+http://183.220.107.138:4022/rtp/239.10.0.134:5140
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8K" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/CCTV8K.png" group-title="上海电信",CCTV8K
+http://112.19.88.97:8899/rtp/239.10.0.134:5140
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV8K" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/CCTV8K.png" group-title="上海电信",CCTV8K
+http://107.150.60.122/live/cctv8k.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV8K" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/CCTV8K.png" group-title="上海电信",CCTV8K
 http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV4欧洲" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/CCTV4欧洲.png" group-title="上海电信",CCTV4欧洲
 http://183.33.57.130:8686/rtp/239.253.43.120:5146
@@ -8720,7 +8724,7 @@ http://171.213.144.32:8188/rtp/239.94.0.21:5140
 #EXTINF:-1 tvg-id="46" tvg-name="爱上4K" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/爱上4K.png" group-title="北京联通",爱上4K
 http://171.213.181.154:8189/rtp/239.94.0.21:5140
 #EXTINF:-1 tvg-id="1" tvg-name="北京IPTV4K超清" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京IPTV4K超清.png" group-title="北京联通",北京IPTV4K超清
-http://223.72.47.188:4022/rtp/228.1.1.123:8001
+http://223.72.47.169:4022/rtp/228.1.1.123:8001
 #EXTINF:-1 tvg-id="2" tvg-name="北京IPTV4K超清" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京IPTV4K超清.png" group-title="北京联通",北京IPTV4K超清
 http://49.232.181.26:6000/rtp/225.1.8.211:8002
 #EXTINF:-1 tvg-id="3" tvg-name="北京IPTV4K超清" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京IPTV4K超清.png" group-title="北京联通",北京IPTV4K超清
@@ -8768,7 +8772,7 @@ http://114.254.254.78:4022/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="24" tvg-name="北京IPTV4K超清" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京IPTV4K超清.png" group-title="北京联通",北京IPTV4K超清
 http://123.117.173.7:8118/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="1" tvg-name="重温经典电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/重温经典电影.png" group-title="北京联通",重温经典电影
-http://223.72.47.188:4022/rtp/228.1.1.237:8002
+http://223.72.47.169:4022/rtp/228.1.1.237:8002
 #EXTINF:-1 tvg-id="2" tvg-name="重温经典电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/重温经典电影.png" group-title="北京联通",重温经典电影
 http://49.232.181.26:6000/rtp/225.1.8.39:8002
 #EXTINF:-1 tvg-id="3" tvg-name="重温经典电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/重温经典电影.png" group-title="北京联通",重温经典电影
@@ -8816,7 +8820,7 @@ http://114.254.254.78:4022/rtp/239.3.1.25:8001
 #EXTINF:-1 tvg-id="24" tvg-name="重温经典电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/重温经典电影.png" group-title="北京联通",重温经典电影
 http://123.117.173.7:8118/rtp/239.3.1.25:8001
 #EXTINF:-1 tvg-id="1" tvg-name="北京淘电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘电影.png" group-title="北京联通",北京淘电影
-http://223.72.47.188:4022/rtp/228.1.1.124:8001
+http://223.72.47.169:4022/rtp/228.1.1.124:8001
 #EXTINF:-1 tvg-id="2" tvg-name="北京淘电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘电影.png" group-title="北京联通",北京淘电影
 http://49.232.181.26:6000/rtp/225.1.8.38:8002
 #EXTINF:-1 tvg-id="3" tvg-name="北京淘电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘电影.png" group-title="北京联通",北京淘电影
@@ -8864,7 +8868,7 @@ http://114.254.254.78:4022/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="24" tvg-name="北京淘电影" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘电影.png" group-title="北京联通",北京淘电影
 http://123.117.173.7:8118/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="1" tvg-name="北京淘剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘剧场.png" group-title="北京联通",北京淘剧场
-http://223.72.47.188:4022/rtp/228.1.1.126:8001
+http://223.72.47.169:4022/rtp/228.1.1.126:8001
 #EXTINF:-1 tvg-id="2" tvg-name="北京淘剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘剧场.png" group-title="北京联通",北京淘剧场
 http://49.232.181.26:6000/rtp/225.1.8.37:8002
 #EXTINF:-1 tvg-id="3" tvg-name="北京淘剧场" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘剧场.png" group-title="北京联通",北京淘剧场
@@ -8952,7 +8956,7 @@ http://114.254.254.78:4022/rtp/239.3.1.178:8001
 #EXTINF:-1 tvg-id="20" tvg-name="北京淘精彩" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘精彩.png" group-title="北京联通",北京淘精彩
 http://123.117.173.7:8118/rtp/239.3.1.178:8001
 #EXTINF:-1 tvg-id="1" tvg-name="北京淘娱乐" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘娱乐.png" group-title="北京联通",北京淘娱乐
-http://223.72.47.188:4022/rtp/228.1.1.133:8001
+http://223.72.47.169:4022/rtp/228.1.1.133:8001
 #EXTINF:-1 tvg-id="2" tvg-name="北京淘娱乐" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘娱乐.png" group-title="北京联通",北京淘娱乐
 http://49.232.181.26:6000/rtp/225.1.8.61:8002
 #EXTINF:-1 tvg-id="3" tvg-name="北京淘娱乐" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘娱乐.png" group-title="北京联通",北京淘娱乐
@@ -9000,7 +9004,7 @@ http://114.254.254.78:4022/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="24" tvg-name="北京淘娱乐" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘娱乐.png" group-title="北京联通",北京淘娱乐
 http://123.117.173.7:8118/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="1" tvg-name="北京淘Baby" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘Baby.png" group-title="北京联通",北京淘Baby
-http://223.72.47.188:4022/rtp/228.1.1.128:8001
+http://223.72.47.169:4022/rtp/228.1.1.128:8001
 #EXTINF:-1 tvg-id="2" tvg-name="北京淘Baby" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘Baby.png" group-title="北京联通",北京淘Baby
 http://49.232.181.26:6000/rtp/225.1.8.36:8002
 #EXTINF:-1 tvg-id="3" tvg-name="北京淘Baby" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/北京淘Baby.png" group-title="北京联通",北京淘Baby
@@ -16766,557 +16770,395 @@ http://1.85.226.120:8686/rtp/239.110.205.89:7920
 #EXTINF:-1 tvg-id="1" tvg-name="山东影视" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/山东影视.png" group-title="山东电信",山东影视
 http://144.255.81.234:8664/rtp/239.21.1.176:5002
 #EXTINF:-1 tvg-id="2" tvg-name="山东影视" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/山东影视.png" group-title="山东电信",山东影视
-http://144.255.36.37:8288/rtp/239.21.1.176:5002
-#EXTINF:-1 tvg-id="3" tvg-name="山东影视" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/山东影视.png" group-title="山东电信",山东影视
 http://144.255.40.242:4022/rtp/239.21.1.176:5002
 #EXTINF:-1 tvg-id="1" tvg-name="山东体育" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/山东体育.png" group-title="山东电信",山东体育
 http://144.255.81.234:8664/rtp/239.21.1.141:5002
 #EXTINF:-1 tvg-id="2" tvg-name="山东体育" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/山东体育.png" group-title="山东电信",山东体育
-http://144.255.36.37:8288/rtp/239.21.1.141:5002
-#EXTINF:-1 tvg-id="3" tvg-name="山东体育" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/山东体育.png" group-title="山东电信",山东体育
 http://144.255.40.242:4022/rtp/239.21.1.141:5002
 #EXTINF:-1 tvg-id="1" tvg-name="山东农科" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/山东农科.png" group-title="山东电信",山东农科
 http://144.255.81.234:8664/rtp/239.21.1.183:5002
 #EXTINF:-1 tvg-id="2" tvg-name="山东农科" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/山东农科.png" group-title="山东电信",山东农科
-http://144.255.36.37:8288/rtp/239.21.1.183:5002
-#EXTINF:-1 tvg-id="3" tvg-name="山东农科" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/山东农科.png" group-title="山东电信",山东农科
 http://144.255.40.242:4022/rtp/239.21.1.183:5002
 #EXTINF:-1 tvg-id="1" tvg-name="山东少儿" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/山东少儿.png" group-title="山东电信",山东少儿
 http://144.255.81.234:8664/rtp/239.21.1.208:5002
 #EXTINF:-1 tvg-id="2" tvg-name="山东少儿" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/山东少儿.png" group-title="山东电信",山东少儿
-http://144.255.36.37:8288/rtp/239.21.1.208:5002
-#EXTINF:-1 tvg-id="3" tvg-name="山东少儿" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/山东少儿.png" group-title="山东电信",山东少儿
 http://144.255.40.242:4022/rtp/239.21.1.208:5002
 #EXTINF:-1 tvg-id="1" tvg-name="山东教育卫视" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/山东教育卫视.png" group-title="山东电信",山东教育卫视
 http://144.255.81.234:8664/rtp/239.21.1.169:5002
 #EXTINF:-1 tvg-id="2" tvg-name="山东教育卫视" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/山东教育卫视.png" group-title="山东电信",山东教育卫视
-http://144.255.36.37:8288/rtp/239.21.1.169:5002
-#EXTINF:-1 tvg-id="3" tvg-name="山东教育卫视" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/山东教育卫视.png" group-title="山东电信",山东教育卫视
 http://144.255.40.242:4022/rtp/239.21.1.169:5002
 #EXTINF:-1 tvg-id="1" tvg-name="山东公共" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/山东公共.png" group-title="山东电信",山东公共
 http://144.255.81.234:8664/rtp/239.21.1.140:5002
 #EXTINF:-1 tvg-id="2" tvg-name="山东公共" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/山东公共.png" group-title="山东电信",山东公共
-http://144.255.36.37:8288/rtp/239.21.1.140:5002
-#EXTINF:-1 tvg-id="3" tvg-name="山东公共" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/山东公共.png" group-title="山东电信",山东公共
 http://144.255.40.242:4022/rtp/239.21.1.140:5002
 #EXTINF:-1 tvg-id="1" tvg-name="山东生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/山东生活.png" group-title="山东电信",山东生活
 http://144.255.81.234:8664/rtp/239.21.1.175:5002
 #EXTINF:-1 tvg-id="2" tvg-name="山东生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/山东生活.png" group-title="山东电信",山东生活
-http://144.255.36.37:8288/rtp/239.21.1.175:5002
-#EXTINF:-1 tvg-id="3" tvg-name="山东生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/山东生活.png" group-title="山东电信",山东生活
 http://144.255.40.242:4022/rtp/239.21.1.175:5002
 #EXTINF:-1 tvg-id="1" tvg-name="山东综艺" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/山东综艺.png" group-title="山东电信",山东综艺
 http://144.255.81.234:8664/rtp/239.21.1.177:5002
 #EXTINF:-1 tvg-id="2" tvg-name="山东综艺" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/山东综艺.png" group-title="山东电信",山东综艺
-http://144.255.36.37:8288/rtp/239.21.1.177:5002
-#EXTINF:-1 tvg-id="3" tvg-name="山东综艺" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/山东综艺.png" group-title="山东电信",山东综艺
 http://144.255.40.242:4022/rtp/239.21.1.177:5002
 #EXTINF:-1 tvg-id="1" tvg-name="山东齐鲁" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/山东齐鲁.png" group-title="山东电信",山东齐鲁
 http://144.255.81.234:8664/rtp/239.21.1.134:5002
 #EXTINF:-1 tvg-id="2" tvg-name="山东齐鲁" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/山东齐鲁.png" group-title="山东电信",山东齐鲁
-http://144.255.36.37:8288/rtp/239.21.1.134:5002
-#EXTINF:-1 tvg-id="3" tvg-name="山东齐鲁" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/山东齐鲁.png" group-title="山东电信",山东齐鲁
 http://144.255.40.242:4022/rtp/239.21.1.134:5002
 #EXTINF:-1 tvg-id="1" tvg-name="济南综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/济南综合.png" group-title="山东电信",济南综合
 http://144.255.81.234:8664/rtp/239.21.1.94:5002
 #EXTINF:-1 tvg-id="2" tvg-name="济南综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/济南综合.png" group-title="山东电信",济南综合
-http://144.255.36.37:8288/rtp/239.21.1.94:5002
-#EXTINF:-1 tvg-id="3" tvg-name="济南综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/济南综合.png" group-title="山东电信",济南综合
 http://144.255.40.242:4022/rtp/239.21.1.94:5002
 #EXTINF:-1 tvg-id="1" tvg-name="济南教育" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/济南教育.png" group-title="山东电信",济南教育
 http://144.255.81.234:8664/rtp/239.21.1.133:5002
 #EXTINF:-1 tvg-id="2" tvg-name="济南教育" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/济南教育.png" group-title="山东电信",济南教育
-http://144.255.36.37:8288/rtp/239.21.1.133:5002
-#EXTINF:-1 tvg-id="3" tvg-name="济南教育" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/济南教育.png" group-title="山东电信",济南教育
 http://144.255.40.242:4022/rtp/239.21.1.133:5002
 #EXTINF:-1 tvg-id="1" tvg-name="济宁综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/济宁综合.png" group-title="山东电信",济宁综合
 http://144.255.81.234:8664/rtp/239.21.2.19:5002
 #EXTINF:-1 tvg-id="2" tvg-name="济宁综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/济宁综合.png" group-title="山东电信",济宁综合
-http://144.255.36.37:8288/rtp/239.21.2.19:5002
-#EXTINF:-1 tvg-id="3" tvg-name="济宁综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/济宁综合.png" group-title="山东电信",济宁综合
 http://144.255.40.242:4022/rtp/239.21.2.19:5002
 #EXTINF:-1 tvg-id="1" tvg-name="济宁高新" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/济宁高新.png" group-title="山东电信",济宁高新
 http://144.255.81.234:8664/rtp/239.21.2.83:5002
 #EXTINF:-1 tvg-id="2" tvg-name="济宁高新" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/济宁高新.png" group-title="山东电信",济宁高新
-http://144.255.36.37:8288/rtp/239.21.2.83:5002
-#EXTINF:-1 tvg-id="3" tvg-name="济宁高新" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/济宁高新.png" group-title="山东电信",济宁高新
 http://144.255.40.242:4022/rtp/239.21.2.83:5002
 #EXTINF:-1 tvg-id="1" tvg-name="宁阳综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/宁阳综合.png" group-title="山东电信",宁阳综合
 http://144.255.81.234:8664/rtp/239.21.1.143:5002
 #EXTINF:-1 tvg-id="2" tvg-name="宁阳综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/宁阳综合.png" group-title="山东电信",宁阳综合
-http://144.255.36.37:8288/rtp/239.21.1.143:5002
-#EXTINF:-1 tvg-id="3" tvg-name="宁阳综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/宁阳综合.png" group-title="山东电信",宁阳综合
 http://144.255.40.242:4022/rtp/239.21.1.143:5002
 #EXTINF:-1 tvg-id="1" tvg-name="潍坊综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/潍坊综合.png" group-title="山东电信",潍坊综合
 http://144.255.81.234:8664/rtp/239.21.1.77:5002
 #EXTINF:-1 tvg-id="2" tvg-name="潍坊综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/潍坊综合.png" group-title="山东电信",潍坊综合
-http://144.255.36.37:8288/rtp/239.21.1.77:5002
-#EXTINF:-1 tvg-id="3" tvg-name="潍坊综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/潍坊综合.png" group-title="山东电信",潍坊综合
 http://144.255.40.242:4022/rtp/239.21.1.77:5002
 #EXTINF:-1 tvg-id="1" tvg-name="潍坊经济生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/潍坊经济生活.png" group-title="山东电信",潍坊经济生活
 http://144.255.81.234:8664/rtp/239.21.1.78:5002
 #EXTINF:-1 tvg-id="2" tvg-name="潍坊经济生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/潍坊经济生活.png" group-title="山东电信",潍坊经济生活
-http://144.255.36.37:8288/rtp/239.21.1.78:5002
-#EXTINF:-1 tvg-id="3" tvg-name="潍坊经济生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/潍坊经济生活.png" group-title="山东电信",潍坊经济生活
 http://144.255.40.242:4022/rtp/239.21.1.78:5002
 #EXTINF:-1 tvg-id="1" tvg-name="潍坊影视综艺" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/潍坊影视综艺.png" group-title="山东电信",潍坊影视综艺
 http://144.255.81.234:8664/rtp/239.21.2.88:5002
 #EXTINF:-1 tvg-id="2" tvg-name="潍坊影视综艺" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/潍坊影视综艺.png" group-title="山东电信",潍坊影视综艺
-http://144.255.36.37:8288/rtp/239.21.2.88:5002
-#EXTINF:-1 tvg-id="3" tvg-name="潍坊影视综艺" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/潍坊影视综艺.png" group-title="山东电信",潍坊影视综艺
 http://144.255.40.242:4022/rtp/239.21.2.88:5002
 #EXTINF:-1 tvg-id="1" tvg-name="潍坊高新区" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/潍坊高新区.png" group-title="山东电信",潍坊高新区
 http://144.255.81.234:8664/rtp/239.21.2.131:5002
 #EXTINF:-1 tvg-id="2" tvg-name="潍坊高新区" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/潍坊高新区.png" group-title="山东电信",潍坊高新区
-http://144.255.36.37:8288/rtp/239.21.2.131:5002
-#EXTINF:-1 tvg-id="3" tvg-name="潍坊高新区" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/潍坊高新区.png" group-title="山东电信",潍坊高新区
 http://144.255.40.242:4022/rtp/239.21.2.131:5002
 #EXTINF:-1 tvg-id="1" tvg-name="泰山综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/泰山综合.png" group-title="山东电信",泰山综合
 http://144.255.81.234:8664/rtp/239.21.2.147:5002
 #EXTINF:-1 tvg-id="2" tvg-name="泰山综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/泰山综合.png" group-title="山东电信",泰山综合
-http://144.255.36.37:8288/rtp/239.21.2.147:5002
-#EXTINF:-1 tvg-id="3" tvg-name="泰山综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/泰山综合.png" group-title="山东电信",泰山综合
 http://144.255.40.242:4022/rtp/239.21.2.147:5002
 #EXTINF:-1 tvg-id="1" tvg-name="鱼台综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/鱼台综合.png" group-title="山东电信",鱼台综合
 http://144.255.81.234:8664/rtp/239.21.2.134:5002
 #EXTINF:-1 tvg-id="2" tvg-name="鱼台综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/鱼台综合.png" group-title="山东电信",鱼台综合
-http://144.255.36.37:8288/rtp/239.21.2.134:5002
-#EXTINF:-1 tvg-id="3" tvg-name="鱼台综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/鱼台综合.png" group-title="山东电信",鱼台综合
 http://144.255.40.242:4022/rtp/239.21.2.134:5002
 #EXTINF:-1 tvg-id="1" tvg-name="鱼台生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/鱼台生活.png" group-title="山东电信",鱼台生活
 http://144.255.81.234:8664/rtp/239.21.2.135:5002
 #EXTINF:-1 tvg-id="2" tvg-name="鱼台生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/鱼台生活.png" group-title="山东电信",鱼台生活
-http://144.255.36.37:8288/rtp/239.21.2.135:5002
-#EXTINF:-1 tvg-id="3" tvg-name="鱼台生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/鱼台生活.png" group-title="山东电信",鱼台生活
 http://144.255.40.242:4022/rtp/239.21.2.135:5002
 #EXTINF:-1 tvg-id="1" tvg-name="嘉祥综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/嘉祥综合.png" group-title="山东电信",嘉祥综合
 http://144.255.81.234:8664/rtp/239.21.2.84:5002
 #EXTINF:-1 tvg-id="2" tvg-name="嘉祥综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/嘉祥综合.png" group-title="山东电信",嘉祥综合
-http://144.255.36.37:8288/rtp/239.21.2.84:5002
-#EXTINF:-1 tvg-id="3" tvg-name="嘉祥综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/嘉祥综合.png" group-title="山东电信",嘉祥综合
 http://144.255.40.242:4022/rtp/239.21.2.84:5002
 #EXTINF:-1 tvg-id="1" tvg-name="东平综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/东平综合.png" group-title="山东电信",东平综合
 http://144.255.81.234:8664/rtp/239.21.1.216:5002
 #EXTINF:-1 tvg-id="2" tvg-name="东平综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/东平综合.png" group-title="山东电信",东平综合
-http://144.255.36.37:8288/rtp/239.21.1.216:5002
-#EXTINF:-1 tvg-id="3" tvg-name="东平综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/东平综合.png" group-title="山东电信",东平综合
 http://144.255.40.242:4022/rtp/239.21.1.216:5002
 #EXTINF:-1 tvg-id="1" tvg-name="乳山综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/乳山综合.png" group-title="山东电信",乳山综合
 http://144.255.81.234:8664/rtp/239.21.1.220:5002
 #EXTINF:-1 tvg-id="2" tvg-name="乳山综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/乳山综合.png" group-title="山东电信",乳山综合
-http://144.255.36.37:8288/rtp/239.21.1.220:5002
-#EXTINF:-1 tvg-id="3" tvg-name="乳山综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/乳山综合.png" group-title="山东电信",乳山综合
 http://144.255.40.242:4022/rtp/239.21.1.220:5002
 #EXTINF:-1 tvg-id="1" tvg-name="兖州新闻" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/兖州新闻.png" group-title="山东电信",兖州新闻
 http://144.255.81.234:8664/rtp/239.21.1.224:5002
 #EXTINF:-1 tvg-id="2" tvg-name="兖州新闻" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/兖州新闻.png" group-title="山东电信",兖州新闻
-http://144.255.36.37:8288/rtp/239.21.1.224:5002
-#EXTINF:-1 tvg-id="3" tvg-name="兖州新闻" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/兖州新闻.png" group-title="山东电信",兖州新闻
 http://144.255.40.242:4022/rtp/239.21.1.224:5002
 #EXTINF:-1 tvg-id="1" tvg-name="兰陵综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/兰陵综合.png" group-title="山东电信",兰陵综合
 http://144.255.81.234:8664/rtp/239.21.1.237:5002
 #EXTINF:-1 tvg-id="2" tvg-name="兰陵综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/兰陵综合.png" group-title="山东电信",兰陵综合
-http://144.255.36.37:8288/rtp/239.21.1.237:5002
-#EXTINF:-1 tvg-id="3" tvg-name="兰陵综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/兰陵综合.png" group-title="山东电信",兰陵综合
 http://144.255.40.242:4022/rtp/239.21.1.237:5002
 #EXTINF:-1 tvg-id="1" tvg-name="夏津公共" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/夏津公共.png" group-title="山东电信",夏津公共
 http://144.255.81.234:8664/rtp/239.21.1.102:5002
 #EXTINF:-1 tvg-id="2" tvg-name="夏津公共" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/夏津公共.png" group-title="山东电信",夏津公共
-http://144.255.36.37:8288/rtp/239.21.1.102:5002
-#EXTINF:-1 tvg-id="3" tvg-name="夏津公共" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/夏津公共.png" group-title="山东电信",夏津公共
 http://144.255.40.242:4022/rtp/239.21.1.102:5002
 #EXTINF:-1 tvg-id="1" tvg-name="夏津综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/夏津综合.png" group-title="山东电信",夏津综合
 http://144.255.81.234:8664/rtp/239.21.1.106:5002
 #EXTINF:-1 tvg-id="2" tvg-name="夏津综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/夏津综合.png" group-title="山东电信",夏津综合
-http://144.255.36.37:8288/rtp/239.21.1.106:5002
-#EXTINF:-1 tvg-id="3" tvg-name="夏津综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/夏津综合.png" group-title="山东电信",夏津综合
 http://144.255.40.242:4022/rtp/239.21.1.106:5002
 #EXTINF:-1 tvg-id="1" tvg-name="宁津综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/宁津综合.png" group-title="山东电信",宁津综合
 http://144.255.81.234:8664/rtp/239.21.2.50:5002
 #EXTINF:-1 tvg-id="2" tvg-name="宁津综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/宁津综合.png" group-title="山东电信",宁津综合
-http://144.255.36.37:8288/rtp/239.21.2.50:5002
-#EXTINF:-1 tvg-id="3" tvg-name="宁津综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/宁津综合.png" group-title="山东电信",宁津综合
 http://144.255.40.242:4022/rtp/239.21.2.50:5002
 #EXTINF:-1 tvg-id="1" tvg-name="安丘综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/安丘综合.png" group-title="山东电信",安丘综合
 http://144.255.81.234:8664/rtp/239.21.2.13:5002
 #EXTINF:-1 tvg-id="2" tvg-name="安丘综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/安丘综合.png" group-title="山东电信",安丘综合
-http://144.255.36.37:8288/rtp/239.21.2.13:5002
-#EXTINF:-1 tvg-id="3" tvg-name="安丘综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/安丘综合.png" group-title="山东电信",安丘综合
 http://144.255.40.242:4022/rtp/239.21.2.13:5002
 #EXTINF:-1 tvg-id="1" tvg-name="烟台影视" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/烟台影视.png" group-title="山东电信",烟台影视
 http://144.255.81.234:8664/rtp/239.21.1.204:5002
 #EXTINF:-1 tvg-id="2" tvg-name="烟台影视" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/烟台影视.png" group-title="山东电信",烟台影视
-http://144.255.36.37:8288/rtp/239.21.1.204:5002
-#EXTINF:-1 tvg-id="3" tvg-name="烟台影视" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/烟台影视.png" group-title="山东电信",烟台影视
 http://144.255.40.242:4022/rtp/239.21.1.204:5002
 #EXTINF:-1 tvg-id="1" tvg-name="烟台综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/烟台综合.png" group-title="山东电信",烟台综合
 http://144.255.81.234:8664/rtp/239.21.1.116:5002
 #EXTINF:-1 tvg-id="2" tvg-name="烟台综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/烟台综合.png" group-title="山东电信",烟台综合
-http://144.255.36.37:8288/rtp/239.21.1.116:5002
-#EXTINF:-1 tvg-id="3" tvg-name="烟台综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/烟台综合.png" group-title="山东电信",烟台综合
 http://144.255.40.242:4022/rtp/239.21.1.116:5002
 #EXTINF:-1 tvg-id="1" tvg-name="烟台经济科技" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/烟台经济科技.png" group-title="山东电信",烟台经济科技
 http://144.255.81.234:8664/rtp/239.21.1.205:5002
 #EXTINF:-1 tvg-id="2" tvg-name="烟台经济科技" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/烟台经济科技.png" group-title="山东电信",烟台经济科技
-http://144.255.36.37:8288/rtp/239.21.1.205:5002
-#EXTINF:-1 tvg-id="3" tvg-name="烟台经济科技" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/烟台经济科技.png" group-title="山东电信",烟台经济科技
 http://144.255.40.242:4022/rtp/239.21.1.205:5002
 #EXTINF:-1 tvg-id="1" tvg-name="禹城综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/禹城综合.png" group-title="山东电信",禹城综合
 http://144.255.81.234:8664/rtp/239.21.1.241:5002
 #EXTINF:-1 tvg-id="2" tvg-name="禹城综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/禹城综合.png" group-title="山东电信",禹城综合
-http://144.255.36.37:8288/rtp/239.21.1.241:5002
-#EXTINF:-1 tvg-id="3" tvg-name="禹城综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/禹城综合.png" group-title="山东电信",禹城综合
 http://144.255.40.242:4022/rtp/239.21.1.241:5002
 #EXTINF:-1 tvg-id="1" tvg-name="禹城综艺" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/禹城综艺.png" group-title="山东电信",禹城综艺
 http://144.255.81.234:8664/rtp/239.21.1.242:5002
 #EXTINF:-1 tvg-id="2" tvg-name="禹城综艺" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/禹城综艺.png" group-title="山东电信",禹城综艺
-http://144.255.36.37:8288/rtp/239.21.1.242:5002
-#EXTINF:-1 tvg-id="3" tvg-name="禹城综艺" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/禹城综艺.png" group-title="山东电信",禹城综艺
 http://144.255.40.242:4022/rtp/239.21.1.242:5002
 #EXTINF:-1 tvg-id="1" tvg-name="聊城民生" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/聊城民生.png" group-title="山东电信",聊城民生
 http://144.255.81.234:8664/rtp/239.21.1.254:5002
 #EXTINF:-1 tvg-id="2" tvg-name="聊城民生" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/聊城民生.png" group-title="山东电信",聊城民生
-http://144.255.36.37:8288/rtp/239.21.1.254:5002
-#EXTINF:-1 tvg-id="3" tvg-name="聊城民生" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/聊城民生.png" group-title="山东电信",聊城民生
 http://144.255.40.242:4022/rtp/239.21.1.254:5002
 #EXTINF:-1 tvg-id="1" tvg-name="聊城综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/聊城综合.png" group-title="山东电信",聊城综合
 http://144.255.81.234:8664/rtp/239.21.1.253:5002
 #EXTINF:-1 tvg-id="2" tvg-name="聊城综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/聊城综合.png" group-title="山东电信",聊城综合
-http://144.255.36.37:8288/rtp/239.21.1.253:5002
-#EXTINF:-1 tvg-id="3" tvg-name="聊城综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/聊城综合.png" group-title="山东电信",聊城综合
 http://144.255.40.242:4022/rtp/239.21.1.253:5002
 #EXTINF:-1 tvg-id="1" tvg-name="茌平综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/茌平综合.png" group-title="山东电信",茌平综合
 http://144.255.81.234:8664/rtp/239.21.1.219:5002
 #EXTINF:-1 tvg-id="2" tvg-name="茌平综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/茌平综合.png" group-title="山东电信",茌平综合
-http://144.255.36.37:8288/rtp/239.21.1.219:5002
-#EXTINF:-1 tvg-id="3" tvg-name="茌平综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/茌平综合.png" group-title="山东电信",茌平综合
 http://144.255.40.242:4022/rtp/239.21.1.219:5002
 #EXTINF:-1 tvg-id="1" tvg-name="荣成综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/荣成综合.png" group-title="山东电信",荣成综合
 http://144.255.81.234:8664/rtp/239.21.1.227:5002
 #EXTINF:-1 tvg-id="2" tvg-name="荣成综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/荣成综合.png" group-title="山东电信",荣成综合
-http://144.255.36.37:8288/rtp/239.21.1.227:5002
-#EXTINF:-1 tvg-id="3" tvg-name="荣成综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/荣成综合.png" group-title="山东电信",荣成综合
 http://144.255.40.242:4022/rtp/239.21.1.227:5002
 #EXTINF:-1 tvg-id="1" tvg-name="莘县综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/莘县综合.png" group-title="山东电信",莘县综合
 http://144.255.81.234:8664/rtp/239.21.1.211:5002
 #EXTINF:-1 tvg-id="2" tvg-name="莘县综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/莘县综合.png" group-title="山东电信",莘县综合
-http://144.255.36.37:8288/rtp/239.21.1.211:5002
-#EXTINF:-1 tvg-id="3" tvg-name="莘县综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/莘县综合.png" group-title="山东电信",莘县综合
 http://144.255.40.242:4022/rtp/239.21.1.211:5002
 #EXTINF:-1 tvg-id="1" tvg-name="莱西综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/莱西综合.png" group-title="山东电信",莱西综合
 http://144.255.81.234:8664/rtp/239.21.1.247:5002
 #EXTINF:-1 tvg-id="2" tvg-name="莱西综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/莱西综合.png" group-title="山东电信",莱西综合
-http://144.255.36.37:8288/rtp/239.21.1.247:5002
-#EXTINF:-1 tvg-id="3" tvg-name="莱西综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/莱西综合.png" group-title="山东电信",莱西综合
 http://144.255.40.242:4022/rtp/239.21.1.247:5002
 #EXTINF:-1 tvg-id="1" tvg-name="定陶TV-1" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/定陶TV-1.png" group-title="山东电信",定陶TV-1
 http://144.255.81.234:8664/rtp/239.21.1.244:5002
 #EXTINF:-1 tvg-id="2" tvg-name="定陶TV-1" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/定陶TV-1.png" group-title="山东电信",定陶TV-1
-http://144.255.36.37:8288/rtp/239.21.1.244:5002
-#EXTINF:-1 tvg-id="3" tvg-name="定陶TV-1" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/定陶TV-1.png" group-title="山东电信",定陶TV-1
 http://144.255.40.242:4022/rtp/239.21.1.244:5002
 #EXTINF:-1 tvg-id="1" tvg-name="文登TV-1" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/文登TV-1.png" group-title="山东电信",文登TV-1
 http://144.255.81.234:8664/rtp/239.21.1.174:5002
 #EXTINF:-1 tvg-id="2" tvg-name="文登TV-1" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/文登TV-1.png" group-title="山东电信",文登TV-1
-http://144.255.36.37:8288/rtp/239.21.1.174:5002
-#EXTINF:-1 tvg-id="3" tvg-name="文登TV-1" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/文登TV-1.png" group-title="山东电信",文登TV-1
 http://144.255.40.242:4022/rtp/239.21.1.174:5002
 #EXTINF:-1 tvg-id="1" tvg-name="邹城综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/邹城综合.png" group-title="山东电信",邹城综合
 http://144.255.81.234:8664/rtp/239.21.1.185:5002
 #EXTINF:-1 tvg-id="2" tvg-name="邹城综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/邹城综合.png" group-title="山东电信",邹城综合
-http://144.255.36.37:8288/rtp/239.21.1.185:5002
-#EXTINF:-1 tvg-id="3" tvg-name="邹城综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/邹城综合.png" group-title="山东电信",邹城综合
 http://144.255.40.242:4022/rtp/239.21.1.185:5002
 #EXTINF:-1 tvg-id="1" tvg-name="阳信新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/阳信新闻综合.png" group-title="山东电信",阳信新闻综合
 http://144.255.81.234:8664/rtp/239.21.1.252:5002
 #EXTINF:-1 tvg-id="2" tvg-name="阳信新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/阳信新闻综合.png" group-title="山东电信",阳信新闻综合
-http://144.255.36.37:8288/rtp/239.21.1.252:5002
-#EXTINF:-1 tvg-id="3" tvg-name="阳信新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/阳信新闻综合.png" group-title="山东电信",阳信新闻综合
 http://144.255.40.242:4022/rtp/239.21.1.252:5002
 #EXTINF:-1 tvg-id="1" tvg-name="陵城综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/陵城综合.png" group-title="山东电信",陵城综合
 http://144.255.81.234:8664/rtp/239.21.2.24:5002
 #EXTINF:-1 tvg-id="2" tvg-name="陵城综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/陵城综合.png" group-title="山东电信",陵城综合
-http://144.255.36.37:8288/rtp/239.21.2.24:5002
-#EXTINF:-1 tvg-id="3" tvg-name="陵城综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/陵城综合.png" group-title="山东电信",陵城综合
 http://144.255.40.242:4022/rtp/239.21.2.24:5002
 #EXTINF:-1 tvg-id="1" tvg-name="青州文化旅游" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/青州文化旅游.png" group-title="山东电信",青州文化旅游
 http://144.255.81.234:8664/rtp/239.21.1.231:5002
 #EXTINF:-1 tvg-id="2" tvg-name="青州文化旅游" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/青州文化旅游.png" group-title="山东电信",青州文化旅游
-http://144.255.36.37:8288/rtp/239.21.1.231:5002
-#EXTINF:-1 tvg-id="3" tvg-name="青州文化旅游" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/青州文化旅游.png" group-title="山东电信",青州文化旅游
 http://144.255.40.242:4022/rtp/239.21.1.231:5002
 #EXTINF:-1 tvg-id="1" tvg-name="青州综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/青州综合.png" group-title="山东电信",青州综合
 http://144.255.81.234:8664/rtp/239.21.1.232:5002
 #EXTINF:-1 tvg-id="2" tvg-name="青州综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/青州综合.png" group-title="山东电信",青州综合
-http://144.255.36.37:8288/rtp/239.21.1.232:5002
-#EXTINF:-1 tvg-id="3" tvg-name="青州综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/青州综合.png" group-title="山东电信",青州综合
 http://144.255.40.242:4022/rtp/239.21.1.232:5002
 #EXTINF:-1 tvg-id="1" tvg-name="齐河综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/齐河综合.png" group-title="山东电信",齐河综合
 http://144.255.81.234:8664/rtp/239.21.1.230:5002
 #EXTINF:-1 tvg-id="2" tvg-name="齐河综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/齐河综合.png" group-title="山东电信",齐河综合
-http://144.255.36.37:8288/rtp/239.21.1.230:5002
-#EXTINF:-1 tvg-id="3" tvg-name="齐河综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/齐河综合.png" group-title="山东电信",齐河综合
 http://144.255.40.242:4022/rtp/239.21.1.230:5002
 #EXTINF:-1 tvg-id="1" tvg-name="巨野新闻" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/巨野新闻.png" group-title="山东电信",巨野新闻
 http://144.255.81.234:8664/rtp/239.21.1.215:5002
 #EXTINF:-1 tvg-id="2" tvg-name="巨野新闻" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/巨野新闻.png" group-title="山东电信",巨野新闻
-http://144.255.36.37:8288/rtp/239.21.1.215:5002
-#EXTINF:-1 tvg-id="3" tvg-name="巨野新闻" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/巨野新闻.png" group-title="山东电信",巨野新闻
 http://144.255.40.242:4022/rtp/239.21.1.215:5002
 #EXTINF:-1 tvg-id="1" tvg-name="平原综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/平原综合.png" group-title="山东电信",平原综合
 http://144.255.81.234:8664/rtp/239.21.1.243:5002
 #EXTINF:-1 tvg-id="2" tvg-name="平原综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/平原综合.png" group-title="山东电信",平原综合
-http://144.255.36.37:8288/rtp/239.21.1.243:5002
-#EXTINF:-1 tvg-id="3" tvg-name="平原综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/平原综合.png" group-title="山东电信",平原综合
 http://144.255.40.242:4022/rtp/239.21.1.243:5002
 #EXTINF:-1 tvg-id="1" tvg-name="平度新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/平度新闻综合.png" group-title="山东电信",平度新闻综合
 http://144.255.81.234:8664/rtp/239.21.1.228:5002
 #EXTINF:-1 tvg-id="2" tvg-name="平度新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/平度新闻综合.png" group-title="山东电信",平度新闻综合
-http://144.255.36.37:8288/rtp/239.21.1.228:5002
-#EXTINF:-1 tvg-id="3" tvg-name="平度新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/平度新闻综合.png" group-title="山东电信",平度新闻综合
 http://144.255.40.242:4022/rtp/239.21.1.228:5002
 #EXTINF:-1 tvg-id="1" tvg-name="平阴综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/平阴综合.png" group-title="山东电信",平阴综合
 http://144.255.81.234:8664/rtp/239.21.1.221:5002
 #EXTINF:-1 tvg-id="2" tvg-name="平阴综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/平阴综合.png" group-title="山东电信",平阴综合
-http://144.255.36.37:8288/rtp/239.21.1.221:5002
-#EXTINF:-1 tvg-id="3" tvg-name="平阴综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/平阴综合.png" group-title="山东电信",平阴综合
 http://144.255.40.242:4022/rtp/239.21.1.221:5002
 #EXTINF:-1 tvg-id="1" tvg-name="德州经济生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/德州经济生活.png" group-title="山东电信",德州经济生活
 http://144.255.81.234:8664/rtp/239.21.1.76:5002
 #EXTINF:-1 tvg-id="2" tvg-name="德州经济生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/德州经济生活.png" group-title="山东电信",德州经济生活
-http://144.255.36.37:8288/rtp/239.21.1.76:5002
-#EXTINF:-1 tvg-id="3" tvg-name="德州经济生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/德州经济生活.png" group-title="山东电信",德州经济生活
 http://144.255.40.242:4022/rtp/239.21.1.76:5002
 #EXTINF:-1 tvg-id="1" tvg-name="德州新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/德州新闻综合.png" group-title="山东电信",德州新闻综合
 http://144.255.81.234:8664/rtp/239.21.1.75:5002
 #EXTINF:-1 tvg-id="2" tvg-name="德州新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/德州新闻综合.png" group-title="山东电信",德州新闻综合
-http://144.255.36.37:8288/rtp/239.21.1.75:5002
-#EXTINF:-1 tvg-id="3" tvg-name="德州新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/德州新闻综合.png" group-title="山东电信",德州新闻综合
 http://144.255.40.242:4022/rtp/239.21.1.75:5002
 #EXTINF:-1 tvg-id="1" tvg-name="新泰乡村" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/新泰乡村.png" group-title="山东电信",新泰乡村
 http://144.255.81.234:8664/rtp/239.21.1.248:5002
 #EXTINF:-1 tvg-id="2" tvg-name="新泰乡村" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/新泰乡村.png" group-title="山东电信",新泰乡村
-http://144.255.36.37:8288/rtp/239.21.1.248:5002
-#EXTINF:-1 tvg-id="3" tvg-name="新泰乡村" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/新泰乡村.png" group-title="山东电信",新泰乡村
 http://144.255.40.242:4022/rtp/239.21.1.248:5002
 #EXTINF:-1 tvg-id="1" tvg-name="新泰综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/新泰综合.png" group-title="山东电信",新泰综合
 http://144.255.81.234:8664/rtp/239.21.1.210:5002
 #EXTINF:-1 tvg-id="2" tvg-name="新泰综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/新泰综合.png" group-title="山东电信",新泰综合
-http://144.255.36.37:8288/rtp/239.21.1.210:5002
-#EXTINF:-1 tvg-id="3" tvg-name="新泰综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/新泰综合.png" group-title="山东电信",新泰综合
 http://144.255.40.242:4022/rtp/239.21.1.210:5002
 #EXTINF:-1 tvg-id="1" tvg-name="昌乐综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/昌乐综合.png" group-title="山东电信",昌乐综合
 http://144.255.81.234:8664/rtp/239.21.1.245:5002
 #EXTINF:-1 tvg-id="2" tvg-name="昌乐综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/昌乐综合.png" group-title="山东电信",昌乐综合
-http://144.255.36.37:8288/rtp/239.21.1.245:5002
-#EXTINF:-1 tvg-id="3" tvg-name="昌乐综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/昌乐综合.png" group-title="山东电信",昌乐综合
 http://144.255.40.242:4022/rtp/239.21.1.245:5002
 #EXTINF:-1 tvg-id="1" tvg-name="昌邑综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/昌邑综合.png" group-title="山东电信",昌邑综合
 http://144.255.81.234:8664/rtp/239.21.2.27:5002
 #EXTINF:-1 tvg-id="2" tvg-name="昌邑综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/昌邑综合.png" group-title="山东电信",昌邑综合
-http://144.255.36.37:8288/rtp/239.21.2.27:5002
-#EXTINF:-1 tvg-id="3" tvg-name="昌邑综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/昌邑综合.png" group-title="山东电信",昌邑综合
 http://144.255.40.242:4022/rtp/239.21.2.27:5002
 #EXTINF:-1 tvg-id="1" tvg-name="曲阜综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/曲阜综合.png" group-title="山东电信",曲阜综合
 http://144.255.81.234:8664/rtp/239.21.1.225:5002
 #EXTINF:-1 tvg-id="2" tvg-name="曲阜综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/曲阜综合.png" group-title="山东电信",曲阜综合
-http://144.255.36.37:8288/rtp/239.21.1.225:5002
-#EXTINF:-1 tvg-id="3" tvg-name="曲阜综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/曲阜综合.png" group-title="山东电信",曲阜综合
 http://144.255.40.242:4022/rtp/239.21.1.225:5002
 #EXTINF:-1 tvg-id="1" tvg-name="梁山综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/梁山综合.png" group-title="山东电信",梁山综合
 http://144.255.81.234:8664/rtp/239.21.2.12:5002
 #EXTINF:-1 tvg-id="2" tvg-name="梁山综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/梁山综合.png" group-title="山东电信",梁山综合
-http://144.255.36.37:8288/rtp/239.21.2.12:5002
-#EXTINF:-1 tvg-id="3" tvg-name="梁山综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/梁山综合.png" group-title="山东电信",梁山综合
 http://144.255.40.242:4022/rtp/239.21.2.12:5002
 #EXTINF:-1 tvg-id="1" tvg-name="武城综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/武城综合.png" group-title="山东电信",武城综合
 http://144.255.81.234:8664/rtp/239.21.1.239:5002
 #EXTINF:-1 tvg-id="2" tvg-name="武城综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/武城综合.png" group-title="山东电信",武城综合
-http://144.255.36.37:8288/rtp/239.21.1.239:5002
-#EXTINF:-1 tvg-id="3" tvg-name="武城综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/武城综合.png" group-title="山东电信",武城综合
 http://144.255.40.242:4022/rtp/239.21.1.239:5002
 #EXTINF:-1 tvg-id="1" tvg-name="沾化综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/沾化综合.png" group-title="山东电信",沾化综合
 http://144.255.81.234:8664/rtp/239.21.1.226:5002
 #EXTINF:-1 tvg-id="2" tvg-name="沾化综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/沾化综合.png" group-title="山东电信",沾化综合
-http://144.255.36.37:8288/rtp/239.21.1.226:5002
-#EXTINF:-1 tvg-id="3" tvg-name="沾化综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/沾化综合.png" group-title="山东电信",沾化综合
 http://144.255.40.242:4022/rtp/239.21.1.226:5002
 #EXTINF:-1 tvg-id="1" tvg-name="淄博影视" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/淄博影视.png" group-title="山东电信",淄博影视
 http://144.255.81.234:8664/rtp/239.21.1.182:5002
 #EXTINF:-1 tvg-id="2" tvg-name="淄博影视" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/淄博影视.png" group-title="山东电信",淄博影视
-http://144.255.36.37:8288/rtp/239.21.1.182:5002
-#EXTINF:-1 tvg-id="3" tvg-name="淄博影视" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/淄博影视.png" group-title="山东电信",淄博影视
 http://144.255.40.242:4022/rtp/239.21.1.182:5002
 #EXTINF:-1 tvg-id="1" tvg-name="淄博新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/淄博新闻综合.png" group-title="山东电信",淄博新闻综合
 http://144.255.81.234:8664/rtp/239.21.1.84:5002
 #EXTINF:-1 tvg-id="2" tvg-name="淄博新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/淄博新闻综合.png" group-title="山东电信",淄博新闻综合
-http://144.255.36.37:8288/rtp/239.21.1.84:5002
-#EXTINF:-1 tvg-id="3" tvg-name="淄博新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/淄博新闻综合.png" group-title="山东电信",淄博新闻综合
 http://144.255.40.242:4022/rtp/239.21.1.84:5002
 #EXTINF:-1 tvg-id="1" tvg-name="广饶综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/广饶综合.png" group-title="山东电信",广饶综合
 http://144.255.81.234:8664/rtp/239.21.1.193:5002
 #EXTINF:-1 tvg-id="2" tvg-name="广饶综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/广饶综合.png" group-title="山东电信",广饶综合
-http://144.255.36.37:8288/rtp/239.21.1.193:5002
-#EXTINF:-1 tvg-id="3" tvg-name="广饶综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/广饶综合.png" group-title="山东电信",广饶综合
 http://144.255.40.242:4022/rtp/239.21.1.193:5002
 #EXTINF:-1 tvg-id="1" tvg-name="无棣综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/无棣综合.png" group-title="山东电信",无棣综合
 http://144.255.81.234:8664/rtp/239.21.1.214:5002
 #EXTINF:-1 tvg-id="2" tvg-name="无棣综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/无棣综合.png" group-title="山东电信",无棣综合
-http://144.255.36.37:8288/rtp/239.21.1.214:5002
-#EXTINF:-1 tvg-id="3" tvg-name="无棣综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/无棣综合.png" group-title="山东电信",无棣综合
 http://144.255.40.242:4022/rtp/239.21.1.214:5002
 #EXTINF:-1 tvg-id="1" tvg-name="日照岚山" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/日照岚山.png" group-title="山东电信",日照岚山
 http://144.255.81.234:8664/rtp/239.21.1.209:5002
 #EXTINF:-1 tvg-id="2" tvg-name="日照岚山" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/日照岚山.png" group-title="山东电信",日照岚山
-http://144.255.36.37:8288/rtp/239.21.1.209:5002
-#EXTINF:-1 tvg-id="3" tvg-name="日照岚山" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/日照岚山.png" group-title="山东电信",日照岚山
 http://144.255.40.242:4022/rtp/239.21.1.209:5002
 #EXTINF:-1 tvg-id="1" tvg-name="蒙阴综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/蒙阴综合.png" group-title="山东电信",蒙阴综合
 http://144.255.81.234:8664/rtp/239.21.2.23:5002
 #EXTINF:-1 tvg-id="2" tvg-name="蒙阴综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/蒙阴综合.png" group-title="山东电信",蒙阴综合
-http://144.255.36.37:8288/rtp/239.21.2.23:5002
-#EXTINF:-1 tvg-id="3" tvg-name="蒙阴综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/蒙阴综合.png" group-title="山东电信",蒙阴综合
 http://144.255.40.242:4022/rtp/239.21.2.23:5002
 #EXTINF:-1 tvg-id="1" tvg-name="单县综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/单县综合.png" group-title="山东电信",单县综合
 http://144.255.81.234:8664/rtp/239.21.2.21:5002
 #EXTINF:-1 tvg-id="2" tvg-name="单县综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/单县综合.png" group-title="山东电信",单县综合
-http://144.255.36.37:8288/rtp/239.21.2.21:5002
-#EXTINF:-1 tvg-id="3" tvg-name="单县综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/单县综合.png" group-title="山东电信",单县综合
 http://144.255.40.242:4022/rtp/239.21.2.21:5002
 #EXTINF:-1 tvg-id="1" tvg-name="济阳综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/济阳综合.png" group-title="山东电信",济阳综合
 http://144.255.81.234:8664/rtp/239.21.1.187:5002
 #EXTINF:-1 tvg-id="2" tvg-name="济阳综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/济阳综合.png" group-title="山东电信",济阳综合
-http://144.255.36.37:8288/rtp/239.21.1.187:5002
-#EXTINF:-1 tvg-id="3" tvg-name="济阳综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/济阳综合.png" group-title="山东电信",济阳综合
 http://144.255.40.242:4022/rtp/239.21.1.187:5002
 #EXTINF:-1 tvg-id="1" tvg-name="滨州综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/滨州综合.png" group-title="山东电信",滨州综合
 http://144.255.81.234:8664/rtp/239.21.1.238:5002
 #EXTINF:-1 tvg-id="2" tvg-name="滨州综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/滨州综合.png" group-title="山东电信",滨州综合
-http://144.255.36.37:8288/rtp/239.21.1.238:5002
-#EXTINF:-1 tvg-id="3" tvg-name="滨州综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/滨州综合.png" group-title="山东电信",滨州综合
 http://144.255.40.242:4022/rtp/239.21.1.238:5002
 #EXTINF:-1 tvg-id="1" tvg-name="海洋频道" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海洋频道.png" group-title="山东电信",海洋频道
 http://144.255.81.234:8664/rtp/239.21.2.119:5002
 #EXTINF:-1 tvg-id="2" tvg-name="海洋频道" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海洋频道.png" group-title="山东电信",海洋频道
-http://144.255.36.37:8288/rtp/239.21.2.119:5002
-#EXTINF:-1 tvg-id="3" tvg-name="海洋频道" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海洋频道.png" group-title="山东电信",海洋频道
 http://144.255.40.242:4022/rtp/239.21.2.119:5002
 #EXTINF:-1 tvg-id="1" tvg-name="崂山综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/崂山综合.png" group-title="山东电信",崂山综合
 http://144.255.81.234:8664/rtp/239.21.2.122:5002
 #EXTINF:-1 tvg-id="2" tvg-name="崂山综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/崂山综合.png" group-title="山东电信",崂山综合
-http://144.255.36.37:8288/rtp/239.21.2.122:5002
-#EXTINF:-1 tvg-id="3" tvg-name="崂山综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/崂山综合.png" group-title="山东电信",崂山综合
 http://144.255.40.242:4022/rtp/239.21.2.122:5002
 #EXTINF:-1 tvg-id="1" tvg-name="临清综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/临清综合.png" group-title="山东电信",临清综合
 http://144.255.81.234:8664/rtp/239.21.2.123:5002
 #EXTINF:-1 tvg-id="2" tvg-name="临清综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/临清综合.png" group-title="山东电信",临清综合
-http://144.255.36.37:8288/rtp/239.21.2.123:5002
-#EXTINF:-1 tvg-id="3" tvg-name="临清综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/临清综合.png" group-title="山东电信",临清综合
 http://144.255.40.242:4022/rtp/239.21.2.123:5002
 #EXTINF:-1 tvg-id="1" tvg-name="临沂综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/临沂综合.png" group-title="山东电信",临沂综合
 http://144.255.81.234:8664/rtp/239.21.2.130:5002
 #EXTINF:-1 tvg-id="2" tvg-name="临沂综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/临沂综合.png" group-title="山东电信",临沂综合
-http://144.255.36.37:8288/rtp/239.21.2.130:5002
-#EXTINF:-1 tvg-id="3" tvg-name="临沂综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/临沂综合.png" group-title="山东电信",临沂综合
 http://144.255.40.242:4022/rtp/239.21.2.130:5002
 #EXTINF:-1 tvg-id="1" tvg-name="历城综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/历城综合.png" group-title="山东电信",历城综合
 http://144.255.81.234:8664/rtp/239.21.2.132:5002
 #EXTINF:-1 tvg-id="2" tvg-name="历城综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/历城综合.png" group-title="山东电信",历城综合
-http://144.255.36.37:8288/rtp/239.21.2.132:5002
-#EXTINF:-1 tvg-id="3" tvg-name="历城综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/历城综合.png" group-title="山东电信",历城综合
 http://144.255.40.242:4022/rtp/239.21.2.132:5002
 #EXTINF:-1 tvg-id="1" tvg-name="河东综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河东综合.png" group-title="山东电信",河东综合
 http://144.255.81.234:8664/rtp/239.21.2.136:5002
 #EXTINF:-1 tvg-id="2" tvg-name="河东综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河东综合.png" group-title="山东电信",河东综合
-http://144.255.36.37:8288/rtp/239.21.2.136:5002
-#EXTINF:-1 tvg-id="3" tvg-name="河东综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/河东综合.png" group-title="山东电信",河东综合
 http://144.255.40.242:4022/rtp/239.21.2.136:5002
 #EXTINF:-1 tvg-id="1" tvg-name="岱岳综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/岱岳综合.png" group-title="山东电信",岱岳综合
 http://144.255.81.234:8664/rtp/239.21.2.139:5002
 #EXTINF:-1 tvg-id="2" tvg-name="岱岳综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/岱岳综合.png" group-title="山东电信",岱岳综合
-http://144.255.36.37:8288/rtp/239.21.2.139:5002
-#EXTINF:-1 tvg-id="3" tvg-name="岱岳综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/岱岳综合.png" group-title="山东电信",岱岳综合
 http://144.255.40.242:4022/rtp/239.21.2.139:5002
 #EXTINF:-1 tvg-id="1" tvg-name="任城综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/任城综合.png" group-title="山东电信",任城综合
 http://144.255.81.234:8664/rtp/239.21.2.143:5002
 #EXTINF:-1 tvg-id="2" tvg-name="任城综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/任城综合.png" group-title="山东电信",任城综合
-http://144.255.36.37:8288/rtp/239.21.2.143:5002
-#EXTINF:-1 tvg-id="3" tvg-name="任城综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/任城综合.png" group-title="山东电信",任城综合
 http://144.255.40.242:4022/rtp/239.21.2.143:5002
 #EXTINF:-1 tvg-id="1" tvg-name="任城生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/任城生活.png" group-title="山东电信",任城生活
 http://144.255.81.234:8664/rtp/239.21.2.144:5002
 #EXTINF:-1 tvg-id="2" tvg-name="任城生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/任城生活.png" group-title="山东电信",任城生活
-http://144.255.36.37:8288/rtp/239.21.2.144:5002
-#EXTINF:-1 tvg-id="3" tvg-name="任城生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/任城生活.png" group-title="山东电信",任城生活
 http://144.255.40.242:4022/rtp/239.21.2.144:5002
 #EXTINF:-1 tvg-id="1" tvg-name="海南公共" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海南公共.png" group-title="海南电信",海南公共
-http://59.50.81.15:4022/rtp/239.253.64.14:5140
+http://112.66.186.151:5106/rtp/239.253.64.14:5140
 #EXTINF:-1 tvg-id="2" tvg-name="海南公共" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海南公共.png" group-title="海南电信",海南公共
-http://112.66.109.234:8888/rtp/239.253.64.14:5140
-#EXTINF:-1 tvg-id="3" tvg-name="海南公共" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海南公共.png" group-title="海南电信",海南公共
 http://112.66.104.101:8888/rtp/239.253.64.14:5140
+#EXTINF:-1 tvg-id="3" tvg-name="海南公共" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海南公共.png" group-title="海南电信",海南公共
+http://112.66.109.234:8888/rtp/239.253.64.14:5140
 #EXTINF:-1 tvg-id="4" tvg-name="海南公共" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海南公共.png" group-title="海南电信",海南公共
-http://112.66.189.2:5106/rtp/239.253.64.14:5140
+http://119.41.143.21:4022/rtp/239.253.64.14:5140
 #EXTINF:-1 tvg-id="5" tvg-name="海南公共" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海南公共.png" group-title="海南电信",海南公共
 http://223.198.224.253:4000/rtp/239.253.64.14:5140
 #EXTINF:-1 tvg-id="6" tvg-name="海南公共" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海南公共.png" group-title="海南电信",海南公共
-http://119.41.146.229:1999/rtp/239.253.64.14:5140
+http://119.41.36.236:4000/rtp/239.253.64.14:5140
 #EXTINF:-1 tvg-id="7" tvg-name="海南公共" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海南公共.png" group-title="海南电信",海南公共
 http://119.41.11.168:4022/rtp/239.253.64.14:5140
 #EXTINF:-1 tvg-id="1" tvg-name="海南少儿" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海南少儿.png" group-title="海南电信",海南少儿
-http://59.50.81.15:4022/rtp/239.253.64.124:5140
+http://112.66.186.151:5106/rtp/239.253.64.124:5140
 #EXTINF:-1 tvg-id="2" tvg-name="海南少儿" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海南少儿.png" group-title="海南电信",海南少儿
-http://112.66.109.234:8888/rtp/239.253.64.124:5140
-#EXTINF:-1 tvg-id="3" tvg-name="海南少儿" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海南少儿.png" group-title="海南电信",海南少儿
 http://112.66.104.101:8888/rtp/239.253.64.124:5140
+#EXTINF:-1 tvg-id="3" tvg-name="海南少儿" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海南少儿.png" group-title="海南电信",海南少儿
+http://112.66.109.234:8888/rtp/239.253.64.124:5140
 #EXTINF:-1 tvg-id="4" tvg-name="海南少儿" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海南少儿.png" group-title="海南电信",海南少儿
-http://112.66.189.2:5106/rtp/239.253.64.124:5140
+http://119.41.143.21:4022/rtp/239.253.64.124:5140
 #EXTINF:-1 tvg-id="5" tvg-name="海南少儿" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海南少儿.png" group-title="海南电信",海南少儿
 http://223.198.224.253:4000/rtp/239.253.64.124:5140
 #EXTINF:-1 tvg-id="6" tvg-name="海南少儿" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海南少儿.png" group-title="海南电信",海南少儿
-http://119.41.146.229:1999/rtp/239.253.64.124:5140
+http://119.41.36.236:4000/rtp/239.253.64.124:5140
 #EXTINF:-1 tvg-id="7" tvg-name="海南少儿" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海南少儿.png" group-title="海南电信",海南少儿
 http://119.41.11.168:4022/rtp/239.253.64.124:5140
 #EXTINF:-1 tvg-id="1" tvg-name="海南文旅" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海南文旅.png" group-title="海南电信",海南文旅
-http://59.50.81.15:4022/rtp/239.253.64.122:5140
+http://112.66.186.151:5106/rtp/239.253.64.122:5140
 #EXTINF:-1 tvg-id="2" tvg-name="海南文旅" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海南文旅.png" group-title="海南电信",海南文旅
-http://112.66.109.234:8888/rtp/239.253.64.122:5140
-#EXTINF:-1 tvg-id="3" tvg-name="海南文旅" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海南文旅.png" group-title="海南电信",海南文旅
 http://112.66.104.101:8888/rtp/239.253.64.122:5140
+#EXTINF:-1 tvg-id="3" tvg-name="海南文旅" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海南文旅.png" group-title="海南电信",海南文旅
+http://112.66.109.234:8888/rtp/239.253.64.122:5140
 #EXTINF:-1 tvg-id="4" tvg-name="海南文旅" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海南文旅.png" group-title="海南电信",海南文旅
-http://112.66.189.2:5106/rtp/239.253.64.122:5140
+http://119.41.143.21:4022/rtp/239.253.64.122:5140
 #EXTINF:-1 tvg-id="5" tvg-name="海南文旅" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海南文旅.png" group-title="海南电信",海南文旅
 http://223.198.224.253:4000/rtp/239.253.64.122:5140
 #EXTINF:-1 tvg-id="6" tvg-name="海南文旅" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海南文旅.png" group-title="海南电信",海南文旅
-http://119.41.146.229:1999/rtp/239.253.64.122:5140
+http://119.41.36.236:4000/rtp/239.253.64.122:5140
 #EXTINF:-1 tvg-id="7" tvg-name="海南文旅" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海南文旅.png" group-title="海南电信",海南文旅
 http://119.41.11.168:4022/rtp/239.253.64.122:5140
 #EXTINF:-1 tvg-id="1" tvg-name="海南新闻" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海南新闻.png" group-title="海南电信",海南新闻
-http://59.50.81.15:4022/rtp/239.253.64.121:5140
+http://112.66.186.151:5106/rtp/239.253.64.121:5140
 #EXTINF:-1 tvg-id="2" tvg-name="海南新闻" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海南新闻.png" group-title="海南电信",海南新闻
-http://112.66.109.234:8888/rtp/239.253.64.121:5140
-#EXTINF:-1 tvg-id="3" tvg-name="海南新闻" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海南新闻.png" group-title="海南电信",海南新闻
 http://112.66.104.101:8888/rtp/239.253.64.121:5140
+#EXTINF:-1 tvg-id="3" tvg-name="海南新闻" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海南新闻.png" group-title="海南电信",海南新闻
+http://112.66.109.234:8888/rtp/239.253.64.121:5140
 #EXTINF:-1 tvg-id="4" tvg-name="海南新闻" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海南新闻.png" group-title="海南电信",海南新闻
-http://112.66.189.2:5106/rtp/239.253.64.121:5140
+http://119.41.143.21:4022/rtp/239.253.64.121:5140
 #EXTINF:-1 tvg-id="5" tvg-name="海南新闻" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海南新闻.png" group-title="海南电信",海南新闻
 http://223.198.224.253:4000/rtp/239.253.64.121:5140
 #EXTINF:-1 tvg-id="6" tvg-name="海南新闻" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海南新闻.png" group-title="海南电信",海南新闻
-http://119.41.146.229:1999/rtp/239.253.64.121:5140
+http://119.41.36.236:4000/rtp/239.253.64.121:5140
 #EXTINF:-1 tvg-id="7" tvg-name="海南新闻" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海南新闻.png" group-title="海南电信",海南新闻
 http://119.41.11.168:4022/rtp/239.253.64.121:5140
 #EXTINF:-1 tvg-id="1" tvg-name="海南自贸" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海南自贸.png" group-title="海南电信",海南自贸
-http://59.50.81.15:4022/rtp/239.253.64.119:5140
+http://112.66.186.151:5106/rtp/239.253.64.119:5140
 #EXTINF:-1 tvg-id="2" tvg-name="海南自贸" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海南自贸.png" group-title="海南电信",海南自贸
-http://112.66.109.234:8888/rtp/239.253.64.119:5140
-#EXTINF:-1 tvg-id="3" tvg-name="海南自贸" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海南自贸.png" group-title="海南电信",海南自贸
 http://112.66.104.101:8888/rtp/239.253.64.119:5140
+#EXTINF:-1 tvg-id="3" tvg-name="海南自贸" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海南自贸.png" group-title="海南电信",海南自贸
+http://112.66.109.234:8888/rtp/239.253.64.119:5140
 #EXTINF:-1 tvg-id="4" tvg-name="海南自贸" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海南自贸.png" group-title="海南电信",海南自贸
-http://112.66.189.2:5106/rtp/239.253.64.119:5140
+http://119.41.143.21:4022/rtp/239.253.64.119:5140
 #EXTINF:-1 tvg-id="5" tvg-name="海南自贸" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海南自贸.png" group-title="海南电信",海南自贸
 http://223.198.224.253:4000/rtp/239.253.64.119:5140
 #EXTINF:-1 tvg-id="6" tvg-name="海南自贸" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海南自贸.png" group-title="海南电信",海南自贸
-http://119.41.146.229:1999/rtp/239.253.64.119:5140
+http://119.41.36.236:4000/rtp/239.253.64.119:5140
 #EXTINF:-1 tvg-id="7" tvg-name="海南自贸" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/海南自贸.png" group-title="海南电信",海南自贸
 http://119.41.11.168:4022/rtp/239.253.64.119:5140
 #EXTINF:-1 tvg-id="1" tvg-name="宁夏卫视" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/宁夏卫视.png" group-title="宁夏电信",宁夏卫视
@@ -17442,69 +17284,91 @@ http://jl.myshare.pw:4022/rtp/239.37.0.107:5540
 #EXTINF:-1 tvg-id="1" tvg-name="辽宁北方" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/辽宁北方.png" group-title="辽宁联通",辽宁北方
 http://123.189.31.126:8888/rtp/232.0.0.151:1234
 #EXTINF:-1 tvg-id="2" tvg-name="辽宁北方" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/辽宁北方.png" group-title="辽宁联通",辽宁北方
-http://123.191.3.143:1111/rtp/232.0.0.151:1234
-#EXTINF:-1 tvg-id="3" tvg-name="辽宁北方" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/辽宁北方.png" group-title="辽宁联通",辽宁北方
 http://123.190.227.175:9001/rtp/232.0.0.151:1234
+#EXTINF:-1 tvg-id="3" tvg-name="辽宁北方" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/辽宁北方.png" group-title="辽宁联通",辽宁北方
+http://123.191.3.143:1111/rtp/232.0.0.151:1234
+#EXTINF:-1 tvg-id="4" tvg-name="辽宁北方" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/辽宁北方.png" group-title="辽宁联通",辽宁北方
+http://116.2.173.229:4010/rtp/232.0.0.151:1234
 #EXTINF:-1 tvg-id="1" tvg-name="辽宁都市" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/辽宁都市.png" group-title="辽宁联通",辽宁都市
 http://123.189.31.126:8888/rtp/232.0.0.154:1234
 #EXTINF:-1 tvg-id="2" tvg-name="辽宁都市" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/辽宁都市.png" group-title="辽宁联通",辽宁都市
-http://123.191.3.143:1111/rtp/232.0.0.154:1234
-#EXTINF:-1 tvg-id="3" tvg-name="辽宁都市" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/辽宁都市.png" group-title="辽宁联通",辽宁都市
 http://123.190.227.175:9001/rtp/232.0.0.154:1234
+#EXTINF:-1 tvg-id="3" tvg-name="辽宁都市" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/辽宁都市.png" group-title="辽宁联通",辽宁都市
+http://123.191.3.143:1111/rtp/232.0.0.154:1234
+#EXTINF:-1 tvg-id="4" tvg-name="辽宁都市" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/辽宁都市.png" group-title="辽宁联通",辽宁都市
+http://116.2.173.229:4010/rtp/232.0.0.154:1234
 #EXTINF:-1 tvg-id="1" tvg-name="辽宁影视剧" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/辽宁影视剧.png" group-title="辽宁联通",辽宁影视剧
 http://123.189.31.126:8888/rtp/232.0.0.25:1234
 #EXTINF:-1 tvg-id="2" tvg-name="辽宁影视剧" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/辽宁影视剧.png" group-title="辽宁联通",辽宁影视剧
-http://123.191.3.143:1111/rtp/232.0.0.25:1234
-#EXTINF:-1 tvg-id="3" tvg-name="辽宁影视剧" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/辽宁影视剧.png" group-title="辽宁联通",辽宁影视剧
 http://123.190.227.175:9001/rtp/232.0.0.25:1234
+#EXTINF:-1 tvg-id="3" tvg-name="辽宁影视剧" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/辽宁影视剧.png" group-title="辽宁联通",辽宁影视剧
+http://123.191.3.143:1111/rtp/232.0.0.25:1234
+#EXTINF:-1 tvg-id="4" tvg-name="辽宁影视剧" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/辽宁影视剧.png" group-title="辽宁联通",辽宁影视剧
+http://116.2.173.229:4010/rtp/232.0.0.25:1234
 #EXTINF:-1 tvg-id="1" tvg-name="辽宁体育" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/辽宁体育.png" group-title="辽宁联通",辽宁体育
 http://123.189.31.126:8888/rtp/232.0.0.164:1234
 #EXTINF:-1 tvg-id="2" tvg-name="辽宁体育" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/辽宁体育.png" group-title="辽宁联通",辽宁体育
-http://123.191.3.143:1111/rtp/232.0.0.164:1234
-#EXTINF:-1 tvg-id="3" tvg-name="辽宁体育" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/辽宁体育.png" group-title="辽宁联通",辽宁体育
 http://123.190.227.175:9001/rtp/232.0.0.164:1234
+#EXTINF:-1 tvg-id="3" tvg-name="辽宁体育" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/辽宁体育.png" group-title="辽宁联通",辽宁体育
+http://123.191.3.143:1111/rtp/232.0.0.164:1234
+#EXTINF:-1 tvg-id="4" tvg-name="辽宁体育" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/辽宁体育.png" group-title="辽宁联通",辽宁体育
+http://116.2.173.229:4010/rtp/232.0.0.164:1234
 #EXTINF:-1 tvg-id="1" tvg-name="辽宁生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/辽宁生活.png" group-title="辽宁联通",辽宁生活
 http://123.189.31.126:8888/rtp/232.0.0.150:1234
 #EXTINF:-1 tvg-id="2" tvg-name="辽宁生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/辽宁生活.png" group-title="辽宁联通",辽宁生活
-http://123.191.3.143:1111/rtp/232.0.0.150:1234
-#EXTINF:-1 tvg-id="3" tvg-name="辽宁生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/辽宁生活.png" group-title="辽宁联通",辽宁生活
 http://123.190.227.175:9001/rtp/232.0.0.150:1234
+#EXTINF:-1 tvg-id="3" tvg-name="辽宁生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/辽宁生活.png" group-title="辽宁联通",辽宁生活
+http://123.191.3.143:1111/rtp/232.0.0.150:1234
+#EXTINF:-1 tvg-id="4" tvg-name="辽宁生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/辽宁生活.png" group-title="辽宁联通",辽宁生活
+http://116.2.173.229:4010/rtp/232.0.0.150:1234
 #EXTINF:-1 tvg-id="1" tvg-name="辽宁教育青少" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/辽宁教育青少.png" group-title="辽宁联通",辽宁教育青少
 http://123.189.31.126:8888/rtp/232.0.0.241:1234
 #EXTINF:-1 tvg-id="2" tvg-name="辽宁教育青少" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/辽宁教育青少.png" group-title="辽宁联通",辽宁教育青少
-http://123.191.3.143:1111/rtp/232.0.0.241:1234
-#EXTINF:-1 tvg-id="3" tvg-name="辽宁教育青少" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/辽宁教育青少.png" group-title="辽宁联通",辽宁教育青少
 http://123.190.227.175:9001/rtp/232.0.0.241:1234
+#EXTINF:-1 tvg-id="3" tvg-name="辽宁教育青少" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/辽宁教育青少.png" group-title="辽宁联通",辽宁教育青少
+http://123.191.3.143:1111/rtp/232.0.0.241:1234
+#EXTINF:-1 tvg-id="4" tvg-name="辽宁教育青少" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/辽宁教育青少.png" group-title="辽宁联通",辽宁教育青少
+http://116.2.173.229:4010/rtp/232.0.0.241:1234
 #EXTINF:-1 tvg-id="1" tvg-name="辽宁公共" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/辽宁公共.png" group-title="辽宁联通",辽宁公共
 http://123.189.31.126:8888/rtp/232.0.0.168:1234
 #EXTINF:-1 tvg-id="2" tvg-name="辽宁公共" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/辽宁公共.png" group-title="辽宁联通",辽宁公共
-http://123.191.3.143:1111/rtp/232.0.0.168:1234
-#EXTINF:-1 tvg-id="3" tvg-name="辽宁公共" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/辽宁公共.png" group-title="辽宁联通",辽宁公共
 http://123.190.227.175:9001/rtp/232.0.0.168:1234
+#EXTINF:-1 tvg-id="3" tvg-name="辽宁公共" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/辽宁公共.png" group-title="辽宁联通",辽宁公共
+http://123.191.3.143:1111/rtp/232.0.0.168:1234
+#EXTINF:-1 tvg-id="4" tvg-name="辽宁公共" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/辽宁公共.png" group-title="辽宁联通",辽宁公共
+http://116.2.173.229:4010/rtp/232.0.0.168:1234
 #EXTINF:-1 tvg-id="1" tvg-name="辽宁经济" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/辽宁经济.png" group-title="辽宁联通",辽宁经济
 http://123.189.31.126:8888/rtp/232.0.0.156:1234
 #EXTINF:-1 tvg-id="2" tvg-name="辽宁经济" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/辽宁经济.png" group-title="辽宁联通",辽宁经济
-http://123.191.3.143:1111/rtp/232.0.0.156:1234
-#EXTINF:-1 tvg-id="3" tvg-name="辽宁经济" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/辽宁经济.png" group-title="辽宁联通",辽宁经济
 http://123.190.227.175:9001/rtp/232.0.0.156:1234
+#EXTINF:-1 tvg-id="3" tvg-name="辽宁经济" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/辽宁经济.png" group-title="辽宁联通",辽宁经济
+http://123.191.3.143:1111/rtp/232.0.0.156:1234
+#EXTINF:-1 tvg-id="4" tvg-name="辽宁经济" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/辽宁经济.png" group-title="辽宁联通",辽宁经济
+http://116.2.173.229:4010/rtp/232.0.0.156:1234
 #EXTINF:-1 tvg-id="1" tvg-name="沈阳新闻" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/沈阳新闻.png" group-title="辽宁联通",沈阳新闻
 http://123.189.31.126:8888/rtp/232.0.0.206:1234
 #EXTINF:-1 tvg-id="2" tvg-name="沈阳新闻" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/沈阳新闻.png" group-title="辽宁联通",沈阳新闻
-http://123.191.3.143:1111/rtp/232.0.0.206:1234
-#EXTINF:-1 tvg-id="3" tvg-name="沈阳新闻" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/沈阳新闻.png" group-title="辽宁联通",沈阳新闻
 http://123.190.227.175:9001/rtp/232.0.0.206:1234
+#EXTINF:-1 tvg-id="3" tvg-name="沈阳新闻" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/沈阳新闻.png" group-title="辽宁联通",沈阳新闻
+http://123.191.3.143:1111/rtp/232.0.0.206:1234
+#EXTINF:-1 tvg-id="4" tvg-name="沈阳新闻" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/沈阳新闻.png" group-title="辽宁联通",沈阳新闻
+http://116.2.173.229:4010/rtp/232.0.0.206:1234
 #EXTINF:-1 tvg-id="1" tvg-name="盘锦都市" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/盘锦都市.png" group-title="辽宁联通",盘锦都市
 http://123.189.31.126:8888/rtp/232.0.0.183:1234
 #EXTINF:-1 tvg-id="2" tvg-name="盘锦都市" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/盘锦都市.png" group-title="辽宁联通",盘锦都市
-http://123.191.3.143:1111/rtp/232.0.0.183:1234
-#EXTINF:-1 tvg-id="3" tvg-name="盘锦都市" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/盘锦都市.png" group-title="辽宁联通",盘锦都市
 http://123.190.227.175:9001/rtp/232.0.0.183:1234
+#EXTINF:-1 tvg-id="3" tvg-name="盘锦都市" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/盘锦都市.png" group-title="辽宁联通",盘锦都市
+http://123.191.3.143:1111/rtp/232.0.0.183:1234
+#EXTINF:-1 tvg-id="4" tvg-name="盘锦都市" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/盘锦都市.png" group-title="辽宁联通",盘锦都市
+http://116.2.173.229:4010/rtp/232.0.0.183:1234
 #EXTINF:-1 tvg-id="1" tvg-name="抚顺综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/抚顺综合.png" group-title="辽宁联通",抚顺综合
 http://123.189.31.126:8888/rtp/232.0.0.253:1234
 #EXTINF:-1 tvg-id="2" tvg-name="抚顺综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/抚顺综合.png" group-title="辽宁联通",抚顺综合
-http://123.191.3.143:1111/rtp/232.0.0.253:1234
-#EXTINF:-1 tvg-id="3" tvg-name="抚顺综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/抚顺综合.png" group-title="辽宁联通",抚顺综合
 http://123.190.227.175:9001/rtp/232.0.0.253:1234
+#EXTINF:-1 tvg-id="3" tvg-name="抚顺综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/抚顺综合.png" group-title="辽宁联通",抚顺综合
+http://123.191.3.143:1111/rtp/232.0.0.253:1234
+#EXTINF:-1 tvg-id="4" tvg-name="抚顺综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/抚顺综合.png" group-title="辽宁联通",抚顺综合
+http://116.2.173.229:4010/rtp/232.0.0.253:1234
 #EXTINF:-1 tvg-id="1" tvg-name="环球旅游" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/环球旅游.png" group-title="福建电信",环球旅游
 http://115.148.203.46:7088/rtp/239.252.220.218:5140
 #EXTINF:-1 tvg-id="2" tvg-name="环球旅游" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/环球旅游.png" group-title="福建电信",环球旅游
@@ -17570,177 +17434,177 @@ http://171.213.144.32:8188/rtp/239.94.1.147:5140
 #EXTINF:-1 tvg-id="32" tvg-name="环球旅游" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/环球旅游.png" group-title="福建电信",环球旅游
 http://171.213.181.154:8189/rtp/239.94.1.147:5140
 #EXTINF:-1 tvg-id="1" tvg-name="贵州公共" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州公共.png" group-title="贵州电信",贵州公共
-http://218.86.141.157:9527/rtp/238.255.2.2:5999
+http://61.159.135.13:8188/rtp/238.255.2.2:5999
 #EXTINF:-1 tvg-id="2" tvg-name="贵州公共" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州公共.png" group-title="贵州电信",贵州公共
-http://61.159.134.110:8188/rtp/238.255.2.2:5999
+http://218.86.141.157:9527/rtp/238.255.2.2:5999
 #EXTINF:-1 tvg-id="3" tvg-name="贵州公共" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州公共.png" group-title="贵州电信",贵州公共
 http://111.122.71.167:4000/rtp/238.255.2.2:5999
 #EXTINF:-1 tvg-id="1" tvg-name="贵州影视文艺" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州影视文艺.png" group-title="贵州电信",贵州影视文艺
-http://218.86.141.157:9527/rtp/238.255.2.3:5999
+http://61.159.135.13:8188/rtp/238.255.2.3:5999
 #EXTINF:-1 tvg-id="2" tvg-name="贵州影视文艺" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州影视文艺.png" group-title="贵州电信",贵州影视文艺
-http://61.159.134.110:8188/rtp/238.255.2.3:5999
+http://218.86.141.157:9527/rtp/238.255.2.3:5999
 #EXTINF:-1 tvg-id="3" tvg-name="贵州影视文艺" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州影视文艺.png" group-title="贵州电信",贵州影视文艺
 http://111.122.71.167:4000/rtp/238.255.2.3:5999
 #EXTINF:-1 tvg-id="1" tvg-name="贵州大众生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州大众生活.png" group-title="贵州电信",贵州大众生活
-http://218.86.141.157:9527/rtp/238.255.2.4:5999
+http://61.159.135.13:8188/rtp/238.255.2.4:5999
 #EXTINF:-1 tvg-id="2" tvg-name="贵州大众生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州大众生活.png" group-title="贵州电信",贵州大众生活
-http://61.159.134.110:8188/rtp/238.255.2.4:5999
+http://218.86.141.157:9527/rtp/238.255.2.4:5999
 #EXTINF:-1 tvg-id="3" tvg-name="贵州大众生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州大众生活.png" group-title="贵州电信",贵州大众生活
 http://111.122.71.167:4000/rtp/238.255.2.4:5999
 #EXTINF:-1 tvg-id="1" tvg-name="贵州-5" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州-5.png" group-title="贵州电信",贵州-5
-http://218.86.141.157:9527/rtp/238.255.2.5:5999
+http://61.159.135.13:8188/rtp/238.255.2.5:5999
 #EXTINF:-1 tvg-id="2" tvg-name="贵州-5" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州-5.png" group-title="贵州电信",贵州-5
-http://61.159.134.110:8188/rtp/238.255.2.5:5999
+http://218.86.141.157:9527/rtp/238.255.2.5:5999
 #EXTINF:-1 tvg-id="3" tvg-name="贵州-5" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州-5.png" group-title="贵州电信",贵州-5
 http://111.122.71.167:4000/rtp/238.255.2.5:5999
 #EXTINF:-1 tvg-id="1" tvg-name="贵州科教" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州科教.png" group-title="贵州电信",贵州科教
-http://218.86.141.157:9527/rtp/238.255.2.6:5999
+http://61.159.135.13:8188/rtp/238.255.2.6:5999
 #EXTINF:-1 tvg-id="2" tvg-name="贵州科教" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州科教.png" group-title="贵州电信",贵州科教
-http://61.159.134.110:8188/rtp/238.255.2.6:5999
+http://218.86.141.157:9527/rtp/238.255.2.6:5999
 #EXTINF:-1 tvg-id="3" tvg-name="贵州科教" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州科教.png" group-title="贵州电信",贵州科教
 http://111.122.71.167:4000/rtp/238.255.2.6:5999
 #EXTINF:-1 tvg-id="1" tvg-name="贵州-7" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州-7.png" group-title="贵州电信",贵州-7
-http://218.86.141.157:9527/rtp/238.255.2.9:5999
+http://61.159.135.13:8188/rtp/238.255.2.9:5999
 #EXTINF:-1 tvg-id="2" tvg-name="贵州-7" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州-7.png" group-title="贵州电信",贵州-7
-http://61.159.134.110:8188/rtp/238.255.2.9:5999
+http://218.86.141.157:9527/rtp/238.255.2.9:5999
 #EXTINF:-1 tvg-id="3" tvg-name="贵州-7" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵州-7.png" group-title="贵州电信",贵州-7
 http://111.122.71.167:4000/rtp/238.255.2.9:5999
 #EXTINF:-1 tvg-id="1" tvg-name="贵阳综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵阳综合.png" group-title="贵州电信",贵阳综合
-http://218.86.141.157:9527/rtp/238.255.2.19:5999
+http://61.159.135.13:8188/rtp/238.255.2.19:5999
 #EXTINF:-1 tvg-id="2" tvg-name="贵阳综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵阳综合.png" group-title="贵州电信",贵阳综合
-http://61.159.134.110:8188/rtp/238.255.2.19:5999
+http://218.86.141.157:9527/rtp/238.255.2.19:5999
 #EXTINF:-1 tvg-id="3" tvg-name="贵阳综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵阳综合.png" group-title="贵州电信",贵阳综合
 http://111.122.71.167:4000/rtp/238.255.2.19:5999
 #EXTINF:-1 tvg-id="1" tvg-name="贵阳生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵阳生活.png" group-title="贵州电信",贵阳生活
-http://218.86.141.157:9527/rtp/238.255.2.20:5999
+http://61.159.135.13:8188/rtp/238.255.2.20:5999
 #EXTINF:-1 tvg-id="2" tvg-name="贵阳生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵阳生活.png" group-title="贵州电信",贵阳生活
-http://61.159.134.110:8188/rtp/238.255.2.20:5999
+http://218.86.141.157:9527/rtp/238.255.2.20:5999
 #EXTINF:-1 tvg-id="3" tvg-name="贵阳生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵阳生活.png" group-title="贵州电信",贵阳生活
 http://111.122.71.167:4000/rtp/238.255.2.20:5999
 #EXTINF:-1 tvg-id="1" tvg-name="贵阳-3" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵阳-3.png" group-title="贵州电信",贵阳-3
-http://218.86.141.157:9527/rtp/238.255.2.22:5999
+http://61.159.135.13:8188/rtp/238.255.2.22:5999
 #EXTINF:-1 tvg-id="2" tvg-name="贵阳-3" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵阳-3.png" group-title="贵州电信",贵阳-3
-http://61.159.134.110:8188/rtp/238.255.2.22:5999
+http://218.86.141.157:9527/rtp/238.255.2.22:5999
 #EXTINF:-1 tvg-id="3" tvg-name="贵阳-3" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/贵阳-3.png" group-title="贵州电信",贵阳-3
 http://111.122.71.167:4000/rtp/238.255.2.22:5999
 #EXTINF:-1 tvg-id="1" tvg-name="六盘水-1" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/六盘水-1.png" group-title="贵州电信",六盘水-1
-http://218.86.141.157:9527/rtp/238.255.2.115:5999
+http://61.159.135.13:8188/rtp/238.255.2.115:5999
 #EXTINF:-1 tvg-id="2" tvg-name="六盘水-1" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/六盘水-1.png" group-title="贵州电信",六盘水-1
-http://61.159.134.110:8188/rtp/238.255.2.115:5999
+http://218.86.141.157:9527/rtp/238.255.2.115:5999
 #EXTINF:-1 tvg-id="3" tvg-name="六盘水-1" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/六盘水-1.png" group-title="贵州电信",六盘水-1
 http://111.122.71.167:4000/rtp/238.255.2.115:5999
 #EXTINF:-1 tvg-id="1" tvg-name="六盘水-2" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/六盘水-2.png" group-title="贵州电信",六盘水-2
-http://218.86.141.157:9527/rtp/238.255.2.116:5999
+http://61.159.135.13:8188/rtp/238.255.2.116:5999
 #EXTINF:-1 tvg-id="2" tvg-name="六盘水-2" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/六盘水-2.png" group-title="贵州电信",六盘水-2
-http://61.159.134.110:8188/rtp/238.255.2.116:5999
+http://218.86.141.157:9527/rtp/238.255.2.116:5999
 #EXTINF:-1 tvg-id="3" tvg-name="六盘水-2" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/六盘水-2.png" group-title="贵州电信",六盘水-2
 http://111.122.71.167:4000/rtp/238.255.2.116:5999
 #EXTINF:-1 tvg-id="1" tvg-name="黔南-1" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黔南-1.png" group-title="贵州电信",黔南-1
-http://218.86.141.157:9527/rtp/238.255.2.150:5999
+http://61.159.135.13:8188/rtp/238.255.2.150:5999
 #EXTINF:-1 tvg-id="2" tvg-name="黔南-1" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黔南-1.png" group-title="贵州电信",黔南-1
-http://61.159.134.110:8188/rtp/238.255.2.150:5999
+http://218.86.141.157:9527/rtp/238.255.2.150:5999
 #EXTINF:-1 tvg-id="3" tvg-name="黔南-1" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黔南-1.png" group-title="贵州电信",黔南-1
 http://111.122.71.167:4000/rtp/238.255.2.150:5999
 #EXTINF:-1 tvg-id="1" tvg-name="黔南-2" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黔南-2.png" group-title="贵州电信",黔南-2
-http://218.86.141.157:9527/rtp/238.255.2.151:5999
+http://61.159.135.13:8188/rtp/238.255.2.151:5999
 #EXTINF:-1 tvg-id="2" tvg-name="黔南-2" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黔南-2.png" group-title="贵州电信",黔南-2
-http://61.159.134.110:8188/rtp/238.255.2.151:5999
+http://218.86.141.157:9527/rtp/238.255.2.151:5999
 #EXTINF:-1 tvg-id="3" tvg-name="黔南-2" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黔南-2.png" group-title="贵州电信",黔南-2
 http://111.122.71.167:4000/rtp/238.255.2.151:5999
 #EXTINF:-1 tvg-id="1" tvg-name="黔西南综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黔西南综合.png" group-title="贵州电信",黔西南综合
-http://218.86.141.157:9527/rtp/238.255.2.126:5999
+http://61.159.135.13:8188/rtp/238.255.2.126:5999
 #EXTINF:-1 tvg-id="2" tvg-name="黔西南综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黔西南综合.png" group-title="贵州电信",黔西南综合
-http://61.159.134.110:8188/rtp/238.255.2.126:5999
+http://218.86.141.157:9527/rtp/238.255.2.126:5999
 #EXTINF:-1 tvg-id="3" tvg-name="黔西南综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黔西南综合.png" group-title="贵州电信",黔西南综合
 http://111.122.71.167:4000/rtp/238.255.2.126:5999
 #EXTINF:-1 tvg-id="1" tvg-name="黔西南公共" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黔西南公共.png" group-title="贵州电信",黔西南公共
-http://218.86.141.157:9527/rtp/238.255.2.127:5999
+http://61.159.135.13:8188/rtp/238.255.2.127:5999
 #EXTINF:-1 tvg-id="2" tvg-name="黔西南公共" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黔西南公共.png" group-title="贵州电信",黔西南公共
-http://61.159.134.110:8188/rtp/238.255.2.127:5999
+http://218.86.141.157:9527/rtp/238.255.2.127:5999
 #EXTINF:-1 tvg-id="3" tvg-name="黔西南公共" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黔西南公共.png" group-title="贵州电信",黔西南公共
 http://111.122.71.167:4000/rtp/238.255.2.127:5999
 #EXTINF:-1 tvg-id="1" tvg-name="黔东南综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黔东南综合.png" group-title="贵州电信",黔东南综合
-http://218.86.141.157:9527/rtp/238.255.2.179:5999
+http://61.159.135.13:8188/rtp/238.255.2.179:5999
 #EXTINF:-1 tvg-id="2" tvg-name="黔东南综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黔东南综合.png" group-title="贵州电信",黔东南综合
-http://61.159.134.110:8188/rtp/238.255.2.179:5999
+http://218.86.141.157:9527/rtp/238.255.2.179:5999
 #EXTINF:-1 tvg-id="3" tvg-name="黔东南综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黔东南综合.png" group-title="贵州电信",黔东南综合
 http://111.122.71.167:4000/rtp/238.255.2.179:5999
 #EXTINF:-1 tvg-id="1" tvg-name="遵义综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/遵义综合.png" group-title="贵州电信",遵义综合
-http://218.86.141.157:9527/rtp/238.255.2.153:5999
+http://61.159.135.13:8188/rtp/238.255.2.153:5999
 #EXTINF:-1 tvg-id="2" tvg-name="遵义综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/遵义综合.png" group-title="贵州电信",遵义综合
-http://61.159.134.110:8188/rtp/238.255.2.153:5999
+http://218.86.141.157:9527/rtp/238.255.2.153:5999
 #EXTINF:-1 tvg-id="3" tvg-name="遵义综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/遵义综合.png" group-title="贵州电信",遵义综合
 http://111.122.71.167:4000/rtp/238.255.2.153:5999
 #EXTINF:-1 tvg-id="1" tvg-name="遵义公共" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/遵义公共.png" group-title="贵州电信",遵义公共
-http://218.86.141.157:9527/rtp/238.255.2.152:5999
+http://61.159.135.13:8188/rtp/238.255.2.152:5999
 #EXTINF:-1 tvg-id="2" tvg-name="遵义公共" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/遵义公共.png" group-title="贵州电信",遵义公共
-http://61.159.134.110:8188/rtp/238.255.2.152:5999
+http://218.86.141.157:9527/rtp/238.255.2.152:5999
 #EXTINF:-1 tvg-id="3" tvg-name="遵义公共" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/遵义公共.png" group-title="贵州电信",遵义公共
 http://111.122.71.167:4000/rtp/238.255.2.152:5999
 #EXTINF:-1 tvg-id="1" tvg-name="遵义都市" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/遵义都市.png" group-title="贵州电信",遵义都市
-http://218.86.141.157:9527/rtp/238.255.2.154:5999
+http://61.159.135.13:8188/rtp/238.255.2.154:5999
 #EXTINF:-1 tvg-id="2" tvg-name="遵义都市" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/遵义都市.png" group-title="贵州电信",遵义都市
-http://61.159.134.110:8188/rtp/238.255.2.154:5999
+http://218.86.141.157:9527/rtp/238.255.2.154:5999
 #EXTINF:-1 tvg-id="3" tvg-name="遵义都市" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/遵义都市.png" group-title="贵州电信",遵义都市
 http://111.122.71.167:4000/rtp/238.255.2.154:5999
 #EXTINF:-1 tvg-id="1" tvg-name="铜仁-1" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/铜仁-1.png" group-title="贵州电信",铜仁-1
-http://218.86.141.157:9527/rtp/238.255.2.31:5999
+http://61.159.135.13:8188/rtp/238.255.2.31:5999
 #EXTINF:-1 tvg-id="2" tvg-name="铜仁-1" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/铜仁-1.png" group-title="贵州电信",铜仁-1
-http://61.159.134.110:8188/rtp/238.255.2.31:5999
+http://218.86.141.157:9527/rtp/238.255.2.31:5999
 #EXTINF:-1 tvg-id="3" tvg-name="铜仁-1" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/铜仁-1.png" group-title="贵州电信",铜仁-1
 http://111.122.71.167:4000/rtp/238.255.2.31:5999
 #EXTINF:-1 tvg-id="1" tvg-name="铜仁-2" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/铜仁-2.png" group-title="贵州电信",铜仁-2
-http://218.86.141.157:9527/rtp/238.255.2.87:5999
+http://61.159.135.13:8188/rtp/238.255.2.87:5999
 #EXTINF:-1 tvg-id="2" tvg-name="铜仁-2" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/铜仁-2.png" group-title="贵州电信",铜仁-2
-http://61.159.134.110:8188/rtp/238.255.2.87:5999
+http://218.86.141.157:9527/rtp/238.255.2.87:5999
 #EXTINF:-1 tvg-id="3" tvg-name="铜仁-2" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/铜仁-2.png" group-title="贵州电信",铜仁-2
 http://111.122.71.167:4000/rtp/238.255.2.87:5999
 #EXTINF:-1 tvg-id="1" tvg-name="毕节-1" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/毕节-1.png" group-title="贵州电信",毕节-1
-http://218.86.141.157:9527/rtp/238.255.2.131:5999
+http://61.159.135.13:8188/rtp/238.255.2.131:5999
 #EXTINF:-1 tvg-id="2" tvg-name="毕节-1" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/毕节-1.png" group-title="贵州电信",毕节-1
-http://61.159.134.110:8188/rtp/238.255.2.131:5999
+http://218.86.141.157:9527/rtp/238.255.2.131:5999
 #EXTINF:-1 tvg-id="3" tvg-name="毕节-1" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/毕节-1.png" group-title="贵州电信",毕节-1
 http://111.122.71.167:4000/rtp/238.255.2.131:5999
 #EXTINF:-1 tvg-id="1" tvg-name="毕节-2" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/毕节-2.png" group-title="贵州电信",毕节-2
-http://218.86.141.157:9527/rtp/238.255.2.132:5999
+http://61.159.135.13:8188/rtp/238.255.2.132:5999
 #EXTINF:-1 tvg-id="2" tvg-name="毕节-2" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/毕节-2.png" group-title="贵州电信",毕节-2
-http://61.159.134.110:8188/rtp/238.255.2.132:5999
+http://218.86.141.157:9527/rtp/238.255.2.132:5999
 #EXTINF:-1 tvg-id="3" tvg-name="毕节-2" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/毕节-2.png" group-title="贵州电信",毕节-2
 http://111.122.71.167:4000/rtp/238.255.2.132:5999
 #EXTINF:-1 tvg-id="1" tvg-name="安顺新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/安顺新闻综合.png" group-title="贵州电信",安顺新闻综合
-http://218.86.141.157:9527/rtp/238.255.2.157:5999
+http://61.159.135.13:8188/rtp/238.255.2.157:5999
 #EXTINF:-1 tvg-id="2" tvg-name="安顺新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/安顺新闻综合.png" group-title="贵州电信",安顺新闻综合
-http://61.159.134.110:8188/rtp/238.255.2.157:5999
+http://218.86.141.157:9527/rtp/238.255.2.157:5999
 #EXTINF:-1 tvg-id="3" tvg-name="安顺新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/安顺新闻综合.png" group-title="贵州电信",安顺新闻综合
 http://111.122.71.167:4000/rtp/238.255.2.157:5999
 #EXTINF:-1 tvg-id="1" tvg-name="安顺公共" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/安顺公共.png" group-title="贵州电信",安顺公共
-http://218.86.141.157:9527/rtp/238.255.2.158:5999
+http://61.159.135.13:8188/rtp/238.255.2.158:5999
 #EXTINF:-1 tvg-id="2" tvg-name="安顺公共" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/安顺公共.png" group-title="贵州电信",安顺公共
-http://61.159.134.110:8188/rtp/238.255.2.158:5999
+http://218.86.141.157:9527/rtp/238.255.2.158:5999
 #EXTINF:-1 tvg-id="3" tvg-name="安顺公共" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/安顺公共.png" group-title="贵州电信",安顺公共
 http://111.122.71.167:4000/rtp/238.255.2.158:5999
 #EXTINF:-1 tvg-id="1" tvg-name="瓮安电视台" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/瓮安电视台.png" group-title="贵州电信",瓮安电视台
-http://218.86.141.157:9527/rtp/238.255.2.216:5999
+http://61.159.135.13:8188/rtp/238.255.2.216:5999
 #EXTINF:-1 tvg-id="2" tvg-name="瓮安电视台" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/瓮安电视台.png" group-title="贵州电信",瓮安电视台
-http://61.159.134.110:8188/rtp/238.255.2.216:5999
+http://218.86.141.157:9527/rtp/238.255.2.216:5999
 #EXTINF:-1 tvg-id="3" tvg-name="瓮安电视台" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/瓮安电视台.png" group-title="贵州电信",瓮安电视台
 http://111.122.71.167:4000/rtp/238.255.2.216:5999
 #EXTINF:-1 tvg-id="1" tvg-name="凯里TV" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/凯里TV.png" group-title="贵州电信",凯里TV
-http://218.86.141.157:9527/rtp/238.255.2.180:5999
+http://61.159.135.13:8188/rtp/238.255.2.180:5999
 #EXTINF:-1 tvg-id="2" tvg-name="凯里TV" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/凯里TV.png" group-title="贵州电信",凯里TV
-http://61.159.134.110:8188/rtp/238.255.2.180:5999
+http://218.86.141.157:9527/rtp/238.255.2.180:5999
 #EXTINF:-1 tvg-id="3" tvg-name="凯里TV" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/凯里TV.png" group-title="贵州电信",凯里TV
 http://111.122.71.167:4000/rtp/238.255.2.180:5999
 #EXTINF:-1 tvg-id="1" tvg-name="雷山综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/雷山综合.png" group-title="贵州电信",雷山综合
-http://218.86.141.157:9527/rtp/238.255.2.128:5999
+http://61.159.135.13:8188/rtp/238.255.2.128:5999
 #EXTINF:-1 tvg-id="2" tvg-name="雷山综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/雷山综合.png" group-title="贵州电信",雷山综合
-http://61.159.134.110:8188/rtp/238.255.2.128:5999
+http://218.86.141.157:9527/rtp/238.255.2.128:5999
 #EXTINF:-1 tvg-id="3" tvg-name="雷山综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/雷山综合.png" group-title="贵州电信",雷山综合
 http://111.122.71.167:4000/rtp/238.255.2.128:5999
 #EXTINF:-1 tvg-id="1" tvg-name="思南综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/思南综合.png" group-title="贵州电信",思南综合
-http://218.86.141.157:9527/rtp/238.255.2.218:5999
+http://61.159.135.13:8188/rtp/238.255.2.218:5999
 #EXTINF:-1 tvg-id="2" tvg-name="思南综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/思南综合.png" group-title="贵州电信",思南综合
-http://61.159.134.110:8188/rtp/238.255.2.218:5999
+http://218.86.141.157:9527/rtp/238.255.2.218:5999
 #EXTINF:-1 tvg-id="3" tvg-name="思南综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/思南综合.png" group-title="贵州电信",思南综合
 http://111.122.71.167:4000/rtp/238.255.2.218:5999
 #EXTINF:-1 tvg-id="1" tvg-name="家庭影院" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/家庭影院.png" group-title="华数专区",家庭影院
@@ -21070,29 +20934,53 @@ http://171.213.144.32:8188/rtp/239.94.1.156:5140
 #EXTINF:-1 tvg-id="23" tvg-name="亲子趣学4K" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/亲子趣学4K.png" group-title="四川电信",亲子趣学4K
 http://171.213.181.154:8189/rtp/239.94.1.156:5140
 #EXTINF:-1 tvg-id="1" tvg-name="甘孜综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/甘孜综合.png" group-title="四川移动",甘孜综合
-http://112.19.88.97:8899/rtp/239.10.0.32:5140
-#EXTINF:-1 tvg-id="2" tvg-name="甘孜综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/甘孜综合.png" group-title="四川移动",甘孜综合
 http://183.222.15.202:4321/rtp/239.10.0.32:5140
+#EXTINF:-1 tvg-id="2" tvg-name="甘孜综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/甘孜综合.png" group-title="四川移动",甘孜综合
+http://183.220.20.17:4321/rtp/239.10.0.32:5140
+#EXTINF:-1 tvg-id="3" tvg-name="甘孜综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/甘孜综合.png" group-title="四川移动",甘孜综合
+http://183.220.107.138:4022/rtp/239.10.0.32:5140
+#EXTINF:-1 tvg-id="4" tvg-name="甘孜综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/甘孜综合.png" group-title="四川移动",甘孜综合
+http://112.19.88.97:8899/rtp/239.10.0.32:5140
 #EXTINF:-1 tvg-id="1" tvg-name="阿坝汉语" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/阿坝汉语.png" group-title="四川移动",阿坝汉语
-http://112.19.88.97:8899/rtp/239.10.0.50:5140
-#EXTINF:-1 tvg-id="2" tvg-name="阿坝汉语" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/阿坝汉语.png" group-title="四川移动",阿坝汉语
 http://183.222.15.202:4321/rtp/239.10.0.50:5140
+#EXTINF:-1 tvg-id="2" tvg-name="阿坝汉语" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/阿坝汉语.png" group-title="四川移动",阿坝汉语
+http://183.220.20.17:4321/rtp/239.10.0.50:5140
+#EXTINF:-1 tvg-id="3" tvg-name="阿坝汉语" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/阿坝汉语.png" group-title="四川移动",阿坝汉语
+http://183.220.107.138:4022/rtp/239.10.0.50:5140
+#EXTINF:-1 tvg-id="4" tvg-name="阿坝汉语" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/阿坝汉语.png" group-title="四川移动",阿坝汉语
+http://112.19.88.97:8899/rtp/239.10.0.50:5140
 #EXTINF:-1 tvg-id="1" tvg-name="巴中综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/巴中综合.png" group-title="四川移动",巴中综合
-http://112.19.88.97:8899/rtp/239.10.0.52:5140
-#EXTINF:-1 tvg-id="2" tvg-name="巴中综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/巴中综合.png" group-title="四川移动",巴中综合
 http://183.222.15.202:4321/rtp/239.10.0.52:5140
+#EXTINF:-1 tvg-id="2" tvg-name="巴中综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/巴中综合.png" group-title="四川移动",巴中综合
+http://183.220.20.17:4321/rtp/239.10.0.52:5140
+#EXTINF:-1 tvg-id="3" tvg-name="巴中综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/巴中综合.png" group-title="四川移动",巴中综合
+http://183.220.107.138:4022/rtp/239.10.0.52:5140
+#EXTINF:-1 tvg-id="4" tvg-name="巴中综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/巴中综合.png" group-title="四川移动",巴中综合
+http://112.19.88.97:8899/rtp/239.10.0.52:5140
 #EXTINF:-1 tvg-id="1" tvg-name="巴中文旅生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/巴中文旅生活.png" group-title="四川移动",巴中文旅生活
-http://112.19.88.97:8899/rtp/239.10.0.53:5140
-#EXTINF:-1 tvg-id="2" tvg-name="巴中文旅生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/巴中文旅生活.png" group-title="四川移动",巴中文旅生活
 http://183.222.15.202:4321/rtp/239.10.0.53:5140
+#EXTINF:-1 tvg-id="2" tvg-name="巴中文旅生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/巴中文旅生活.png" group-title="四川移动",巴中文旅生活
+http://183.220.20.17:4321/rtp/239.10.0.53:5140
+#EXTINF:-1 tvg-id="3" tvg-name="巴中文旅生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/巴中文旅生活.png" group-title="四川移动",巴中文旅生活
+http://183.220.107.138:4022/rtp/239.10.0.53:5140
+#EXTINF:-1 tvg-id="4" tvg-name="巴中文旅生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/巴中文旅生活.png" group-title="四川移动",巴中文旅生活
+http://112.19.88.97:8899/rtp/239.10.0.53:5140
 #EXTINF:-1 tvg-id="1" tvg-name="达州新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/达州新闻综合.png" group-title="四川移动",达州新闻综合
-http://112.19.88.97:8899/rtp/239.10.0.54:5140
-#EXTINF:-1 tvg-id="2" tvg-name="达州新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/达州新闻综合.png" group-title="四川移动",达州新闻综合
 http://183.222.15.202:4321/rtp/239.10.0.54:5140
+#EXTINF:-1 tvg-id="2" tvg-name="达州新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/达州新闻综合.png" group-title="四川移动",达州新闻综合
+http://183.220.20.17:4321/rtp/239.10.0.54:5140
+#EXTINF:-1 tvg-id="3" tvg-name="达州新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/达州新闻综合.png" group-title="四川移动",达州新闻综合
+http://183.220.107.138:4022/rtp/239.10.0.54:5140
+#EXTINF:-1 tvg-id="4" tvg-name="达州新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/达州新闻综合.png" group-title="四川移动",达州新闻综合
+http://112.19.88.97:8899/rtp/239.10.0.54:5140
 #EXTINF:-1 tvg-id="1" tvg-name="达州文化生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/达州文化生活.png" group-title="四川移动",达州文化生活
-http://112.19.88.97:8899/rtp/239.10.0.55:5140
-#EXTINF:-1 tvg-id="2" tvg-name="达州文化生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/达州文化生活.png" group-title="四川移动",达州文化生活
 http://183.222.15.202:4321/rtp/239.10.0.55:5140
+#EXTINF:-1 tvg-id="2" tvg-name="达州文化生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/达州文化生活.png" group-title="四川移动",达州文化生活
+http://183.220.20.17:4321/rtp/239.10.0.55:5140
+#EXTINF:-1 tvg-id="3" tvg-name="达州文化生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/达州文化生活.png" group-title="四川移动",达州文化生活
+http://183.220.107.138:4022/rtp/239.10.0.55:5140
+#EXTINF:-1 tvg-id="4" tvg-name="达州文化生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/达州文化生活.png" group-title="四川移动",达州文化生活
+http://112.19.88.97:8899/rtp/239.10.0.55:5140
 #EXTINF:-1 tvg-id="1" tvg-name="德阳综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/德阳综合.png" group-title="四川移动",德阳综合
 http://171.213.220.38:4040/rtp/239.94.0.176:5140
 #EXTINF:-1 tvg-id="2" tvg-name="德阳综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/德阳综合.png" group-title="四川移动",德阳综合
@@ -21140,9 +21028,13 @@ http://171.213.144.32:8188/rtp/239.94.0.176:5140
 #EXTINF:-1 tvg-id="23" tvg-name="德阳综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/德阳综合.png" group-title="四川移动",德阳综合
 http://171.213.181.154:8189/rtp/239.94.0.176:5140
 #EXTINF:-1 tvg-id="24" tvg-name="德阳综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/德阳综合.png" group-title="四川移动",德阳综合
-http://112.19.88.97:8899/rtp/239.10.0.56:5140
-#EXTINF:-1 tvg-id="25" tvg-name="德阳综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/德阳综合.png" group-title="四川移动",德阳综合
 http://183.222.15.202:4321/rtp/239.10.0.56:5140
+#EXTINF:-1 tvg-id="25" tvg-name="德阳综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/德阳综合.png" group-title="四川移动",德阳综合
+http://183.220.20.17:4321/rtp/239.10.0.56:5140
+#EXTINF:-1 tvg-id="26" tvg-name="德阳综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/德阳综合.png" group-title="四川移动",德阳综合
+http://183.220.107.138:4022/rtp/239.10.0.56:5140
+#EXTINF:-1 tvg-id="27" tvg-name="德阳综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/德阳综合.png" group-title="四川移动",德阳综合
+http://112.19.88.97:8899/rtp/239.10.0.56:5140
 #EXTINF:-1 tvg-id="1" tvg-name="德阳文旅科教" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/德阳文旅科教.png" group-title="四川移动",德阳文旅科教
 http://171.213.220.38:4040/rtp/239.94.0.165:5140
 #EXTINF:-1 tvg-id="2" tvg-name="德阳文旅科教" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/德阳文旅科教.png" group-title="四川移动",德阳文旅科教
@@ -21190,17 +21082,29 @@ http://171.213.144.32:8188/rtp/239.94.0.165:5140
 #EXTINF:-1 tvg-id="23" tvg-name="德阳文旅科教" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/德阳文旅科教.png" group-title="四川移动",德阳文旅科教
 http://171.213.181.154:8189/rtp/239.94.0.165:5140
 #EXTINF:-1 tvg-id="24" tvg-name="德阳文旅科教" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/德阳文旅科教.png" group-title="四川移动",德阳文旅科教
-http://112.19.88.97:8899/rtp/239.10.0.57:5140
-#EXTINF:-1 tvg-id="25" tvg-name="德阳文旅科教" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/德阳文旅科教.png" group-title="四川移动",德阳文旅科教
 http://183.222.15.202:4321/rtp/239.10.0.57:5140
+#EXTINF:-1 tvg-id="25" tvg-name="德阳文旅科教" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/德阳文旅科教.png" group-title="四川移动",德阳文旅科教
+http://183.220.20.17:4321/rtp/239.10.0.57:5140
+#EXTINF:-1 tvg-id="26" tvg-name="德阳文旅科教" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/德阳文旅科教.png" group-title="四川移动",德阳文旅科教
+http://183.220.107.138:4022/rtp/239.10.0.57:5140
+#EXTINF:-1 tvg-id="27" tvg-name="德阳文旅科教" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/德阳文旅科教.png" group-title="四川移动",德阳文旅科教
+http://112.19.88.97:8899/rtp/239.10.0.57:5140
 #EXTINF:-1 tvg-id="1" tvg-name="广安新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/广安新闻综合.png" group-title="四川移动",广安新闻综合
-http://112.19.88.97:8899/rtp/239.10.0.58:5140
-#EXTINF:-1 tvg-id="2" tvg-name="广安新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/广安新闻综合.png" group-title="四川移动",广安新闻综合
 http://183.222.15.202:4321/rtp/239.10.0.58:5140
+#EXTINF:-1 tvg-id="2" tvg-name="广安新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/广安新闻综合.png" group-title="四川移动",广安新闻综合
+http://183.220.20.17:4321/rtp/239.10.0.58:5140
+#EXTINF:-1 tvg-id="3" tvg-name="广安新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/广安新闻综合.png" group-title="四川移动",广安新闻综合
+http://183.220.107.138:4022/rtp/239.10.0.58:5140
+#EXTINF:-1 tvg-id="4" tvg-name="广安新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/广安新闻综合.png" group-title="四川移动",广安新闻综合
+http://112.19.88.97:8899/rtp/239.10.0.58:5140
 #EXTINF:-1 tvg-id="1" tvg-name="广安文旅乡村" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/广安文旅乡村.png" group-title="四川移动",广安文旅乡村
-http://112.19.88.97:8899/rtp/239.10.0.59:5140
-#EXTINF:-1 tvg-id="2" tvg-name="广安文旅乡村" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/广安文旅乡村.png" group-title="四川移动",广安文旅乡村
 http://183.222.15.202:4321/rtp/239.10.0.59:5140
+#EXTINF:-1 tvg-id="2" tvg-name="广安文旅乡村" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/广安文旅乡村.png" group-title="四川移动",广安文旅乡村
+http://183.220.20.17:4321/rtp/239.10.0.59:5140
+#EXTINF:-1 tvg-id="3" tvg-name="广安文旅乡村" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/广安文旅乡村.png" group-title="四川移动",广安文旅乡村
+http://183.220.107.138:4022/rtp/239.10.0.59:5140
+#EXTINF:-1 tvg-id="4" tvg-name="广安文旅乡村" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/广安文旅乡村.png" group-title="四川移动",广安文旅乡村
+http://112.19.88.97:8899/rtp/239.10.0.59:5140
 #EXTINF:-1 tvg-id="1" tvg-name="广元新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/广元新闻综合.png" group-title="四川移动",广元新闻综合
 http://171.213.220.38:4040/rtp/239.94.0.167:5140
 #EXTINF:-1 tvg-id="2" tvg-name="广元新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/广元新闻综合.png" group-title="四川移动",广元新闻综合
@@ -21248,9 +21152,13 @@ http://171.213.144.32:8188/rtp/239.94.0.167:5140
 #EXTINF:-1 tvg-id="23" tvg-name="广元新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/广元新闻综合.png" group-title="四川移动",广元新闻综合
 http://171.213.181.154:8189/rtp/239.94.0.167:5140
 #EXTINF:-1 tvg-id="24" tvg-name="广元新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/广元新闻综合.png" group-title="四川移动",广元新闻综合
-http://112.19.88.97:8899/rtp/239.10.0.60:5140
-#EXTINF:-1 tvg-id="25" tvg-name="广元新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/广元新闻综合.png" group-title="四川移动",广元新闻综合
 http://183.222.15.202:4321/rtp/239.10.0.60:5140
+#EXTINF:-1 tvg-id="25" tvg-name="广元新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/广元新闻综合.png" group-title="四川移动",广元新闻综合
+http://183.220.20.17:4321/rtp/239.10.0.60:5140
+#EXTINF:-1 tvg-id="26" tvg-name="广元新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/广元新闻综合.png" group-title="四川移动",广元新闻综合
+http://183.220.107.138:4022/rtp/239.10.0.60:5140
+#EXTINF:-1 tvg-id="27" tvg-name="广元新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/广元新闻综合.png" group-title="四川移动",广元新闻综合
+http://112.19.88.97:8899/rtp/239.10.0.60:5140
 #EXTINF:-1 tvg-id="1" tvg-name="广元文化生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/广元文化生活.png" group-title="四川移动",广元文化生活
 http://171.213.220.38:4040/rtp/239.94.0.179:5140
 #EXTINF:-1 tvg-id="2" tvg-name="广元文化生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/广元文化生活.png" group-title="四川移动",广元文化生活
@@ -21298,9 +21206,13 @@ http://171.213.144.32:8188/rtp/239.94.0.179:5140
 #EXTINF:-1 tvg-id="23" tvg-name="广元文化生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/广元文化生活.png" group-title="四川移动",广元文化生活
 http://171.213.181.154:8189/rtp/239.94.0.179:5140
 #EXTINF:-1 tvg-id="24" tvg-name="广元文化生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/广元文化生活.png" group-title="四川移动",广元文化生活
-http://112.19.88.97:8899/rtp/239.10.0.61:5140
-#EXTINF:-1 tvg-id="25" tvg-name="广元文化生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/广元文化生活.png" group-title="四川移动",广元文化生活
 http://183.222.15.202:4321/rtp/239.10.0.61:5140
+#EXTINF:-1 tvg-id="25" tvg-name="广元文化生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/广元文化生活.png" group-title="四川移动",广元文化生活
+http://183.220.20.17:4321/rtp/239.10.0.61:5140
+#EXTINF:-1 tvg-id="26" tvg-name="广元文化生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/广元文化生活.png" group-title="四川移动",广元文化生活
+http://183.220.107.138:4022/rtp/239.10.0.61:5140
+#EXTINF:-1 tvg-id="27" tvg-name="广元文化生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/广元文化生活.png" group-title="四川移动",广元文化生活
+http://112.19.88.97:8899/rtp/239.10.0.61:5140
 #EXTINF:-1 tvg-id="1" tvg-name="乐山新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/乐山新闻综合.png" group-title="四川移动",乐山新闻综合
 http://171.213.220.38:4040/rtp/239.94.0.162:5140
 #EXTINF:-1 tvg-id="2" tvg-name="乐山新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/乐山新闻综合.png" group-title="四川移动",乐山新闻综合
@@ -21348,9 +21260,13 @@ http://171.213.144.32:8188/rtp/239.94.0.162:5140
 #EXTINF:-1 tvg-id="23" tvg-name="乐山新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/乐山新闻综合.png" group-title="四川移动",乐山新闻综合
 http://171.213.181.154:8189/rtp/239.94.0.162:5140
 #EXTINF:-1 tvg-id="24" tvg-name="乐山新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/乐山新闻综合.png" group-title="四川移动",乐山新闻综合
-http://112.19.88.97:8899/rtp/239.10.0.62:5140
-#EXTINF:-1 tvg-id="25" tvg-name="乐山新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/乐山新闻综合.png" group-title="四川移动",乐山新闻综合
 http://183.222.15.202:4321/rtp/239.10.0.62:5140
+#EXTINF:-1 tvg-id="25" tvg-name="乐山新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/乐山新闻综合.png" group-title="四川移动",乐山新闻综合
+http://183.220.20.17:4321/rtp/239.10.0.62:5140
+#EXTINF:-1 tvg-id="26" tvg-name="乐山新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/乐山新闻综合.png" group-title="四川移动",乐山新闻综合
+http://183.220.107.138:4022/rtp/239.10.0.62:5140
+#EXTINF:-1 tvg-id="27" tvg-name="乐山新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/乐山新闻综合.png" group-title="四川移动",乐山新闻综合
+http://112.19.88.97:8899/rtp/239.10.0.62:5140
 #EXTINF:-1 tvg-id="1" tvg-name="乐山文旅生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/乐山文旅生活.png" group-title="四川移动",乐山文旅生活
 http://171.213.220.38:4040/rtp/239.94.0.173:5140
 #EXTINF:-1 tvg-id="2" tvg-name="乐山文旅生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/乐山文旅生活.png" group-title="四川移动",乐山文旅生活
@@ -21398,9 +21314,13 @@ http://171.213.144.32:8188/rtp/239.94.0.173:5140
 #EXTINF:-1 tvg-id="23" tvg-name="乐山文旅生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/乐山文旅生活.png" group-title="四川移动",乐山文旅生活
 http://171.213.181.154:8189/rtp/239.94.0.173:5140
 #EXTINF:-1 tvg-id="24" tvg-name="乐山文旅生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/乐山文旅生活.png" group-title="四川移动",乐山文旅生活
-http://112.19.88.97:8899/rtp/239.10.0.63:5140
-#EXTINF:-1 tvg-id="25" tvg-name="乐山文旅生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/乐山文旅生活.png" group-title="四川移动",乐山文旅生活
 http://183.222.15.202:4321/rtp/239.10.0.63:5140
+#EXTINF:-1 tvg-id="25" tvg-name="乐山文旅生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/乐山文旅生活.png" group-title="四川移动",乐山文旅生活
+http://183.220.20.17:4321/rtp/239.10.0.63:5140
+#EXTINF:-1 tvg-id="26" tvg-name="乐山文旅生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/乐山文旅生活.png" group-title="四川移动",乐山文旅生活
+http://183.220.107.138:4022/rtp/239.10.0.63:5140
+#EXTINF:-1 tvg-id="27" tvg-name="乐山文旅生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/乐山文旅生活.png" group-title="四川移动",乐山文旅生活
+http://112.19.88.97:8899/rtp/239.10.0.63:5140
 #EXTINF:-1 tvg-id="1" tvg-name="凉山新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/凉山新闻综合.png" group-title="四川移动",凉山新闻综合
 http://171.213.220.38:4040/rtp/239.94.0.171:5140
 #EXTINF:-1 tvg-id="2" tvg-name="凉山新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/凉山新闻综合.png" group-title="四川移动",凉山新闻综合
@@ -21448,9 +21368,13 @@ http://171.213.144.32:8188/rtp/239.94.0.171:5140
 #EXTINF:-1 tvg-id="23" tvg-name="凉山新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/凉山新闻综合.png" group-title="四川移动",凉山新闻综合
 http://171.213.181.154:8189/rtp/239.94.0.171:5140
 #EXTINF:-1 tvg-id="24" tvg-name="凉山新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/凉山新闻综合.png" group-title="四川移动",凉山新闻综合
-http://112.19.88.97:8899/rtp/239.10.0.64:5140
-#EXTINF:-1 tvg-id="25" tvg-name="凉山新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/凉山新闻综合.png" group-title="四川移动",凉山新闻综合
 http://183.222.15.202:4321/rtp/239.10.0.64:5140
+#EXTINF:-1 tvg-id="25" tvg-name="凉山新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/凉山新闻综合.png" group-title="四川移动",凉山新闻综合
+http://183.220.20.17:4321/rtp/239.10.0.64:5140
+#EXTINF:-1 tvg-id="26" tvg-name="凉山新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/凉山新闻综合.png" group-title="四川移动",凉山新闻综合
+http://183.220.107.138:4022/rtp/239.10.0.64:5140
+#EXTINF:-1 tvg-id="27" tvg-name="凉山新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/凉山新闻综合.png" group-title="四川移动",凉山新闻综合
+http://112.19.88.97:8899/rtp/239.10.0.64:5140
 #EXTINF:-1 tvg-id="1" tvg-name="凉山彝语综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/凉山彝语综合.png" group-title="四川移动",凉山彝语综合
 http://171.213.220.38:4040/rtp/239.94.0.175:5140
 #EXTINF:-1 tvg-id="2" tvg-name="凉山彝语综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/凉山彝语综合.png" group-title="四川移动",凉山彝语综合
@@ -21498,9 +21422,13 @@ http://171.213.144.32:8188/rtp/239.94.0.175:5140
 #EXTINF:-1 tvg-id="23" tvg-name="凉山彝语综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/凉山彝语综合.png" group-title="四川移动",凉山彝语综合
 http://171.213.181.154:8189/rtp/239.94.0.175:5140
 #EXTINF:-1 tvg-id="24" tvg-name="凉山彝语综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/凉山彝语综合.png" group-title="四川移动",凉山彝语综合
-http://112.19.88.97:8899/rtp/239.10.0.65:5140
-#EXTINF:-1 tvg-id="25" tvg-name="凉山彝语综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/凉山彝语综合.png" group-title="四川移动",凉山彝语综合
 http://183.222.15.202:4321/rtp/239.10.0.65:5140
+#EXTINF:-1 tvg-id="25" tvg-name="凉山彝语综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/凉山彝语综合.png" group-title="四川移动",凉山彝语综合
+http://183.220.20.17:4321/rtp/239.10.0.65:5140
+#EXTINF:-1 tvg-id="26" tvg-name="凉山彝语综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/凉山彝语综合.png" group-title="四川移动",凉山彝语综合
+http://183.220.107.138:4022/rtp/239.10.0.65:5140
+#EXTINF:-1 tvg-id="27" tvg-name="凉山彝语综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/凉山彝语综合.png" group-title="四川移动",凉山彝语综合
+http://112.19.88.97:8899/rtp/239.10.0.65:5140
 #EXTINF:-1 tvg-id="1" tvg-name="眉山综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/眉山综合.png" group-title="四川移动",眉山综合
 http://171.213.220.38:4040/rtp/239.94.0.170:5140
 #EXTINF:-1 tvg-id="2" tvg-name="眉山综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/眉山综合.png" group-title="四川移动",眉山综合
@@ -21548,9 +21476,13 @@ http://171.213.144.32:8188/rtp/239.94.0.170:5140
 #EXTINF:-1 tvg-id="23" tvg-name="眉山综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/眉山综合.png" group-title="四川移动",眉山综合
 http://171.213.181.154:8189/rtp/239.94.0.170:5140
 #EXTINF:-1 tvg-id="24" tvg-name="眉山综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/眉山综合.png" group-title="四川移动",眉山综合
-http://112.19.88.97:8899/rtp/239.10.0.66:5140
-#EXTINF:-1 tvg-id="25" tvg-name="眉山综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/眉山综合.png" group-title="四川移动",眉山综合
 http://183.222.15.202:4321/rtp/239.10.0.66:5140
+#EXTINF:-1 tvg-id="25" tvg-name="眉山综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/眉山综合.png" group-title="四川移动",眉山综合
+http://183.220.20.17:4321/rtp/239.10.0.66:5140
+#EXTINF:-1 tvg-id="26" tvg-name="眉山综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/眉山综合.png" group-title="四川移动",眉山综合
+http://183.220.107.138:4022/rtp/239.10.0.66:5140
+#EXTINF:-1 tvg-id="27" tvg-name="眉山综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/眉山综合.png" group-title="四川移动",眉山综合
+http://112.19.88.97:8899/rtp/239.10.0.66:5140
 #EXTINF:-1 tvg-id="1" tvg-name="眉山文旅乡村" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/眉山文旅乡村.png" group-title="四川移动",眉山文旅乡村
 http://171.213.220.38:4040/rtp/239.94.0.174:5140
 #EXTINF:-1 tvg-id="2" tvg-name="眉山文旅乡村" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/眉山文旅乡村.png" group-title="四川移动",眉山文旅乡村
@@ -21598,17 +21530,29 @@ http://171.213.144.32:8188/rtp/239.94.0.174:5140
 #EXTINF:-1 tvg-id="23" tvg-name="眉山文旅乡村" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/眉山文旅乡村.png" group-title="四川移动",眉山文旅乡村
 http://171.213.181.154:8189/rtp/239.94.0.174:5140
 #EXTINF:-1 tvg-id="24" tvg-name="眉山文旅乡村" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/眉山文旅乡村.png" group-title="四川移动",眉山文旅乡村
-http://112.19.88.97:8899/rtp/239.10.0.67:5140
-#EXTINF:-1 tvg-id="25" tvg-name="眉山文旅乡村" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/眉山文旅乡村.png" group-title="四川移动",眉山文旅乡村
 http://183.222.15.202:4321/rtp/239.10.0.67:5140
+#EXTINF:-1 tvg-id="25" tvg-name="眉山文旅乡村" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/眉山文旅乡村.png" group-title="四川移动",眉山文旅乡村
+http://183.220.20.17:4321/rtp/239.10.0.67:5140
+#EXTINF:-1 tvg-id="26" tvg-name="眉山文旅乡村" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/眉山文旅乡村.png" group-title="四川移动",眉山文旅乡村
+http://183.220.107.138:4022/rtp/239.10.0.67:5140
+#EXTINF:-1 tvg-id="27" tvg-name="眉山文旅乡村" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/眉山文旅乡村.png" group-title="四川移动",眉山文旅乡村
+http://112.19.88.97:8899/rtp/239.10.0.67:5140
 #EXTINF:-1 tvg-id="1" tvg-name="南充综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/南充综合.png" group-title="四川移动",南充综合
-http://112.19.88.97:8899/rtp/239.10.0.68:5140
-#EXTINF:-1 tvg-id="2" tvg-name="南充综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/南充综合.png" group-title="四川移动",南充综合
 http://183.222.15.202:4321/rtp/239.10.0.68:5140
+#EXTINF:-1 tvg-id="2" tvg-name="南充综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/南充综合.png" group-title="四川移动",南充综合
+http://183.220.20.17:4321/rtp/239.10.0.68:5140
+#EXTINF:-1 tvg-id="3" tvg-name="南充综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/南充综合.png" group-title="四川移动",南充综合
+http://183.220.107.138:4022/rtp/239.10.0.68:5140
+#EXTINF:-1 tvg-id="4" tvg-name="南充综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/南充综合.png" group-title="四川移动",南充综合
+http://112.19.88.97:8899/rtp/239.10.0.68:5140
 #EXTINF:-1 tvg-id="1" tvg-name="南充科教" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/南充科教.png" group-title="四川移动",南充科教
-http://112.19.88.97:8899/rtp/239.10.0.70:5140
-#EXTINF:-1 tvg-id="2" tvg-name="南充科教" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/南充科教.png" group-title="四川移动",南充科教
 http://183.222.15.202:4321/rtp/239.10.0.70:5140
+#EXTINF:-1 tvg-id="2" tvg-name="南充科教" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/南充科教.png" group-title="四川移动",南充科教
+http://183.220.20.17:4321/rtp/239.10.0.70:5140
+#EXTINF:-1 tvg-id="3" tvg-name="南充科教" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/南充科教.png" group-title="四川移动",南充科教
+http://183.220.107.138:4022/rtp/239.10.0.70:5140
+#EXTINF:-1 tvg-id="4" tvg-name="南充科教" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/南充科教.png" group-title="四川移动",南充科教
+http://112.19.88.97:8899/rtp/239.10.0.70:5140
 #EXTINF:-1 tvg-id="1" tvg-name="内江综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/内江综合.png" group-title="四川移动",内江综合
 http://171.213.220.38:4040/rtp/239.94.0.164:5140
 #EXTINF:-1 tvg-id="2" tvg-name="内江综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/内江综合.png" group-title="四川移动",内江综合
@@ -21656,9 +21600,13 @@ http://171.213.144.32:8188/rtp/239.94.0.164:5140
 #EXTINF:-1 tvg-id="23" tvg-name="内江综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/内江综合.png" group-title="四川移动",内江综合
 http://171.213.181.154:8189/rtp/239.94.0.164:5140
 #EXTINF:-1 tvg-id="24" tvg-name="内江综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/内江综合.png" group-title="四川移动",内江综合
-http://112.19.88.97:8899/rtp/239.10.0.71:5140
-#EXTINF:-1 tvg-id="25" tvg-name="内江综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/内江综合.png" group-title="四川移动",内江综合
 http://183.222.15.202:4321/rtp/239.10.0.71:5140
+#EXTINF:-1 tvg-id="25" tvg-name="内江综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/内江综合.png" group-title="四川移动",内江综合
+http://183.220.20.17:4321/rtp/239.10.0.71:5140
+#EXTINF:-1 tvg-id="26" tvg-name="内江综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/内江综合.png" group-title="四川移动",内江综合
+http://183.220.107.138:4022/rtp/239.10.0.71:5140
+#EXTINF:-1 tvg-id="27" tvg-name="内江综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/内江综合.png" group-title="四川移动",内江综合
+http://112.19.88.97:8899/rtp/239.10.0.71:5140
 #EXTINF:-1 tvg-id="1" tvg-name="内江科教生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/内江科教生活.png" group-title="四川移动",内江科教生活
 http://171.213.220.38:4040/rtp/239.94.0.181:5140
 #EXTINF:-1 tvg-id="2" tvg-name="内江科教生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/内江科教生活.png" group-title="四川移动",内江科教生活
@@ -21706,9 +21654,13 @@ http://171.213.144.32:8188/rtp/239.94.0.181:5140
 #EXTINF:-1 tvg-id="23" tvg-name="内江科教生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/内江科教生活.png" group-title="四川移动",内江科教生活
 http://171.213.181.154:8189/rtp/239.94.0.181:5140
 #EXTINF:-1 tvg-id="24" tvg-name="内江科教生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/内江科教生活.png" group-title="四川移动",内江科教生活
-http://112.19.88.97:8899/rtp/239.10.0.73:5140
-#EXTINF:-1 tvg-id="25" tvg-name="内江科教生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/内江科教生活.png" group-title="四川移动",内江科教生活
 http://183.222.15.202:4321/rtp/239.10.0.73:5140
+#EXTINF:-1 tvg-id="25" tvg-name="内江科教生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/内江科教生活.png" group-title="四川移动",内江科教生活
+http://183.220.20.17:4321/rtp/239.10.0.73:5140
+#EXTINF:-1 tvg-id="26" tvg-name="内江科教生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/内江科教生活.png" group-title="四川移动",内江科教生活
+http://183.220.107.138:4022/rtp/239.10.0.73:5140
+#EXTINF:-1 tvg-id="27" tvg-name="内江科教生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/内江科教生活.png" group-title="四川移动",内江科教生活
+http://112.19.88.97:8899/rtp/239.10.0.73:5140
 #EXTINF:-1 tvg-id="1" tvg-name="攀枝花新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/攀枝花新闻综合.png" group-title="四川移动",攀枝花新闻综合
 http://171.213.220.38:4040/rtp/239.94.0.168:5140
 #EXTINF:-1 tvg-id="2" tvg-name="攀枝花新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/攀枝花新闻综合.png" group-title="四川移动",攀枝花新闻综合
@@ -21756,21 +21708,37 @@ http://171.213.144.32:8188/rtp/239.94.0.168:5140
 #EXTINF:-1 tvg-id="23" tvg-name="攀枝花新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/攀枝花新闻综合.png" group-title="四川移动",攀枝花新闻综合
 http://171.213.181.154:8189/rtp/239.94.0.168:5140
 #EXTINF:-1 tvg-id="24" tvg-name="攀枝花新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/攀枝花新闻综合.png" group-title="四川移动",攀枝花新闻综合
-http://112.19.88.97:8899/rtp/239.10.0.74:5140
-#EXTINF:-1 tvg-id="25" tvg-name="攀枝花新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/攀枝花新闻综合.png" group-title="四川移动",攀枝花新闻综合
 http://183.222.15.202:4321/rtp/239.10.0.74:5140
+#EXTINF:-1 tvg-id="25" tvg-name="攀枝花新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/攀枝花新闻综合.png" group-title="四川移动",攀枝花新闻综合
+http://183.220.20.17:4321/rtp/239.10.0.74:5140
+#EXTINF:-1 tvg-id="26" tvg-name="攀枝花新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/攀枝花新闻综合.png" group-title="四川移动",攀枝花新闻综合
+http://183.220.107.138:4022/rtp/239.10.0.74:5140
+#EXTINF:-1 tvg-id="27" tvg-name="攀枝花新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/攀枝花新闻综合.png" group-title="四川移动",攀枝花新闻综合
+http://112.19.88.97:8899/rtp/239.10.0.74:5140
 #EXTINF:-1 tvg-id="1" tvg-name="攀枝花文旅生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/攀枝花文旅生活.png" group-title="四川移动",攀枝花文旅生活
-http://112.19.88.97:8899/rtp/239.10.0.75:5140
-#EXTINF:-1 tvg-id="2" tvg-name="攀枝花文旅生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/攀枝花文旅生活.png" group-title="四川移动",攀枝花文旅生活
 http://183.222.15.202:4321/rtp/239.10.0.75:5140
+#EXTINF:-1 tvg-id="2" tvg-name="攀枝花文旅生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/攀枝花文旅生活.png" group-title="四川移动",攀枝花文旅生活
+http://183.220.20.17:4321/rtp/239.10.0.75:5140
+#EXTINF:-1 tvg-id="3" tvg-name="攀枝花文旅生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/攀枝花文旅生活.png" group-title="四川移动",攀枝花文旅生活
+http://183.220.107.138:4022/rtp/239.10.0.75:5140
+#EXTINF:-1 tvg-id="4" tvg-name="攀枝花文旅生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/攀枝花文旅生活.png" group-title="四川移动",攀枝花文旅生活
+http://112.19.88.97:8899/rtp/239.10.0.75:5140
 #EXTINF:-1 tvg-id="1" tvg-name="遂宁综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/遂宁综合.png" group-title="四川移动",遂宁综合
-http://112.19.88.97:8899/rtp/239.10.0.76:5140
-#EXTINF:-1 tvg-id="2" tvg-name="遂宁综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/遂宁综合.png" group-title="四川移动",遂宁综合
 http://183.222.15.202:4321/rtp/239.10.0.76:5140
+#EXTINF:-1 tvg-id="2" tvg-name="遂宁综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/遂宁综合.png" group-title="四川移动",遂宁综合
+http://183.220.20.17:4321/rtp/239.10.0.76:5140
+#EXTINF:-1 tvg-id="3" tvg-name="遂宁综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/遂宁综合.png" group-title="四川移动",遂宁综合
+http://183.220.107.138:4022/rtp/239.10.0.76:5140
+#EXTINF:-1 tvg-id="4" tvg-name="遂宁综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/遂宁综合.png" group-title="四川移动",遂宁综合
+http://112.19.88.97:8899/rtp/239.10.0.76:5140
 #EXTINF:-1 tvg-id="1" tvg-name="遂宁文化生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/遂宁文化生活.png" group-title="四川移动",遂宁文化生活
-http://112.19.88.97:8899/rtp/239.10.0.77:5140
-#EXTINF:-1 tvg-id="2" tvg-name="遂宁文化生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/遂宁文化生活.png" group-title="四川移动",遂宁文化生活
 http://183.222.15.202:4321/rtp/239.10.0.77:5140
+#EXTINF:-1 tvg-id="2" tvg-name="遂宁文化生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/遂宁文化生活.png" group-title="四川移动",遂宁文化生活
+http://183.220.20.17:4321/rtp/239.10.0.77:5140
+#EXTINF:-1 tvg-id="3" tvg-name="遂宁文化生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/遂宁文化生活.png" group-title="四川移动",遂宁文化生活
+http://183.220.107.138:4022/rtp/239.10.0.77:5140
+#EXTINF:-1 tvg-id="4" tvg-name="遂宁文化生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/遂宁文化生活.png" group-title="四川移动",遂宁文化生活
+http://112.19.88.97:8899/rtp/239.10.0.77:5140
 #EXTINF:-1 tvg-id="1" tvg-name="雅安新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/雅安新闻综合.png" group-title="四川移动",雅安新闻综合
 http://171.213.220.38:4040/rtp/239.94.0.166:5140
 #EXTINF:-1 tvg-id="2" tvg-name="雅安新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/雅安新闻综合.png" group-title="四川移动",雅安新闻综合
@@ -21818,9 +21786,13 @@ http://171.213.144.32:8188/rtp/239.94.0.166:5140
 #EXTINF:-1 tvg-id="23" tvg-name="雅安新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/雅安新闻综合.png" group-title="四川移动",雅安新闻综合
 http://171.213.181.154:8189/rtp/239.94.0.166:5140
 #EXTINF:-1 tvg-id="24" tvg-name="雅安新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/雅安新闻综合.png" group-title="四川移动",雅安新闻综合
-http://112.19.88.97:8899/rtp/239.10.0.78:5140
-#EXTINF:-1 tvg-id="25" tvg-name="雅安新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/雅安新闻综合.png" group-title="四川移动",雅安新闻综合
 http://183.222.15.202:4321/rtp/239.10.0.78:5140
+#EXTINF:-1 tvg-id="25" tvg-name="雅安新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/雅安新闻综合.png" group-title="四川移动",雅安新闻综合
+http://183.220.20.17:4321/rtp/239.10.0.78:5140
+#EXTINF:-1 tvg-id="26" tvg-name="雅安新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/雅安新闻综合.png" group-title="四川移动",雅安新闻综合
+http://183.220.107.138:4022/rtp/239.10.0.78:5140
+#EXTINF:-1 tvg-id="27" tvg-name="雅安新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/雅安新闻综合.png" group-title="四川移动",雅安新闻综合
+http://112.19.88.97:8899/rtp/239.10.0.78:5140
 #EXTINF:-1 tvg-id="1" tvg-name="雅安文化生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/雅安文化生活.png" group-title="四川移动",雅安文化生活
 http://171.213.220.38:4040/rtp/239.94.0.180:5140
 #EXTINF:-1 tvg-id="2" tvg-name="雅安文化生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/雅安文化生活.png" group-title="四川移动",雅安文化生活
@@ -21868,9 +21840,13 @@ http://171.213.144.32:8188/rtp/239.94.0.180:5140
 #EXTINF:-1 tvg-id="23" tvg-name="雅安文化生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/雅安文化生活.png" group-title="四川移动",雅安文化生活
 http://171.213.181.154:8189/rtp/239.94.0.180:5140
 #EXTINF:-1 tvg-id="24" tvg-name="雅安文化生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/雅安文化生活.png" group-title="四川移动",雅安文化生活
-http://112.19.88.97:8899/rtp/239.10.0.79:5140
-#EXTINF:-1 tvg-id="25" tvg-name="雅安文化生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/雅安文化生活.png" group-title="四川移动",雅安文化生活
 http://183.222.15.202:4321/rtp/239.10.0.79:5140
+#EXTINF:-1 tvg-id="25" tvg-name="雅安文化生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/雅安文化生活.png" group-title="四川移动",雅安文化生活
+http://183.220.20.17:4321/rtp/239.10.0.79:5140
+#EXTINF:-1 tvg-id="26" tvg-name="雅安文化生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/雅安文化生活.png" group-title="四川移动",雅安文化生活
+http://183.220.107.138:4022/rtp/239.10.0.79:5140
+#EXTINF:-1 tvg-id="27" tvg-name="雅安文化生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/雅安文化生活.png" group-title="四川移动",雅安文化生活
+http://112.19.88.97:8899/rtp/239.10.0.79:5140
 #EXTINF:-1 tvg-id="1" tvg-name="宜宾新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/宜宾新闻综合.png" group-title="四川移动",宜宾新闻综合
 http://171.213.220.38:4040/rtp/239.94.0.161:5140
 #EXTINF:-1 tvg-id="2" tvg-name="宜宾新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/宜宾新闻综合.png" group-title="四川移动",宜宾新闻综合
@@ -21918,9 +21894,13 @@ http://171.213.144.32:8188/rtp/239.94.0.161:5140
 #EXTINF:-1 tvg-id="23" tvg-name="宜宾新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/宜宾新闻综合.png" group-title="四川移动",宜宾新闻综合
 http://171.213.181.154:8189/rtp/239.94.0.161:5140
 #EXTINF:-1 tvg-id="24" tvg-name="宜宾新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/宜宾新闻综合.png" group-title="四川移动",宜宾新闻综合
-http://112.19.88.97:8899/rtp/239.10.0.80:5140
-#EXTINF:-1 tvg-id="25" tvg-name="宜宾新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/宜宾新闻综合.png" group-title="四川移动",宜宾新闻综合
 http://183.222.15.202:4321/rtp/239.10.0.80:5140
+#EXTINF:-1 tvg-id="25" tvg-name="宜宾新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/宜宾新闻综合.png" group-title="四川移动",宜宾新闻综合
+http://183.220.20.17:4321/rtp/239.10.0.80:5140
+#EXTINF:-1 tvg-id="26" tvg-name="宜宾新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/宜宾新闻综合.png" group-title="四川移动",宜宾新闻综合
+http://183.220.107.138:4022/rtp/239.10.0.80:5140
+#EXTINF:-1 tvg-id="27" tvg-name="宜宾新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/宜宾新闻综合.png" group-title="四川移动",宜宾新闻综合
+http://112.19.88.97:8899/rtp/239.10.0.80:5140
 #EXTINF:-1 tvg-id="1" tvg-name="宜宾公共频道" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/宜宾公共频道.png" group-title="四川移动",宜宾公共频道
 http://171.213.220.38:4040/rtp/239.94.0.172:5140
 #EXTINF:-1 tvg-id="2" tvg-name="宜宾公共频道" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/宜宾公共频道.png" group-title="四川移动",宜宾公共频道
@@ -21968,9 +21948,13 @@ http://171.213.144.32:8188/rtp/239.94.0.172:5140
 #EXTINF:-1 tvg-id="23" tvg-name="宜宾公共频道" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/宜宾公共频道.png" group-title="四川移动",宜宾公共频道
 http://171.213.181.154:8189/rtp/239.94.0.172:5140
 #EXTINF:-1 tvg-id="24" tvg-name="宜宾公共频道" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/宜宾公共频道.png" group-title="四川移动",宜宾公共频道
-http://112.19.88.97:8899/rtp/239.10.0.81:5140
-#EXTINF:-1 tvg-id="25" tvg-name="宜宾公共频道" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/宜宾公共频道.png" group-title="四川移动",宜宾公共频道
 http://183.222.15.202:4321/rtp/239.10.0.81:5140
+#EXTINF:-1 tvg-id="25" tvg-name="宜宾公共频道" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/宜宾公共频道.png" group-title="四川移动",宜宾公共频道
+http://183.220.20.17:4321/rtp/239.10.0.81:5140
+#EXTINF:-1 tvg-id="26" tvg-name="宜宾公共频道" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/宜宾公共频道.png" group-title="四川移动",宜宾公共频道
+http://183.220.107.138:4022/rtp/239.10.0.81:5140
+#EXTINF:-1 tvg-id="27" tvg-name="宜宾公共频道" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/宜宾公共频道.png" group-title="四川移动",宜宾公共频道
+http://112.19.88.97:8899/rtp/239.10.0.81:5140
 #EXTINF:-1 tvg-id="1" tvg-name="资阳新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/资阳新闻综合.png" group-title="四川移动",资阳新闻综合
 http://171.213.220.38:4040/rtp/239.94.0.183:5140
 #EXTINF:-1 tvg-id="2" tvg-name="资阳新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/资阳新闻综合.png" group-title="四川移动",资阳新闻综合
@@ -22018,9 +22002,13 @@ http://171.213.144.32:8188/rtp/239.94.0.183:5140
 #EXTINF:-1 tvg-id="23" tvg-name="资阳新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/资阳新闻综合.png" group-title="四川移动",资阳新闻综合
 http://171.213.181.154:8189/rtp/239.94.0.183:5140
 #EXTINF:-1 tvg-id="24" tvg-name="资阳新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/资阳新闻综合.png" group-title="四川移动",资阳新闻综合
-http://112.19.88.97:8899/rtp/239.10.0.82:5140
-#EXTINF:-1 tvg-id="25" tvg-name="资阳新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/资阳新闻综合.png" group-title="四川移动",资阳新闻综合
 http://183.222.15.202:4321/rtp/239.10.0.82:5140
+#EXTINF:-1 tvg-id="25" tvg-name="资阳新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/资阳新闻综合.png" group-title="四川移动",资阳新闻综合
+http://183.220.20.17:4321/rtp/239.10.0.82:5140
+#EXTINF:-1 tvg-id="26" tvg-name="资阳新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/资阳新闻综合.png" group-title="四川移动",资阳新闻综合
+http://183.220.107.138:4022/rtp/239.10.0.82:5140
+#EXTINF:-1 tvg-id="27" tvg-name="资阳新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/资阳新闻综合.png" group-title="四川移动",资阳新闻综合
+http://112.19.88.97:8899/rtp/239.10.0.82:5140
 #EXTINF:-1 tvg-id="1" tvg-name="自贡综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/自贡综合.png" group-title="四川移动",自贡综合
 http://171.213.220.38:4040/rtp/239.94.0.169:5140
 #EXTINF:-1 tvg-id="2" tvg-name="自贡综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/自贡综合.png" group-title="四川移动",自贡综合
@@ -22068,9 +22056,13 @@ http://171.213.144.32:8188/rtp/239.94.0.169:5140
 #EXTINF:-1 tvg-id="23" tvg-name="自贡综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/自贡综合.png" group-title="四川移动",自贡综合
 http://171.213.181.154:8189/rtp/239.94.0.169:5140
 #EXTINF:-1 tvg-id="24" tvg-name="自贡综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/自贡综合.png" group-title="四川移动",自贡综合
-http://112.19.88.97:8899/rtp/239.10.0.83:5140
-#EXTINF:-1 tvg-id="25" tvg-name="自贡综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/自贡综合.png" group-title="四川移动",自贡综合
 http://183.222.15.202:4321/rtp/239.10.0.83:5140
+#EXTINF:-1 tvg-id="25" tvg-name="自贡综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/自贡综合.png" group-title="四川移动",自贡综合
+http://183.220.20.17:4321/rtp/239.10.0.83:5140
+#EXTINF:-1 tvg-id="26" tvg-name="自贡综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/自贡综合.png" group-title="四川移动",自贡综合
+http://183.220.107.138:4022/rtp/239.10.0.83:5140
+#EXTINF:-1 tvg-id="27" tvg-name="自贡综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/自贡综合.png" group-title="四川移动",自贡综合
+http://112.19.88.97:8899/rtp/239.10.0.83:5140
 #EXTINF:-1 tvg-id="1" tvg-name="自贡文化生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/自贡文化生活.png" group-title="四川移动",自贡文化生活
 http://171.213.220.38:4040/rtp/239.94.0.178:5140
 #EXTINF:-1 tvg-id="2" tvg-name="自贡文化生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/自贡文化生活.png" group-title="四川移动",自贡文化生活
@@ -22118,17 +22110,61 @@ http://171.213.144.32:8188/rtp/239.94.0.178:5140
 #EXTINF:-1 tvg-id="23" tvg-name="自贡文化生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/自贡文化生活.png" group-title="四川移动",自贡文化生活
 http://171.213.181.154:8189/rtp/239.94.0.178:5140
 #EXTINF:-1 tvg-id="24" tvg-name="自贡文化生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/自贡文化生活.png" group-title="四川移动",自贡文化生活
-http://112.19.88.97:8899/rtp/239.10.0.84:5140
-#EXTINF:-1 tvg-id="25" tvg-name="自贡文化生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/自贡文化生活.png" group-title="四川移动",自贡文化生活
 http://183.222.15.202:4321/rtp/239.10.0.84:5140
+#EXTINF:-1 tvg-id="25" tvg-name="自贡文化生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/自贡文化生活.png" group-title="四川移动",自贡文化生活
+http://183.220.20.17:4321/rtp/239.10.0.84:5140
+#EXTINF:-1 tvg-id="26" tvg-name="自贡文化生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/自贡文化生活.png" group-title="四川移动",自贡文化生活
+http://183.220.107.138:4022/rtp/239.10.0.84:5140
+#EXTINF:-1 tvg-id="27" tvg-name="自贡文化生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/自贡文化生活.png" group-title="四川移动",自贡文化生活
+http://112.19.88.97:8899/rtp/239.10.0.84:5140
 #EXTINF:-1 tvg-id="1" tvg-name="绵阳新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/绵阳新闻综合.png" group-title="四川移动",绵阳新闻综合
-http://112.19.88.97:8899/rtp/239.10.0.96:5140
-#EXTINF:-1 tvg-id="2" tvg-name="绵阳新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/绵阳新闻综合.png" group-title="四川移动",绵阳新闻综合
 http://183.222.15.202:4321/rtp/239.10.0.96:5140
+#EXTINF:-1 tvg-id="2" tvg-name="绵阳新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/绵阳新闻综合.png" group-title="四川移动",绵阳新闻综合
+http://183.220.20.17:4321/rtp/239.10.0.96:5140
+#EXTINF:-1 tvg-id="3" tvg-name="绵阳新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/绵阳新闻综合.png" group-title="四川移动",绵阳新闻综合
+http://183.220.107.138:4022/rtp/239.10.0.96:5140
+#EXTINF:-1 tvg-id="4" tvg-name="绵阳新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/绵阳新闻综合.png" group-title="四川移动",绵阳新闻综合
+http://112.19.88.97:8899/rtp/239.10.0.96:5140
 #EXTINF:-1 tvg-id="1" tvg-name="绵阳科教生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/绵阳科教生活.png" group-title="四川移动",绵阳科教生活
-http://112.19.88.97:8899/rtp/239.10.0.98:5140
-#EXTINF:-1 tvg-id="2" tvg-name="绵阳科教生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/绵阳科教生活.png" group-title="四川移动",绵阳科教生活
 http://183.222.15.202:4321/rtp/239.10.0.98:5140
+#EXTINF:-1 tvg-id="2" tvg-name="绵阳科教生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/绵阳科教生活.png" group-title="四川移动",绵阳科教生活
+http://183.220.20.17:4321/rtp/239.10.0.98:5140
+#EXTINF:-1 tvg-id="3" tvg-name="绵阳科教生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/绵阳科教生活.png" group-title="四川移动",绵阳科教生活
+http://183.220.107.138:4022/rtp/239.10.0.98:5140
+#EXTINF:-1 tvg-id="4" tvg-name="绵阳科教生活" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/绵阳科教生活.png" group-title="四川移动",绵阳科教生活
+http://112.19.88.97:8899/rtp/239.10.0.98:5140
+#EXTINF:-1 tvg-id="1" tvg-name="云南影视" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/云南影视.png" group-title="云南电信",云南影视
+http://106.59.3.228:55555/rtp/239.200.200.15:8856
+#EXTINF:-1 tvg-id="2" tvg-name="云南影视" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/云南影视.png" group-title="云南电信",云南影视
+http://106.59.2.152:55555/rtp/239.200.200.15:8856
+#EXTINF:-1 tvg-id="1" tvg-name="云南都市" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/云南都市.png" group-title="云南电信",云南都市
+http://106.59.3.228:55555/rtp/239.200.200.12:8844
+#EXTINF:-1 tvg-id="2" tvg-name="云南都市" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/云南都市.png" group-title="云南电信",云南都市
+http://106.59.2.152:55555/rtp/239.200.200.12:8844
+#EXTINF:-1 tvg-id="1" tvg-name="云南娱乐" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/云南娱乐.png" group-title="云南电信",云南娱乐
+http://106.59.3.228:55555/rtp/239.200.200.13:8848
+#EXTINF:-1 tvg-id="2" tvg-name="云南娱乐" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/云南娱乐.png" group-title="云南电信",云南娱乐
+http://106.59.2.152:55555/rtp/239.200.200.13:8848
+#EXTINF:-1 tvg-id="1" tvg-name="云南康旅" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/云南康旅.png" group-title="云南电信",云南康旅
+http://106.59.3.228:55555/rtp/239.200.200.31:8860
+#EXTINF:-1 tvg-id="2" tvg-name="云南康旅" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/云南康旅.png" group-title="云南电信",云南康旅
+http://106.59.2.152:55555/rtp/239.200.200.31:8860
+#EXTINF:-1 tvg-id="1" tvg-name="云南少儿" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/云南少儿.png" group-title="云南电信",云南少儿
+http://106.59.3.228:55555/rtp/239.200.200.32:8864
+#EXTINF:-1 tvg-id="2" tvg-name="云南少儿" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/云南少儿.png" group-title="云南电信",云南少儿
+http://106.59.2.152:55555/rtp/239.200.200.32:8864
+#EXTINF:-1 tvg-id="1" tvg-name="澜湄国际" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/澜湄国际.png" group-title="云南电信",澜湄国际
+http://106.59.3.228:55555/rtp/239.200.200.33:8024
+#EXTINF:-1 tvg-id="2" tvg-name="澜湄国际" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/澜湄国际.png" group-title="云南电信",澜湄国际
+http://106.59.2.152:55555/rtp/239.200.200.33:8024
+#EXTINF:-1 tvg-id="1" tvg-name="楚雄新闻" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/楚雄新闻.png" group-title="云南电信",楚雄新闻
+http://106.59.3.228:55555/rtp/239.200.200.116:8708
+#EXTINF:-1 tvg-id="2" tvg-name="楚雄新闻" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/楚雄新闻.png" group-title="云南电信",楚雄新闻
+http://106.59.2.152:55555/rtp/239.200.200.116:8708
+#EXTINF:-1 tvg-id="1" tvg-name="禄丰市电视台" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/禄丰市电视台.png" group-title="云南电信",禄丰市电视台
+http://106.59.3.228:55555/rtp/239.200.200.163:8798
+#EXTINF:-1 tvg-id="2" tvg-name="禄丰市电视台" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/禄丰市电视台.png" group-title="云南电信",禄丰市电视台
+http://106.59.2.152:55555/rtp/239.200.200.163:8798
 #EXTINF:-1 tvg-id="1" tvg-name="内蒙古卫视" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/内蒙古卫视.png" group-title="内蒙古电信",内蒙古卫视
 http://123.179.62.99:4022/rtp/239.29.0.2:5000
 #EXTINF:-1 tvg-id="2" tvg-name="内蒙古卫视" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/内蒙古卫视.png" group-title="内蒙古电信",内蒙古卫视
@@ -22240,20 +22276,38 @@ http://123.179.62.99:4022/rtp/239.29.0.31:5000
 #EXTINF:-1 tvg-id="1" tvg-name="鄂尔多斯蒙语" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/鄂尔多斯蒙语.png" group-title="内蒙古电信",鄂尔多斯蒙语
 http://123.179.62.99:4022/rtp/239.29.0.33:5000
 #EXTINF:-1 tvg-id="1" tvg-name="黑龙江影视" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江影视.png" group-title="黑龙江联通",黑龙江影视
+http://221.206.41.75:4022/rtp/229.58.190.14:5000
+#EXTINF:-1 tvg-id="2" tvg-name="黑龙江影视" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江影视.png" group-title="黑龙江联通",黑龙江影视
 http://1.56.158.158:4022/rtp/229.58.190.14:5000
 #EXTINF:-1 tvg-id="1" tvg-name="黑龙江新闻法制" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江新闻法制.png" group-title="黑龙江联通",黑龙江新闻法制
+http://221.206.41.75:4022/rtp/229.58.190.16:5000
+#EXTINF:-1 tvg-id="2" tvg-name="黑龙江新闻法制" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江新闻法制.png" group-title="黑龙江联通",黑龙江新闻法制
 http://1.56.158.158:4022/rtp/229.58.190.16:5000
 #EXTINF:-1 tvg-id="1" tvg-name="黑龙江少儿" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江少儿.png" group-title="黑龙江联通",黑龙江少儿
+http://221.206.41.75:4022/rtp/229.58.190.39:5000
+#EXTINF:-1 tvg-id="2" tvg-name="黑龙江少儿" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江少儿.png" group-title="黑龙江联通",黑龙江少儿
 http://1.56.158.158:4022/rtp/229.58.190.39:5000
 #EXTINF:-1 tvg-id="1" tvg-name="黑龙江文体" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江文体.png" group-title="黑龙江联通",黑龙江文体
+http://221.206.41.75:4022/rtp/229.58.190.30:5000
+#EXTINF:-1 tvg-id="2" tvg-name="黑龙江文体" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江文体.png" group-title="黑龙江联通",黑龙江文体
 http://1.56.158.158:4022/rtp/229.58.190.30:5000
 #EXTINF:-1 tvg-id="1" tvg-name="黑龙江都市" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江都市.png" group-title="黑龙江联通",黑龙江都市
+http://221.206.41.75:4022/rtp/229.58.190.34:5000
+#EXTINF:-1 tvg-id="2" tvg-name="黑龙江都市" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/黑龙江都市.png" group-title="黑龙江联通",黑龙江都市
 http://1.56.158.158:4022/rtp/229.58.190.34:5000
 #EXTINF:-1 tvg-id="1" tvg-name="佳木斯新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/佳木斯新闻综合.png" group-title="黑龙江联通",佳木斯新闻综合
+http://221.206.41.75:4022/rtp/229.58.190.163:5000
+#EXTINF:-1 tvg-id="2" tvg-name="佳木斯新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/佳木斯新闻综合.png" group-title="黑龙江联通",佳木斯新闻综合
 http://1.56.158.158:4022/rtp/229.58.190.163:5000
 #EXTINF:-1 tvg-id="1" tvg-name="齐齐哈尔新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/齐齐哈尔新闻综合.png" group-title="黑龙江联通",齐齐哈尔新闻综合
+http://221.206.41.75:4022/rtp/229.58.190.193:5000
+#EXTINF:-1 tvg-id="2" tvg-name="齐齐哈尔新闻综合" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/齐齐哈尔新闻综合.png" group-title="黑龙江联通",齐齐哈尔新闻综合
 http://1.56.158.158:4022/rtp/229.58.190.193:5000
 #EXTINF:-1 tvg-id="1" tvg-name="齐齐哈尔经济法治" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/齐齐哈尔经济法治.png" group-title="黑龙江联通",齐齐哈尔经济法治
+http://221.206.41.75:4022/rtp/229.58.190.171:5000
+#EXTINF:-1 tvg-id="2" tvg-name="齐齐哈尔经济法治" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/齐齐哈尔经济法治.png" group-title="黑龙江联通",齐齐哈尔经济法治
 http://1.56.158.158:4022/rtp/229.58.190.171:5000
 #EXTINF:-1 tvg-id="1" tvg-name="HRBTV1" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/HRBTV1.png" group-title="黑龙江联通",HRBTV1
+http://221.206.41.75:4022/rtp/229.58.190.195:5000
+#EXTINF:-1 tvg-id="2" tvg-name="HRBTV1" tvg-logo="https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/zjyktcyfy/zj-fy/main/tv/HRBTV1.png" group-title="黑龙江联通",HRBTV1
 http://1.56.158.158:4022/rtp/229.58.190.195:5000

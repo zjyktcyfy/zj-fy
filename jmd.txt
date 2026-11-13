@@ -1,7 +1,7 @@
 公告,#genre#
 直播源均来自网络，不得商用，仅供学习交流使用。,http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
 更新日期,http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
-2026-11-12,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
+2026-11-13,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
 上海电信,#genre#
 CCTV8K,http://107.150.60.122/live/cctv8k.m3u8
 CCTV8K,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
